@@ -39,7 +39,12 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (page) => page.slug.includes("copilot-custom-prompts"),
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["copilot-custom-prompts"])
+
+        return !omit.has(node.displayName.toLowerCase())
+      },
     }),
   ],
   right: [
