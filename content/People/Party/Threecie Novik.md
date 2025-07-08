@@ -2,7 +2,7 @@
 **Pronouns:** She/They or Cee/Cem/Ceyre
 **Species:** Sapphire Dragonborn
 **Height:** 6’5”
-**Appearance:** Translucent blue scales, **glass left eye**, **scarring on left side**, always keeps **left arm covered**
+**Appearance:** Translucent blue scales, **glass left eye**, **scarring on left side**, always keeps **left arm covered**. When uncovered, the arm is found to be spectral
 
 ---
 ### **Character Overview**
@@ -17,6 +17,6 @@
 ---
 ### **Background**
 
-- Grew up in **Oreon, Aswesh**, working in the family funeral business
-- Moved to **Aeremore** two years ago after an incident that killed her twin brother and left her father in a soul-separated coma
+- Grew up in **Oreon, [[Aswesh]]**, working in the family funeral business
+- Moved to **[[Aeremore]]** two years ago after an incident that killed her twin brother and left her father in a soul-separated coma
 - On a job in Cerbereburn for her mercenary group, travelling with Lharamit

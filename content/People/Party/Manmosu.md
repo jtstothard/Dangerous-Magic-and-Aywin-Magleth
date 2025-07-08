@@ -17,5 +17,5 @@
 ### **Background**
 
 - On a **"sanctioned mission"**, details undisclosed
-- Met Robin on the road, Robin speaks very highly of him
-- Self-conscious about sharing traits (monocle, formal attire) with others like Gralstack
+- Met [[Robin Thaleia|Robin]] on the road, Robin speaks very highly of him
+- Self-conscious about sharing traits (monocle, formal attire) with others like [[Gralstak]]

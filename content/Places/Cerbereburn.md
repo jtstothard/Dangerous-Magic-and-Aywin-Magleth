@@ -16,7 +16,7 @@
 
 | Name                    | Residence               | Notes                                                                                                                                                                       |
 | ----------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mallone Ulaxidor        | Mallone Ulaxidor's Home | The now-deceased lawmaster. A well-respected figure who tried to keep the town's factions in check. Killed by a clean dagger stab, no obvious signs of a struggle           |
+| [[Mallone Ulaxidor]]    | Mallone Ulaxidor's Home | The now-deceased lawmaster. A well-respected figure who tried to keep the town's factions in check. Killed by a clean dagger stab, no obvious signs of a struggle           |
 | Bertrum Greyson         | Greyson Tools           | Blacksmith; accused of polluting the river. Grumpy and defensive.                                                                                                           |
 | Saria Tallbloom         | Tallbloom Home          | Runs the stables. Concerned about river pollution harming her horses.                                                                                                       |
 | Amara Tallbloom         | Tallbloom Home          |                                                                                                                                                                             |
@@ -33,7 +33,7 @@
 | Ramman Onyxguard        | Brighrood Apartments    |                                                                                                                                                                             |
 | Snadwe Wemdiem          | Brighrood Apartments    |                                                                                                                                                                             |
 | Danlas Ligroves         | Ligroves Home           |                                                                                                                                                                             |
-| Marius Ligroves         | Ligroves Home           | Nervous and inexperienced gnome deputy lawmaster, suddenly in charge and overwhelmed.  <br>  <br>Farmer worried the Keggronites are trying to take over his land.           |
+| [[Marius Ligroves]]     | Ligroves Home           | Nervous and inexperienced gnome deputy lawmaster, suddenly in charge and overwhelmed.  <br>  <br>Farmer worried the Keggronites are trying to take over his land.           |
 | Tango Fowler            | Fowler Home             | Found the body                                                                                                                                                              |
 | Foxtrot Fowler          | Fowler Home             |                                                                                                                                                                             |
 

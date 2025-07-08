@@ -13,6 +13,6 @@
 ---
 ### **Background**
 
-- Heading to **Aeramore** to **study magic**, likely at a formal institution
-- Met Gralstack on the road, seems to tolerate him but also takes a leadership role when needed
+- Heading to **[[Aeremore]]** to **study magic**, likely at a formal institution
+- Met [[Gralstak]] on the road, seems to tolerate him but also takes a leadership role when needed
 - From a family from the Peace Domain that worships [[Rainia, the Winged Harmoniser]]
