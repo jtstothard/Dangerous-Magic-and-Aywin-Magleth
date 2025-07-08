@@ -38,44 +38,44 @@ Pairs:
 
 ## **Lharamit & Manmosu:**
 
-- Investigated Mallone's house.
-- Manmosu tried to break in; Lharamit got the key.
-- Found Mallone’s journal: notes about local disputes:
-    - Pollution feud between Bertrum (blacksmith) & Saria (stables).
-    - Keggronites buying land, especially Strondabella.
-    - Local farmer Marius suspicious of Keggronites.
-    - Dhunta Rannacit: general complainer, disliked by Mallone.
+- Investigated [[Mallone Ulaxidor|Mallone]]'s house.
+- [[Manmosu]] tried to break in; [[Lharamit Pirevin Rhyne|Lharamit]] got the key.
+- Found [[Mallone Ulaxidor|Mallone]]’s journal: notes about local disputes:
+    - Pollution feud between [[Bertrum Greyson|Bertrum]] (blacksmith) & [[Saria Tallbloom|Saria]] (stables).
+    - Keggronites buying land, especially [[Strondabella Keggranite|Strondabella]].
+    - Local farmer [[Narchis Cloudbrow|Narchis]] suspicious of Keggronites.
+    - [[Dhunta Rannacit]]: general complainer, disliked by [[Mallone Ulaxidor|Mallone]].
 
 ## **Robin & Gralstak:**
 
-- Investigated the tiefling Risgara.
-- Gralstak barged in; Robin used _Charm Person_ and later _Sleep_.
+- Investigated the tiefling [[Risgara Geraves|Risgara]].
+- [[Gralstak]] barged in; [[Robin Thaleia|Robin]] used _Charm Person_ and later _Sleep_.
 - Tiefling’s house was messy, nothing suspicious, cutlery unused.
 
 ## **Lyra & Gralstak:**
 
-- Questioned Bertrum the blacksmith.
-- Lyra recreated the murder weapon with _Minor Illusion_.
-- Bertrum couldn't identify it. Gralstak’s intimidation failed.
+- Questioned [[Bertrum Greyson|Bertrum]] the blacksmith.
+- [[Lyra Shadowflame|Lyra]] recreated the murder weapon with _Minor Illusion_.
+- [[Bertrum Greyson|Bertrum]] couldn't identify it. [[Gralstak]]’s intimidation failed.
 
 ## **Threecie & Manmosu:**
 
-- Questioned Dhunta (accuser).
+- Questioned [[Dhunta Rannacit|Dhunta]] (accuser).
 - Complained about farms, land purchases, and town decline.
-- Suspects Keggronites. Her wife Javu was polite but quiet.
+- Suspects Keggronites. Her wife [[Javu Rannacit|Javu]] was polite but quiet.
 
 ## **Robin & Lharamit:**
 
-- Visited the Keggronites (Jafrat and Strondabella).
-- Jafrat suspected the tiefling; was polite but evasive.
-- Strondabella watched carefully, seemed wary.
-- Lharamit interested in their documents; Robin hinted at sneaky access but was unsure.
+- Visited the Keggronites ([[Jafrak Keggranite|Jafrak]] and [[Strondabella Keggranite|Strondabella]]).
+- [[Jafrak Keggranite|Jafrak]] suspected the tiefling; was polite but evasive.
+- [[Strondabella Keggranite|Strondabella]] watched carefully, seemed wary.
+- [[Lharamit Pirevin Rhyne|Lharamit]] interested in their documents; [[Robin Thaleia|Robin]] hinted at sneaky access but was unsure.
 
 ---
 
 # **Key Leads:**
 
-- Mallone was investigating land disputes and political tensions in town.
-- Multiple locals (especially Dhunta and Marius) suspect the Keggronites.
+- [[Mallone Ulaxidor|Mallone]] was investigating land disputes and political tensions in town.
+- Multiple locals (especially [[Dhunta Rannacit|Dhunta]] and [[Narchis Cloudbrow|Narchis]]) suspect the Keggronites.
 - Tiefling was likely a red herring, no clear evidence he was involved.
-- No signs Mallone returned home after leaving the tavern.
+- No signs [[Mallone Ulaxidor|Mallone]] returned home after leaving the tavern.

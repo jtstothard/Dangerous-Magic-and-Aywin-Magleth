@@ -14,6 +14,7 @@ aliases:
 
 - **Class:** **Cleric/Wizard**
 - **Personality:** Bookish, observant, direct.
+- **Familiar**: [[Hooty]] the owl
 
 ---
 ### **Background**
