@@ -43,7 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
         // set containing names of everything you want to filter out
         const omit = new Set(["copilot-custom-prompts"])
 
-        return !omit.has(node.displayName.toLowerCase())
+        return !omit.has(node.slug.toLowerCase())
       },
     }),
   ],

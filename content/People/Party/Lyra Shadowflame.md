@@ -1,3 +1,8 @@
+---
+aliases:
+  - Lyra
+---
+
 **Pronouns:** She/Her
 **Species:** Tiefling
 **Height:** 5’8”

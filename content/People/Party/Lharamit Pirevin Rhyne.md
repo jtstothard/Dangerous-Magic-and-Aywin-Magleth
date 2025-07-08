@@ -1,3 +1,8 @@
+---
+aliases:
+  - Lharamit
+---
+
 **Pronouns:** She/Her
 **Species:** Bnuuy (anthropomorphic rabbitfolk)
 **Height:** 4'5"

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Threecie
+---
+
 ![[Pasted image 20250704125835.png]]
 **Pronouns:** She/They or Cee/Cem/Ceyre
 **Species:** Sapphire Dragonborn

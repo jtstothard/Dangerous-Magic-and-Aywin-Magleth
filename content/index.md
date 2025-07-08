@@ -1,3 +1,7 @@
+---
+title: Dangerous Magic and Aywin Magleth
+---
+
 # Dangerous Magic and Aywin Magleth
 ## Party
 - Evie as [[Threecie Novik]]

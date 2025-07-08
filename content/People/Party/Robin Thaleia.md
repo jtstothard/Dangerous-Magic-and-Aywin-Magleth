@@ -1,3 +1,8 @@
+---
+aliases:
+  - Robin
+---
+
 **Pronouns:** He/Him
 **Species:** Human-looking (but ethereally pretty—may be aasimar, elf-blooded, or subtly magical)
 **Height:** 5’8”
