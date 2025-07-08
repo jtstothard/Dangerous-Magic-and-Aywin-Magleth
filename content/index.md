@@ -1,5 +1,5 @@
 # Party
-- Evie as [[Threecie Novik]]
+- Evie as Threecie Novik
 - Cass as Lharamit Pirevin Rhyne (she/they)
 - Karl as Manmosu
 - Joe as Gralstak
