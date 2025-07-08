@@ -27,7 +27,7 @@
 
 ---
 
-## **Snooping Marrius' House**
+## **Snooping Marius' House**
 
 - **[[Robin Thaleia|Robin]]** and **[[Lharamit Pirevin Rhyne|Lharamit]]** snuck into the [[Marius Ligroves|Marius]] and [[Danlas Ligroves|Danlas]] household while the others distracted [[Danlas Ligroves|Danlas]]
 - [[Robin Thaleia|Robin]] misty stepped into the house, made a noise, and pretended a loom had fallen to cover his presence
