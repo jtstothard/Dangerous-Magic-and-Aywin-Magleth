@@ -1,4 +1,4 @@
-# 🎲 **Last Time in Cerbereburn** (Quick Recap)
+# 🎲 **Last Time in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** (Quick Recap)
 
 - [[Lyra Shadowflame|Lyra]] and [[Gralstak]] searched the river for the murder weapon but found nothing
 - [[Robin Thaleia|Robin]] and [[Lharamit Pirevin Rhyne|Lharamit]] decided not to break into the Keggronite house

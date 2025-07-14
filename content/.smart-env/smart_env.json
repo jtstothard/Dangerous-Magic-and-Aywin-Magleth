@@ -1,0 +1,99 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {}
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "expanded_view": false
+  },
+  "excluded_headings": "",
+  "language": "en",
+  "new_user": true,
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {
+        "model_key": "deepseek-r1:14b",
+        "models": {
+          "deepseek-r1:14b": {
+            "model_name": "deepseek-r1:14b",
+            "id": "deepseek-r1:14b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          },
+          "gemma3n:latest": {
+            "model_name": "gemma3n:latest",
+            "id": "gemma3n:latest",
+            "multimodal": false,
+            "max_input_tokens": 32768,
+            "can_use_tools": true
+          },
+          "gemma3:12b": {
+            "model_name": "gemma3:12b",
+            "id": "gemma3:12b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          }
+        }
+      }
+    },
+    "active_thread_key": "Untitled Chat 1752519874245",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
+  },
+  "smart_notices": {
+    "muted": {
+      "new_version_available": true,
+      "embedding_complete": true,
+      "done_import": true,
+      "embedding_progress": true
+    }
+  },
+  "version": "",
+  "smart_contexts": {
+    "link_depth": 0,
+    "inlinks": false,
+    "follow_links_in_excluded": true,
+    "excluded_headings": [],
+    "max_len": 0,
+    "templates": {
+      "0": {
+        "before": "<context_primary path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+        "after": "</context_primary>"
+      },
+      "1": {
+        "before": "<context_linked path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+        "after": "</context_linked>"
+      },
+      "-1": {
+        "before": "<context>\n<file_tree>\n{{FILE_TREE}}\n</file_tree>",
+        "after": "</context>"
+      }
+    }
+  }
+}

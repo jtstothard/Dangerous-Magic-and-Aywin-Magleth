@@ -1,0 +1,53 @@
+# 🐺 Last Time in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] (Quick Recap)
+
+- [[Lharamit Pirevin Rhyne|Lharamit]] and [[Gralstak]] examined the werechickens
+  - Most were infected by other chickens
+  - One had large bite marks, likely from a bigger creature
+- The party discussed the three moons and their link to lycanthropy
+  - Each lycanthrope is tied to a specific moon
+  - Full moons cause forced transformations
+- [[Threecie Novik|Threecie]] publicly accused the town of harbouring a werewolf
+  - Villagers gathered to prove their innocence
+- A distant scream led to a party split
+  - [[Threecie Novik|Threecie]], [[Lharamit Pirevin Rhyne|Lharamit]], and [[Lyra Shadowflame|Lyra]] checked on the Keggronites
+  - [[Robin Thaleia|Robin]] and [[Gralstak]] searched the Brightroot Apartments
+- [[Lharamit Pirevin Rhyne|Lharamit]] visited the Fowlers, learned [[Foxtrot Fowler|Foxtrot]] was missing
+- [[Gralstak]] camped outside the blacksmith’s, others took shifts watching the apartments
+- Next morning, the inn was deserted
+  - [[Marius Ligroves|Marius]] and [[Strondabella Keggranite|Strondabella]] arrested [[Lyra Shadowflame|Lyra]] and [[Manmosu]]
+- The remaining party found [[Zymis Wenben|Zymis]]’ torn-up body in the forest
+  - His room showed signs of a struggle, window left open
+- [[Robin Thaleia|Robin]] sneaked in to investigate the room but found little
+- [[Foxtrot Fowler|Foxtrot]] was charmed by [[Robin Thaleia|Robin]]
+  - Shocked by the werechickens and hiding something
+- [[Gralstak]] carried off [[Marius Ligroves|Marius]] when spellcasting arrest was attempted
+  - [[Amara Tallbloom|Amara]] alerted her mother, said their family was home all night
+
+# 🔍 Potential Next Leads
+
+- **[[Foxtrot Fowler|Foxtrot]]’s Secrets**
+  - Shocked by werechickens
+  - Clearly hiding something
+  - Connection to forest or [[Strondabella Keggranite|Strondabella]]?
+- **[[Mrs Cluckerson]]**
+  - Still missing
+  - Possibly feral or turned
+  - Could be linked to infection spread
+- **[[Risgara Geraves|Risgara]]’s Whereabouts**
+  - Door was locked during the scream
+  - Wasn’t seen during werewolf roll call
+- **Forest Clues**
+  - [[Zymis Wenben|Zymis]]’ body had nearby blood trail
+  - Could lead to the werewolf or another scene
+- **[[Marius Ligroves|Marius]] and [[Strondabella Keggranite|Strondabella]]**
+  - Why detain [[Lyra Shadowflame|Lyra]] and [[Manmosu]]?
+  - Are they obstructing, controlling, or just panicking?
+- **Lycanthropy Lore**
+  - Check church, old books, or [[Dhunta Rannacit|Dhunta]] for lore
+  - Is there precedent for werechickens?
+- **[[Shayee Cloudbrow|Shayee]] and [[Syndra Tallbloom|Syndra]]**
+  - Alibis line up again
+  - [[Shayee Cloudbrow|Shayee]]’s magic or bloodline may matter
+- **[[Bertrum Greyson|Bertrum]] the Blacksmith**
+  - Still unaccounted for
+  - Suspected for knife, pollution, and evasive behaviour

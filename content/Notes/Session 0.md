@@ -1,6 +1,6 @@
-- Continent: [[Jealeon]]
+- Continent: [[Places/Continents/Jealeon/index|Jealeon]]
 - Campaign city: [[Aeremore]]
-- Surrounded by [[Aswesh]] and [[Aswen]], they hate eachother
+- Surrounded by [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]] and [[Aswen]], they hate eachother
 - [[East Meashelles|East]] and [[West Meashelles]] formerly one nation, split due to financial disparity
 - [[Lyra Shadowflame|Lyra]] from [[Spuaburg]] (Peace Domain), was at war with [[Loshium]] (Life domain, [[Zurasus]]), not a religious war
 - Peace keepers vs Pacifiers

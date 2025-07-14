@@ -1,4 +1,4 @@
-# **Party Members (in [[Cerbereburn]], at The Owlbear Cub tavern):**
+# **Party Members (in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], at The Owlbear Cub tavern):**
 
 - **[[Lharamit Pirevin Rhyne|Lharamit]]** – 4'5" brown-furred bnuuy with a fluffy mane and religious vestments. Acolyte of [[Shallandra]].
 - **[[Threecie Novik|Threecie]]** – 6'5" blue-scaled dragonborn with a glass eye and a fully gloved arm. Mercenary on an errand.

@@ -2,8 +2,8 @@
 - Parents offered me passage on a ship moving military supplies up the coast, I refused as I wanted to go my own way
 - Headed into to [[Kespice]] to find a way to cross to [[Aswen]], I paid for travel on a boat but later realised it was a pirate vessel
 - They raided other ships and pillaged, but I was always kept safe and assured of my passage
-- Held at the border of [[Aswesh]] to check all my belongings
+- Held at the border of [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]] to check all my belongings
 - Met [[Gralstak]], he was covered in bottles of potions, arguing with the border guard about letting him in, he took a potion, i asked lots of questions
 - We’re both heading to [[Aeremore]] so travelled together
 - Attacked by half orc and their bore Betsy, we killed them both to survive. I stripped the bore for meat as I had read in a book one time
-- Heading into [[Cerbereburn]] for next session
+- Heading into [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] for next session

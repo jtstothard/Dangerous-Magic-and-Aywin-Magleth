@@ -1,5 +1,5 @@
 # Investigation continued
-## **Gralstak & Lyra: River Investigation**
+## **[[Gralstak]] & [[Lyra Shadowflame|Lyra]]: River Investigation**
 
 - Investigated the river behind the blacksmith
 - Narrow and deep, but slow moving. A dagger wouldn’t drift far, likely sank
