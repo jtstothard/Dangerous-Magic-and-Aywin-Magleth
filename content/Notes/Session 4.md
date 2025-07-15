@@ -1,8 +1,9 @@
 ---
+aliases: []
 tags: []
 title: Session 4
 date created: Monday, July 14th 2025, 10:59:14 pm
-date modified: Tuesday, July 15th 2025, 10:55:53 am
+date modified: Tuesday, July 15th 2025, 11:17:14 am
 ---
 
 ## **Aftermath Of the Werechicken Attack**
@@ -179,7 +180,7 @@ date modified: Tuesday, July 15th 2025, 10:55:53 am
    - [[Risgex Cloudbrow|Risgex]] and [[Shayee Cloudbrow|Shayee]] may have additional observations
    - New information following the barn incident
 
-5. **Brightroot Apartments Surveillance**
+5. **[[Brightroot Apartments]] Surveillance**
    - [[Shayee Cloudbrow|Shayee]]'s implications about Keggronite payments to residents
    - Flattened grass evidence suggesting recent clandestine activity
 

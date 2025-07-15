@@ -1,8 +1,9 @@
 ---
+aliases: []
 tags: []
 title: Session 5
 date created: Monday, July 14th 2025, 7:46:14 pm
-date modified: Tuesday, July 15th 2025, 10:55:54 am
+date modified: Tuesday, July 15th 2025, 11:17:20 am
 ---
 
 ## Previous Session Recap
@@ -30,7 +31,7 @@ date modified: Tuesday, July 15th 2025, 10:55:54 am
 
 - Distant screaming led to tactical party division
 - Team Alpha investigated Keggronites (appeared innocent)
-- Team Beta searched Brightroot Apartments (mostly empty, [[Risgara Geraves|Risgara]] missing)
+- Team Beta searched [[Brightroot Apartments]] (mostly empty, [[Risgara Geraves|Risgara]] missing)
 
 ### **Night Surveillance Results**
 

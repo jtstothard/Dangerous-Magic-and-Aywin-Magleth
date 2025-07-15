@@ -53,7 +53,7 @@ date modified: Tuesday, July 15th 2025, 10:55:10 am
 **Magical Abilities in Investigation:**
 - **Thaumaturgy for announcements** - Used *Thaumaturgy* to loudly announce the werewolf threat to the entire town
 - **Public leadership** - Demanded townspeople present themselves to confirm identities during the supernatural crisis
-- **Eldritch Blast for access** - *Eldritch Blasted* a door open at Brightroot Apartments when conventional methods failed
+- **Eldritch Blast for access** - *Eldritch Blasted* a door open at [[Brightroot Apartments]] when conventional methods failed
 
 **Investigation Partnerships:**
 - **Primary partner:** [[Lharamit Pirevin Rhyne|Lharamit]] (known each other for a few months)
