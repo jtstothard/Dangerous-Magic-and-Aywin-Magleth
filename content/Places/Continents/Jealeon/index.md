@@ -1,9 +1,10 @@
 ---
+aliases: []
 tags: []
-title: index
+title: Jealeon
 type: Continent
 date created: Tuesday, July 8th 2025, 3:50:26 pm
-date modified: Tuesday, July 15th 2025, 11:02:44 am
+date modified: Tuesday, July 15th 2025, 11:10:53 am
 ---
 
 ![[Pasted image 20250708155045.webp]]

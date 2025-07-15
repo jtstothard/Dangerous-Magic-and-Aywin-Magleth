@@ -1,8 +1,9 @@
 ---
+aliases: []
 tags: []
 title: Aswesh
 date created: Tuesday, July 8th 2025, 3:48:14 pm
-date modified: Tuesday, July 15th 2025, 10:55:27 am
+date modified: Tuesday, July 15th 2025, 11:10:58 am
 ---
 
 A region within the continent of [[Places/Continents/Jealeon/index|Jealeon]], known for its strict border controls and ongoing political tensions with neighbouring [[Aswen]].
