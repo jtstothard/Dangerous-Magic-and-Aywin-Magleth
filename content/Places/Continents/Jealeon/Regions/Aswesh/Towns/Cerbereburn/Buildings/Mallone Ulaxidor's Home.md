@@ -8,7 +8,7 @@ date modified: Tuesday, July 15th 2025, 10:55:31 am
 
 ## **Building Summary**
 
-**Mallone Ulaxidor's Home** was the residence of [[Cerbereburn|Cerbereburn]]'s respected lawmaster until her recent murder. This modest dwelling has become a crucial investigation site, containing important evidence about the town's political tensions and the circumstances surrounding [[Mallone Ulaxidor|Mallone]]'s death.
+**Mallone Ulaxidor's Home** was the residence of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]'s respected lawmaster until her recent murder. This modest dwelling has become a crucial investigation site, containing important evidence about the town's political tensions and the circumstances surrounding [[Mallone Ulaxidor|Mallone]]'s death.
 
 ---
 
@@ -16,7 +16,7 @@ date modified: Tuesday, July 15th 2025, 10:55:31 am
 
 - **Architecture**: Modest and orderly house reflecting [[Mallone Ulaxidor|Mallone]]'s practical nature
 - **Condition**: Well maintained, showing the lawmaster's attention to detail
-- **Location**: Residential area of [[Cerbereburn]]
+- **Location**: Residential area of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]
 - **Crime Scene Status**: No signs of struggle within the home
 
 ---

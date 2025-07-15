@@ -40,6 +40,6 @@ date modified: Tuesday, July 15th 2025, 10:34:15 am
 
 ## Current Status
 
-Marius remains in the difficult position of trying to maintain order and investigate crimes that are clearly beyond his capabilities and experience level. His collaboration with [[Strondabella Keggranite|Strondabella]] and his interference with the investigation continue to raise questions about whether he's simply incompetent, corrupt, or being manipulated by more powerful forces in [[Cerbereburn|Cerbereburn]].
+Marius remains in the difficult position of trying to maintain order and investigate crimes that are clearly beyond his capabilities and experience level. His collaboration with [[Strondabella Keggranite|Strondabella]] and his interference with the investigation continue to raise questions about whether he's simply incompetent, corrupt, or being manipulated by more powerful forces in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]].
 
 His nervous demeanour and poor decision-making have made him more of an obstacle than a help to resolving the crises facing the town, while his family's political ambitions add another layer of complication to his already overwhelming situation.

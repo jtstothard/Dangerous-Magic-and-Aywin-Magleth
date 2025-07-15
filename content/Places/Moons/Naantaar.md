@@ -14,7 +14,7 @@ date modified: Tuesday, July 15th 2025, 10:55:40 am
 
 ## Lycanthropic Connections
 
-Based on discussions during the [[Cerbereburn|Cerbereburn]] investigations:
+Based on discussions during the [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] investigations:
 
 - Each lycanthrope is tied to a specific moon
 - Full moons cause forced transformations
@@ -23,4 +23,4 @@ Based on discussions during the [[Cerbereburn|Cerbereburn]] investigations:
 
 - [[Lumbadar]] - The first moon
 - [[Rantis]] - The third moon
-- [[Cerbereburn|Cerbereburn]] - Site of lycanthropic investigations
+- [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] - Site of lycanthropic investigations

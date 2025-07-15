@@ -5,7 +5,7 @@ date created: Tuesday, July 8th 2025, 3:48:14 pm
 date modified: Tuesday, July 15th 2025, 10:55:27 am
 ---
 
-A region within the continent of [[Jealeon|Jealeon]], known for its strict border controls and ongoing political tensions with neighbouring [[Aswen]].
+A region within the continent of [[Places/Continents/Jealeon/index|Jealeon]], known for its strict border controls and ongoing political tensions with neighbouring [[Aswen]].
 
 ## Overview
 
@@ -15,4 +15,4 @@ A region within the continent of [[Jealeon|Jealeon]], known for its strict borde
 
 ### Towns
 
-- **[[Cerbereburn|Cerbereburn]]**: A small rural town currently dealing with murder mysteries and supernatural threats (werechickens, werewolves)
+- **[[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]**: A small rural town currently dealing with murder mysteries and supernatural threats (werechickens, werewolves)

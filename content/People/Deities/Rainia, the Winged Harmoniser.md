@@ -21,4 +21,4 @@ date modified: Tuesday, July 15th 2025, 10:55:20 am
 
 ### Regional Context
 
-[[Spuaburg]] (associated with Rainia) was recently in conflict with [[Loshium]] (associated with [[Zurasus]]), though this was described as "not a religious war," as it was a war for access to the canal that connects [[Jealeon]] to the ocean.
+[[Spuaburg]] (associated with Rainia) was recently in conflict with [[Loshium]] (associated with [[Zurasus]]), though this was described as "not a religious war," as it was a war for access to the canal that connects [[Places/Continents/Jealeon/index|Jealeon]] to the ocean.

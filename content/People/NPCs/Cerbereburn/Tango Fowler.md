@@ -7,7 +7,7 @@ date created: Tuesday, July 8th 2025, 5:13:36 pm
 date modified: Tuesday, July 15th 2025, 10:52:47 am
 ---
 
-**Tango Fowler** is a resident of [[Cerbereburn|Cerbereburn]] who discovered [[Mallone Ulaxidor|Mallone]]'s murdered body, making them the first witness in the investigation. They live with their partner [[Foxtrot Fowler|Foxtrot]] in the Fowler Home.
+**Tango Fowler** is a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who discovered [[Mallone Ulaxidor|Mallone]]'s murdered body, making them the first witness in the investigation. They live with their partner [[Foxtrot Fowler|Foxtrot]] in the Fowler Home.
 
 ## Key Characteristics
 

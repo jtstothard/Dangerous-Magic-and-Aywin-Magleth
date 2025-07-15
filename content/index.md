@@ -1,11 +1,11 @@
 ---
 tags: []
-title: Dangerous Magic and Aywin Magleth
+title: index
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Tuesday, July 15th 2025, 10:55:43 am
+date modified: Tuesday, July 15th 2025, 11:02:32 am
 ---
 
-Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Jealeon|Jealeon]] and beyond.
+Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
 
 ## 🎭 The Party
 
@@ -31,9 +31,9 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 🌍 The World
 
-- **[[Jealeon|Jealeon]]** - The main continent where our adventures take place
-  - **[[Aswesh|Aswesh]]** - A key region in our campaign
-	- **[[Cerbereburn|Cerbereburn]]** - Important town with many NPCs and locations
+- **[[Places/Continents/Jealeon/index|Jealeon]]** - The main continent where our adventures take place
+  - **[[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]]** - A key region in our campaign
+	- **[[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** - Important town with many NPCs and locations
 
 ### 👥 Important People
 
@@ -46,8 +46,8 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 🏛️ Notable Locations
 
-- **[[Jealeon|Jealeon]]** - Our home continent
-- **[[Cerbereburn|Cerbereburn]]** - Key town with important buildings and NPCs
+- **[[Places/Continents/Jealeon/index|Jealeon]]** - Our home continent
+- **[[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** - Key town with important buildings and NPCs
 - **[[Lumbadar]]**, **[[Naantaar]]**, **[[Rantis]]** - The three moons
 
 ## 🗂️ Quick Navigation

@@ -7,7 +7,7 @@ date created: Monday, July 14th 2025, 7:43:54 pm
 date modified: Tuesday, July 15th 2025, 10:55:05 am
 ---
 
-**Zymis Wenben** was a resident of [[Cerbereburn|Cerbereburn]] who lived in the [[Brightroot Apartments]]. He became the second murder victim in the town's crisis, killed by what appears to be a werewolf attack in his own room.
+**Zymis Wenben** was a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who lived in the [[Brightroot Apartments]]. He became the second murder victim in the town's crisis, killed by what appears to be a werewolf attack in his own room.
 
 ## Key Characteristics
 
@@ -25,7 +25,7 @@ date modified: Tuesday, July 15th 2025, 10:55:05 am
 
 ## Role in the Investigation
 
-**Escalation Point:** Zymis's murder marked the escalation from a single murder investigation to a supernatural crisis, confirming that multiple threats were active in [[Cerbereburn|Cerbereburn]] simultaneously.
+**Escalation Point:** Zymis's murder marked the escalation from a single murder investigation to a supernatural crisis, confirming that multiple threats were active in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] simultaneously.
 
 **Blocked Investigation:** [[Marius Ligroves|Marius]] blocked further investigation of Zymis's room, suggesting either official protocols or potential cover up attempts that complicated the party's ability to gather evidence.
 
@@ -39,4 +39,4 @@ date modified: Tuesday, July 15th 2025, 10:55:05 am
 
 ## Current Status
 
-Zymis's death serves as a crucial piece of evidence in understanding the supernatural threat level in [[Cerbereburn|Cerbereburn]]. His murder confirmed that the party was dealing with multiple types of threats, both human murderers and lycanthropic creatures, requiring different investigative approaches and safety precautions.
+Zymis's death serves as a crucial piece of evidence in understanding the supernatural threat level in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]. His murder confirmed that the party was dealing with multiple types of threats, both human murderers and lycanthropic creatures, requiring different investigative approaches and safety precautions.

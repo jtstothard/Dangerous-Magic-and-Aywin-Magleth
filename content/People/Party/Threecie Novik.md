@@ -31,7 +31,7 @@ date modified: Tuesday, July 15th 2025, 10:55:10 am
 
 ## **Background**
 
-- Grew up in **Oreon, [[Aswesh|Aswesh]]**, working in the family funeral business
+- Grew up in **Oreon, [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]]**, working in the family funeral business
 - Moved to **[[Aeremore]]** two years ago after an incident that killed her twin brother and left her father in a soul-separated coma
 - On a job in Cerbereburn for her mercenary group, travelling with Lharamit
 

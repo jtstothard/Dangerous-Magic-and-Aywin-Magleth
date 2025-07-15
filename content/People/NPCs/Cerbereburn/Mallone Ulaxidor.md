@@ -7,7 +7,7 @@ date created: Tuesday, July 8th 2025, 4:10:56 pm
 date modified: Tuesday, July 15th 2025, 10:32:28 am
 ---
 
-**Mallone Ulaxidor** was the lawmaster of [[Cerbereburn|Cerbereburn]], a middle aged half elf who maintained order in the increasingly troubled town until her murder sparked the investigation that uncovered both political conspiracies and supernatural threats.
+**Mallone Ulaxidor** was the lawmaster of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], a middle aged half elf who maintained order in the increasingly troubled town until her murder sparked the investigation that uncovered both political conspiracies and supernatural threats.
 
 ## Key Characteristics
 
@@ -18,7 +18,7 @@ date modified: Tuesday, July 15th 2025, 10:32:28 am
 
 ## Role as Lawmaster
 
-**Investigation and Documentation:** Mallone kept a detailed journal documenting the various conflicts and tensions in [[Cerbereburn|Cerbereburn]], including:
+**Investigation and Documentation:** Mallone kept a detailed journal documenting the various conflicts and tensions in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], including:
 - The pollution feud between [[Bertrum Greyson|Bertrum]] (blacksmith) and [[Saria Tallbloom|Saria]] (stables)
 - Keggronite land acquisitions, particularly by [[Strondabella Keggranite|Strondabella]]
 - [[Narchis Cloudbrow|Narchis]]'s suspicions of the Keggronites
@@ -56,4 +56,4 @@ date modified: Tuesday, July 15th 2025, 10:32:28 am
 
 **Power Vacuum:** Her death created an immediate leadership crisis that various parties attempted to exploit, with [[Danlas Ligroves|Danlas]] pushing for his son's permanent appointment and [[Strondabella Keggranite|Strondabella]] apparently gaining influence over the investigation.
 
-**Catalyst for Crisis:** Her murder not only sparked the investigation but also seemed to trigger or coincide with the supernatural crisis that followed, suggesting her death may have been connected to larger forces threatening [[Cerbereburn|Cerbereburn]].
+**Catalyst for Crisis:** Her murder not only sparked the investigation but also seemed to trigger or coincide with the supernatural crisis that followed, suggesting her death may have been connected to larger forces threatening [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]].

@@ -28,7 +28,7 @@ date modified: Tuesday, July 15th 2025, 10:55:09 am
 ## **Background**
 
 - Serves at the **Cathedral of [[Shallandra]]**
-- Has travelled to **[[Cerbereburn|Cerbereburn]]** on an errand for [[Threecie Novik|Threecie]]'s mercenary group (possibly as moral or magical support)
+- Has travelled to **[[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** on an errand for [[Threecie Novik|Threecie]]'s mercenary group (possibly as moral or magical support)
 - Seems used to being underestimated, but not afraid to stand her ground when accused or challenged
 
 ---

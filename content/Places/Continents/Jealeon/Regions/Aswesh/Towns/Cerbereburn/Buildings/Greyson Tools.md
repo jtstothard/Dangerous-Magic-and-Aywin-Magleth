@@ -8,7 +8,7 @@ date modified: Tuesday, July 15th 2025, 10:55:31 am
 
 ## **Building Summary**
 
-**Greyson Tools** is [[Bertrum Greyson]]'s blacksmith workshop, a vital business in [[Cerbereburn|Cerbereburn]] that has become the centre of significant environmental and political controversy. The shop's location along the river and its forging operations have made it a focal point in the town's resource disputes.
+**Greyson Tools** is [[Bertrum Greyson]]'s blacksmith workshop, a vital business in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] that has become the centre of significant environmental and political controversy. The shop's location along the river and its forging operations have made it a focal point in the town's resource disputes.
 
 ---
 

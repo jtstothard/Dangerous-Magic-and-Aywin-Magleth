@@ -7,7 +7,7 @@ date created: Tuesday, July 8th 2025, 5:13:03 pm
 date modified: Tuesday, July 15th 2025, 10:36:34 am
 ---
 
-**Mrs Cluckerson** is [[Narchis Cloudbrow|Narchis]]'s prized chicken who went missing from the [[Cloudbrow Farm & Barn|Cloudbrow Barn]], believed to be the first victim of the werechicken crisis that would later plague [[Cerbereburn|Cerbereburn]].
+**Mrs Cluckerson** is [[Narchis Cloudbrow|Narchis]]'s prized chicken who went missing from the [[Cloudbrow Farm & Barn|Cloudbrow Barn]], believed to be the first victim of the werechicken crisis that would later plague [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]].
 
 ## Key Characteristics
 
@@ -25,7 +25,7 @@ date modified: Tuesday, July 15th 2025, 10:36:34 am
 
 ## Investigation Significance
 
-**Connection Point:** Her case links the mundane murder investigation to the supernatural elements, showing that multiple types of threats were active in [[Cerbereburn|Cerbereburn]] simultaneously.
+**Connection Point:** Her case links the mundane murder investigation to the supernatural elements, showing that multiple types of threats were active in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] simultaneously.
 
 **Timeline Marker:** Her disappearance helps establish when the supernatural crisis began relative to [[Mallone Ulaxidor|Mallone]]'s murder, providing crucial timeline information for understanding the sequence of events.
 
@@ -37,6 +37,6 @@ Mrs Cluckerson remains at large and potentially dangerous. Her status as the ori
 
 ## Symbolic Importance
 
-**Town Innocence Lost:** Her transformation from beloved pet to supernatural threat symbolises how the crisis has corrupted even the most innocent aspects of life in [[Cerbereburn|Cerbereburn]].
+**Town Innocence Lost:** Her transformation from beloved pet to supernatural threat symbolises how the crisis has corrupted even the most innocent aspects of life in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]].
 
 **[[Narchis Cloudbrow|Narchis]]'s Hope:** Her owner's belief that she went to pursue stardom rather than accepting the supernatural explanation shows the psychological difficulty residents have in accepting the reality of their situation.

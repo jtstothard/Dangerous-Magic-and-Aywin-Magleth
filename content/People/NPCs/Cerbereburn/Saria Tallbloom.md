@@ -7,11 +7,11 @@ date created: Tuesday, July 8th 2025, 4:56:30 pm
 date modified: Tuesday, July 15th 2025, 10:46:09 am
 ---
 
-**Saria Tallbloom** is a resident of [[Cerbereburn|Cerbereburn]] who runs the local stables and lives at the Tallbloom Home with her children [[Amara Tallbloom|Amara]] and [[Syndra Tallbloom|Syndra]]. She has become involved in the investigation through environmental disputes and family connections to key witnesses.
+**Saria Tallbloom** is a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who runs the local stables and lives at the Tallbloom Home with her children [[Amara Tallbloom|Amara]] and [[Syndra Tallbloom|Syndra]]. She has become involved in the investigation through environmental disputes and family connections to key witnesses.
 
 ## Key Characteristics
 
-- **Stable owner and operator** - Runs the horse stables in [[Cerbereburn|Cerbereburn]], making her an important business owner in the community
+- **Stable owner and operator** - Runs the horse stables in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], making her an important business owner in the community
 - **Environmental victim** - Her stables suffer from pollution caused by [[Greyson Tools|Bertrum's forge]] upstream
 - **Heteronormative and unaccepting** - According to [[Amara Tallbloom|Amara]], she has conservative views that would make her disapprove of [[Syndra Tallbloom|Syndra]]'s relationship with [[Shayee Cloudbrow|Shayee]]
 - **Protective mother** - Quickly responded when [[Amara Tallbloom|Amara]] warned her about the confrontation at the blacksmith's
@@ -36,4 +36,4 @@ date modified: Tuesday, July 15th 2025, 10:46:09 am
 
 ## Current Status
 
-Saria remains focused on protecting her family and business while navigating the complex political and environmental challenges facing [[Cerbereburn|Cerbereburn]]. Her role as both a business owner affected by environmental damage and a mother trying to maintain family stability makes her a key figure in understanding the town's social dynamics, even if she's not directly involved in the murder investigation.
+Saria remains focused on protecting her family and business while navigating the complex political and environmental challenges facing [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]. Her role as both a business owner affected by environmental damage and a mother trying to maintain family stability makes her a key figure in understanding the town's social dynamics, even if she's not directly involved in the murder investigation.

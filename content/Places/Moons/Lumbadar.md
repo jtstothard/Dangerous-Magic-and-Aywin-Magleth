@@ -18,7 +18,7 @@ date modified: Tuesday, July 15th 2025, 10:55:40 am
 
 ### Lycanthropic Connections
 
-Based on investigations during the [[Cerbereburn|Cerbereburn]] incidents:
+Based on investigations during the [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] incidents:
 
 - Each lycanthrope is tied to a specific moon for their transformation cycle
 - Full moon phases cause forced transformations in affected individuals
@@ -30,4 +30,4 @@ Based on investigations during the [[Cerbereburn|Cerbereburn]] incidents:
 - [[Rantis]] - The third moon
 - [[Naantaar]] - The second moon
 - [[Rantis]] - The third moon
-- [[Cerbereburn|Cerbereburn]] - Site of lycanthropic investigations
+- [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] - Site of lycanthropic investigations

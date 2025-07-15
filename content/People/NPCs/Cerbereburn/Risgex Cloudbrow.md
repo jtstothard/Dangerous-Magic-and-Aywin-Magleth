@@ -7,7 +7,7 @@ date created: Tuesday, July 8th 2025, 5:09:35 pm
 date modified: Tuesday, July 15th 2025, 10:42:50 am
 ---
 
-**Risgex Cloudbrow** is a silver dragonborn resident of [[Cerbereburn|Cerbereburn]] and mother to [[Shayee Cloudbrow|Shayee]]. She has been a helpful but sometimes suspicious witness in the murder investigation and later assisted in discovering [[Zymis Wenben|Zymis]]'s body.
+**Risgex Cloudbrow** is a silver dragonborn resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] and mother to [[Shayee Cloudbrow|Shayee]]. She has been a helpful but sometimes suspicious witness in the murder investigation and later assisted in discovering [[Zymis Wenben|Zymis]]'s body.
 
 ## Key Characteristics
 
@@ -28,7 +28,7 @@ date modified: Tuesday, July 15th 2025, 10:42:50 am
 
 **Mother to [[Shayee Cloudbrow|Shayee]]:** Her protective questioning about whereabouts the night of the murder suggests she may be aware of her daughter's relationship with [[Syndra Tallbloom|Syndra]] and the potential complications this could create for the family.
 
-**Cloudbrow Family Network:** Connected to [[Narchis Cloudbrow|Narchis]], placing her within one of the established family groups in [[Cerbereburn|Cerbereburn]] that have been affected by the various crises.
+**Cloudbrow Family Network:** Connected to [[Narchis Cloudbrow|Narchis]], placing her within one of the established family groups in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] that have been affected by the various crises.
 
 ## Interactions with the Party
 
@@ -40,4 +40,4 @@ date modified: Tuesday, July 15th 2025, 10:42:50 am
 
 ## Current Status
 
-Risgex remains a valuable ally in the investigation despite her growing wariness of the party's magical activities. Her strong anti-Keggronite stance aligns her with the faction of townspeople who suspect the wealthy family, while her protective maternal instincts keep her focused on keeping her own family safe from the growing chaos in [[Cerbereburn|Cerbereburn]].
+Risgex remains a valuable ally in the investigation despite her growing wariness of the party's magical activities. Her strong anti-Keggronite stance aligns her with the faction of townspeople who suspect the wealthy family, while her protective maternal instincts keep her focused on keeping her own family safe from the growing chaos in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]].

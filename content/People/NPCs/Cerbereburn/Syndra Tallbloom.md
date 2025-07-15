@@ -34,7 +34,7 @@ date modified: Tuesday, July 15th 2025, 10:51:12 am
 
 ## Romantic Relationship
 
-**Secret Romance with [[Shayee Cloudbrow|Shayee]]:** Their relationship represents one of the hidden social dynamics in [[Cerbereburn|Cerbereburn]] that complicate the investigation. The need for secrecy creates additional layers of protection and concealment that investigators must navigate.
+**Secret Romance with [[Shayee Cloudbrow|Shayee]]:** Their relationship represents one of the hidden social dynamics in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] that complicate the investigation. The need for secrecy creates additional layers of protection and concealment that investigators must navigate.
 
 ## Current Status
 

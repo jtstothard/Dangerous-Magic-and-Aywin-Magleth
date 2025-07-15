@@ -5,11 +5,11 @@ date created: Tuesday, July 8th 2025, 4:03:08 pm
 date modified: Tuesday, July 15th 2025, 10:55:37 am
 ---
 
-A region within the continent of [[Jealeon|Jealeon]], known for its association with the Peace Domain and its recent conflict with neighbouring [[Loshium]].
+A region within the continent of [[Places/Continents/Jealeon/index|Jealeon]], known for its association with the Peace Domain and its recent conflict with neighbouring [[Loshium]].
 
 ## Overview
 
-**Spuaburg** is one of the "peace nations" within [[Jealeon|Jealeon]]. Despite its association with peace, the region recently concluded a war with [[Loshium]], demonstrating the complex nature of political relationships in the continent. The region is home to the religious group known as the "Peace Keepers", who worship [[Rainia, the Winged Harmoniser]].
+**Spuaburg** is one of the "peace nations" within [[Places/Continents/Jealeon/index|Jealeon]]. Despite its association with peace, the region recently concluded a war with [[Loshium]], demonstrating the complex nature of political relationships in the continent. The region is home to the religious group known as the "Peace Keepers", who worship [[Rainia, the Winged Harmoniser]].
 
 ## War with [[Loshium]]
 
@@ -23,4 +23,4 @@ The Peace Keepers of Spuaburg are a religious group that worships [[Rainia, the 
 
 ## Geography
 
-Spuaburg is located on the eastern side of [[Jealeon|Jealeon]], providing strategic control over maritime access from the east. This geographical advantage has made it a focal point for trade and military movements, particularly during the recent conflict with [[Loshium]].
+Spuaburg is located on the eastern side of [[Places/Continents/Jealeon/index|Jealeon]], providing strategic control over maritime access from the east. This geographical advantage has made it a focal point for trade and military movements, particularly during the recent conflict with [[Loshium]].

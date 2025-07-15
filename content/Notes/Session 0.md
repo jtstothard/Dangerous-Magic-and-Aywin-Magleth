@@ -7,12 +7,12 @@ date modified: Tuesday, July 15th 2025, 10:55:51 am
 
 ## Geographic Overview
 
-- **Primary Continent:** [[Jealeon|Jealeon]]
+- **Primary Continent:** [[Places/Continents/Jealeon/index|Jealeon]]
 - **Campaign Starting City:** [[Aeremore]]
 
 ### Regional Politics & Tensions
 
-- [[Aswesh|Aswesh]] and [[Aswen]] are neighboring regions with deep-seated mutual hatred
+- [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]] and [[Aswen]] are neighboring regions with deep-seated mutual hatred
 - The [[East Meashelles|East]] and [[West Meashelles]] were once a unified nation, but split due to severe financial inequality
 
 ### Character Background: [[Lyra Shadowflame|Lyra]]

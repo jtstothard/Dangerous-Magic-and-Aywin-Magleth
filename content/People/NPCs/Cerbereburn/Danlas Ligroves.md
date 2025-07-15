@@ -7,7 +7,7 @@ date created: Tuesday, July 8th 2025, 5:12:27 pm
 date modified: Tuesday, July 15th 2025, 10:30:03 am
 ---
 
-**Danlas Ligroves** is a resident of [[Cerbereburn|Cerbereburn]] and the father of deputy lawmaster [[Marius Ligroves]]. He lives in the Ligroves Home with his son and appears to be actively involved in local politics, particularly around the succession of leadership following [[Mallone Ulaxidor]]'s murder.
+**Danlas Ligroves** is a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] and the father of deputy lawmaster [[Marius Ligroves]]. He lives in the Ligroves Home with his son and appears to be actively involved in local politics, particularly around the succession of leadership following [[Mallone Ulaxidor]]'s murder.
 
 ## Key Characteristics
 

@@ -8,7 +8,7 @@ date modified: Tuesday, July 15th 2025, 10:55:30 am
 
 ## **Building Summary**
 
-**Cloudbrow Farm & Barn** is the agricultural heart of the Cloudbrow family operations and the epicentre of the supernatural lycanthropy outbreak that has terrorised [[Cerbereburn|Cerbereburn]]. This working farm has become a crime scene where werechickens emerged and the beloved [[Mrs Cluckerson]] mysteriously disappeared.
+**Cloudbrow Farm & Barn** is the agricultural heart of the Cloudbrow family operations and the epicentre of the supernatural lycanthropy outbreak that has terrorised [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]. This working farm has become a crime scene where werechickens emerged and the beloved [[Mrs Cluckerson]] mysteriously disappeared.
 
 ---
 

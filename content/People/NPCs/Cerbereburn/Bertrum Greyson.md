@@ -10,7 +10,7 @@ date created: Tuesday, July 8th 2025, 4:54:47 pm
 date modified: Tuesday, July 15th 2025, 10:30:03 am
 ---
 
-**Bertrum Greyson** is the local blacksmith in [[Cerbereburn|Cerbereburn]], operating his forge near the river. He runs [[Greyson Tools]] and is a central figure in several of the town's ongoing disputes and tensions.
+**Bertrum Greyson** is the local blacksmith in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], operating his forge near the river. He runs [[Greyson Tools]] and is a central figure in several of the town's ongoing disputes and tensions.
 
 ## Key Characteristics
 
@@ -23,7 +23,7 @@ date modified: Tuesday, July 15th 2025, 10:30:03 am
 
 ### Environmental Disputes
 
-[[Greyson Tools|Bertrum's forge]] pollution is a major source of tension in [[Cerbereburn|Cerbereburn]]. The runoff from his blacksmithing operations affects the river, which directly impacts [[Saria Tallbloom]]'s stables downstream. The horses suffer from the polluted water, creating ongoing animosity between Bertrum and [[Saria Tallbloom|Saria]].
+[[Greyson Tools|Bertrum's forge]] pollution is a major source of tension in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]. The runoff from his blacksmithing operations affects the river, which directly impacts [[Saria Tallbloom]]'s stables downstream. The horses suffer from the polluted water, creating ongoing animosity between Bertrum and [[Saria Tallbloom|Saria]].
 
 ### Political Tensions
 

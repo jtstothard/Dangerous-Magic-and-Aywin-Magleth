@@ -7,13 +7,13 @@ date created: Tuesday, July 8th 2025, 5:03:16 pm
 date modified: Tuesday, July 15th 2025, 10:29:58 am
 ---
 
-**Javu Rannacit** is an elderly resident of [[Cerbereburn|Cerbereburn]] who lives in the Rannacit Home with her wife [[Dhunta Rannacit|Dhunta]]. She serves as a quieter counterpart to her more vocal and accusatory partner in the town's social dynamics.
+**Javu Rannacit** is an elderly resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who lives in the Rannacit Home with her wife [[Dhunta Rannacit|Dhunta]]. She serves as a quieter counterpart to her more vocal and accusatory partner in the town's social dynamics.
 
 ## Key Characteristics
 
 - **Polite and reserved** - Described as polite but quiet during interactions with investigators
 - **Married to a complainer** - Lives with [[Dhunta Rannacit|Dhunta]], who is known throughout town as a chronic complainer and was specifically disliked by [[Mallone Ulaxidor|Mallone]]
-- **Elderly resident** - Long-time resident of [[Cerbereburn|Cerbereburn]] with established roots in the community
+- **Elderly resident** - Long-time resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] with established roots in the community
 - **Background presence** - Tends to stay in the background while her wife takes the lead in social and political matters
 
 ## Role in the Investigation

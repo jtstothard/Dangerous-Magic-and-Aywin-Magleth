@@ -7,11 +7,11 @@ date created: Tuesday, July 8th 2025, 5:13:47 pm
 date modified: Tuesday, July 15th 2025, 10:30:01 am
 ---
 
-**Foxtrot Fowler** is a resident of [[Cerbereburn|Cerbereburn]] and partner to [[Tango Fowler]], who found [[Mallone Ulaxidor|Mallone]]'s body. Foxtrot has recently returned to town after being away for years, making them a person of significant interest in the murder investigation.
+**Foxtrot Fowler** is a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] and partner to [[Tango Fowler]], who found [[Mallone Ulaxidor|Mallone]]'s body. Foxtrot has recently returned to town after being away for years, making them a person of significant interest in the murder investigation.
 
 ## Key Characteristics
 
-- **Recently returned** - Was gone for years and only returned to [[Cerbereburn|Cerbereburn]] a few months ago
+- **Recently returned** - Was gone for years and only returned to [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] a few months ago
 - **Secretive and evasive** - Clearly hiding something important when questioned by investigators
 - **Shocked by supernatural elements** - When charmed by [[Robin Thaleia|Robin]], was genuinely shocked by the idea of werechickens and alarmed that the party had killed any
 - **Mysterious whereabouts** - Frequently absent when the party tries to locate them, with [[Tango Fowler|Tango]] not knowing their location

@@ -19,7 +19,7 @@ date modified: Tuesday, July 15th 2025, 10:55:51 am
 
 ## Border Crossing & New Allies
 
-- **[[Aswesh|Aswesh]] Border:** Underwent thorough inspection of belongings at the regional border
+- **[[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]] Border:** Underwent thorough inspection of belongings at the regional border
 - **Meeting [[Gralstak]]:** Encountered a peculiar figure covered in potion bottles arguing with border guards
   - Witnessed him consume a mysterious potion during the dispute
   - [[Lyra Shadowflame|Lyra]]'s curiosity led to extensive questioning about his chemical practices
@@ -33,7 +33,7 @@ date modified: Tuesday, July 15th 2025, 10:55:51 am
 
 ## Journey's End
 
-- **Next Destination:** Approaching [[Cerbereburn|Cerbereburn]] where the real adventure begins
+- **Next Destination:** Approaching [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] where the real adventure begins
 
 ---
 

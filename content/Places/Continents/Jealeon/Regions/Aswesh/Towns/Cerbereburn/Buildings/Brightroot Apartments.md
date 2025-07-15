@@ -8,14 +8,14 @@ date modified: Tuesday, July 15th 2025, 10:55:30 am
 
 ## **Building Summary**
 
-**Brightroot Apartments** is a multi tenant residential building in [[Cerbereburn|Cerbereburn]] that has become a focal point of the supernatural crisis gripping the town. Home to multiple residents including the werewolf victim [[Zymis Wenben]], this building represents the growing danger and mystery surrounding recent events.
+**Brightroot Apartments** is a multi tenant residential building in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] that has become a focal point of the supernatural crisis gripping the town. Home to multiple residents including the werewolf victim [[Zymis Wenben]], this building represents the growing danger and mystery surrounding recent events.
 
 ---
 
 ## **Physical Description**
 
 - **Architecture**: Multi unit residential building
-- **Location**: Within [[Cerbereburn]] town limits
+- **Location**: Within [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] town limits
 - **Security**: Individual unit doors with locks
 - **Window Access**: Units have windows that can be opened from inside
 

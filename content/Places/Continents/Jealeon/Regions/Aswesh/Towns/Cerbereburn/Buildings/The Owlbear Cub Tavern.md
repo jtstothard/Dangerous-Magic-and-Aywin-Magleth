@@ -9,12 +9,12 @@ date created: Monday, July 14th 2025, 10:09:45 pm
 date modified: Tuesday, July 15th 2025, 10:55:33 am
 ---
 
-**The Owlbear Cub Tavern** is the central social hub of [[Cerbereburn|Cerbereburn]], serving as the primary gathering place for both locals and travellers. This establishment plays a crucial role in the town's social dynamics and serves as the party's initial meeting point during their investigation.
+**The Owlbear Cub Tavern** is the central social hub of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], serving as the primary gathering place for both locals and travellers. This establishment plays a crucial role in the town's social dynamics and serves as the party's initial meeting point during their investigation.
 
 ## Physical Description
 
 - **Architecture:** Traditional rural tavern construction
-- **Location:** Central area of [[Cerbereburn]], easily accessible to all residents
+- **Location:** Central area of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], easily accessible to all residents
 - **Atmosphere:** Warm and welcoming, though tensions can run high given the town's current political climate
 
 ## Staff & Management

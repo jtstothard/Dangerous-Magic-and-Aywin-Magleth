@@ -6,7 +6,7 @@ date created: Tuesday, July 8th 2025, 4:02:19 pm
 date modified: Tuesday, July 15th 2025, 10:55:36 am
 ---
 
-One half of a formerly unified nation within the continent of [[Jealeon|Jealeon]], now separated from [[West Meashelles]] due to financial disparity.
+One half of a formerly unified nation within the continent of [[Places/Continents/Jealeon/index|Jealeon]], now separated from [[West Meashelles]] due to financial disparity.
 
 ## Overview
 

@@ -7,7 +7,7 @@ date created: Tuesday, July 8th 2025, 4:59:38 pm
 date modified: Tuesday, July 15th 2025, 10:39:42 am
 ---
 
-**Narchis Cloudbrow** is a resident of [[Cerbereburn|Cerbereburn]] who owns and operates a barn with his wife. He became involved in the investigation when his prized chicken [[Mrs Cluckerson]] went missing, which later proved to be connected to the supernatural crisis affecting the town.
+**Narchis Cloudbrow** is a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who owns and operates a barn with his wife. He became involved in the investigation when his prized chicken [[Mrs Cluckerson]] went missing, which later proved to be connected to the supernatural crisis affecting the town.
 
 ## Key Characteristics
 
@@ -20,7 +20,7 @@ date modified: Tuesday, July 15th 2025, 10:39:42 am
 
 **Crime Scene Provider:** The [[Cloudbrow Farm & Barn|Cloudbrow Barn]] became a secondary crime scene when it was discovered that the lock had been picked recently and [[Mrs Cluckerson]] had gone missing. This connected the chicken disappearance to the broader investigation.
 
-**Key Witness:** His knowledge about who had access to the barn and his observations about the break in provided crucial information about the scope of the criminal activity in [[Cerbereburn|Cerbereburn]].
+**Key Witness:** His knowledge about who had access to the barn and his observations about the break in provided crucial information about the scope of the criminal activity in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]].
 
 **Political Alignment:** His suspicion of the Keggranites aligns him with other residents like [[Dhunta Rannacit|Dhunta]] who view the wealthy family's activities with distrust.
 

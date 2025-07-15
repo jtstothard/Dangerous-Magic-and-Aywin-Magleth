@@ -7,11 +7,11 @@ date created: Tuesday, July 8th 2025, 5:01:39 pm
 date modified: Tuesday, July 15th 2025, 10:42:49 am
 ---
 
-**Risgara Geraves** is a tiefling resident of [[Cerbereburn|Cerbereburn]] who lives in the [[Brightroot Apartments]]. He was initially a prime suspect in [[Mallone Ulaxidor|Mallone]]'s murder due to an incident the night before, but has since been largely dismissed as a red herring in the investigation.
+**Risgara Geraves** is a tiefling resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who lives in the [[Brightroot Apartments]]. He was initially a prime suspect in [[Mallone Ulaxidor|Mallone]]'s murder due to an incident the night before, but has since been largely dismissed as a red herring in the investigation.
 
 ## Key Characteristics
 
-- **Tiefling resident** - One of the few tieflings in [[Cerbereburn|Cerbereburn]], making him stand out in the community
+- **Tiefling resident** - One of the few tieflings in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], making him stand out in the community
 - **Heavy drinker** - Known for drinking heavily and becoming disruptive at the local tavern
 - **Hungover and unhelpful** - When questioned by investigators, was suffering from a hangover and provided little useful information
 - **Apartment dweller** - Lives in the [[Brightroot Apartments]], the same complex where [[Zymis Wenben|Zymis]] was later murdered
