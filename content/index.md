@@ -1,6 +1,6 @@
 ---
 tags: []
-title: index
+title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
 date modified: Tuesday, July 15th 2025, 10:55:43 am
 ---
