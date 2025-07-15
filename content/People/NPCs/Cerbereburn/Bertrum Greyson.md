@@ -1,23 +1,35 @@
 ---
-aliases:
-  - Bertrum
+tags: []
+aliases: [Bertrum]
+pronouns: he/him
+location: Cerbereburn
+occupation: Blacksmith
+business: Greyson Tools
+title: Bertrum Greyson
+date created: Tuesday, July 8th 2025, 4:54:47 pm
+date modified: Tuesday, July 15th 2025, 10:30:03 am
 ---
-**Bertrum Greyson** is the local blacksmith in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], running his forge near the river. He operates Greyson Tools and is a central figure in several of the town's ongoing disputes and tensions.
 
-# Key Characteristics
+**Bertrum Greyson** is the local blacksmith in [[Cerbereburn|Cerbereburn]], operating his forge near the river. He runs [[Greyson Tools]] and is a central figure in several of the town's ongoing disputes and tensions.
 
-- **Grumpy and defensive** - Known for his unpleasant demeanor when questioned by investigators
-- **Evasive and suspicious** - Couldn't identify the murder weapon when shown an illusion of it, and his behavior raises questions
+## Key Characteristics
+
+- **Grumpy and defensive** - Known for his unpleasant demeanour when questioned by investigators
+- **Evasive and suspicious** - Couldn't identify the murder weapon when shown an illusion of it, and his behaviour raises questions
 - **Environmentally controversial** - His forge operations pollute the river, creating conflict with downstream businesses
 - **Uncooperative** - Resistant to intimidation attempts and questioning from the party
 
-# Role in Town Conflicts
+## Role in Town Conflicts
 
-**Environmental Disputes:** Bertrum's forge pollution is a major source of tension in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]. The runoff from his blacksmithing operations affects the river, which directly impacts [[Saria Tallbloom]]'s stables downstream. The horses suffer from the polluted water, creating ongoing animosity between Bertrum and [[Saria Tallbloom|Saria]].
+### Environmental Disputes
 
-**Political Tensions:** According to [[Shayee Cloudbrow|Shayee]], [[Mallone Ulaxidor|Mallone]] didn't get along with several townspeople, including Bertrum. This suggests he was part of the broader political friction that [[Mallone Ulaxidor|Mallone]] was trying to manage as lawmaster.
+[[Greyson Tools|Bertrum's forge]] pollution is a major source of tension in [[Cerbereburn|Cerbereburn]]. The runoff from his blacksmithing operations affects the river, which directly impacts [[Saria Tallbloom]]'s stables downstream. The horses suffer from the polluted water, creating ongoing animosity between Bertrum and [[Saria Tallbloom|Saria]].
 
-# Role in the Investigation
+### Political Tensions
+
+According to [[Shayee Cloudbrow|Shayee]], [[Mallone Ulaxidor|Mallone]] didn't get along with several townspeople, including Bertrum. This suggests he was part of the broader political friction that [[Mallone Ulaxidor|Mallone]] was trying to manage as lawmaster.
+
+## Role in the Investigation
 
 Bertrum remains a person of interest in [[Mallone Ulaxidor|Mallone]]'s murder investigation:
 
@@ -28,4 +40,4 @@ Bertrum remains a person of interest in [[Mallone Ulaxidor|Mallone]]'s murder in
 
 ## Current Status
 
-Bertrum continues to operate his forge while remaining under suspicion. The party has surveilled his shop, with [[Gralstak]] camping outside during the night watch rotations. His evasive behavior and the ongoing environmental disputes keep him as a significant person of interest in the murder case.
+Bertrum continues to operate his forge while remaining under suspicion. The party has surveilled his shop, with [[Gralstak]] camping outside during the night watch rotations. His evasive behaviour and the ongoing environmental disputes keep him as a significant person of interest in the murder case.

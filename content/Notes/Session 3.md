@@ -1,69 +1,120 @@
-# 🎲 **Last Time in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** (Quick Recap)
-
-- [[Lyra Shadowflame|Lyra]] and [[Gralstak]] searched the river for the murder weapon but found nothing
-- [[Robin Thaleia|Robin]] and [[Lharamit Pirevin Rhyne|Lharamit]] decided not to break into the Keggronite house
-- At the stables, [[Amara Tallbloom|Amara]] revealed [[Shayee Cloudbrow|Shayee]] was visiting [[Syndra Tallbloom|Syndra]] the night of the murder
-- [[Shayee Cloudbrow|Shayee]] confirmed this later and said [[Mallone Ulaxidor|Mallone]] had lots of enemies in town
-- The Cloudbrow barn lock was picked. [[Lyra Shadowflame|Lyra]] offered to stake it out
-- [[Mrs Cluckerson]] the chicken is missing
-- [[Gralstak]] has a fart jar that records sound and might use it for trickery
-
 ---
-# Investigation continued
-
-## **Barn Stakeout**
-
-- **[[Gralstak]]** and **[[Lyra Shadowflame|Lyra]]** staked out the Cloudbrow barn at night, suspecting strange activity inside
-- [[Gralstak]] tried (poorly) to ask **[[Risgex Cloudbrow|Risgex]]** for a key to hide inside. She declined. Lyra stepped in to help but got the same answer
-- The pair hid around the side of the barn with poor cover. [[Lyra Shadowflame|Lyra]] felt disliked by [[Risgex Cloudbrow|Risgex]], while [[Gralstak]] thought the opposite
-
+tags: []
+title: Session 3
+date created: Tuesday, July 8th 2025, 4:17:45 pm
+date modified: Tuesday, July 15th 2025, 10:55:53 am
 ---
 
-## **Interrogating Danlas**
+## **The [[Cloudbrow Farm & Barn|Barn]] Stakeout**
 
-- **[[Threecie Novik|Threecie]]** and **[[Manmosu]]** visited **[[Danlas Ligroves|Danlas]]**, saying they were reporting back to [[Marius Ligroves|Marius]]
-- [[Danlas Ligroves|Danlas]] claimed [[Marius Ligroves|Marius]] was out and seemed confident that [[Marius Ligroves|Marius]] would soon become lawmaster
-- Blamed [[Mallone Ulaxidor|Mallone]] for escalating conflict and praised the Keggronites, saying things have been peaceful since
+*What began as a simple surveillance operation quickly turned into something far more dangerous.*
+
+### **Team Assignment & Preparation**
+
+- **Surveillance Team:** [[Gralstak]] and [[Lyra Shadowflame|Lyra]]
+- **Initial Plan:** Hide inside the barn to observe any intruders
+- **Complication:** [[Risgex Cloudbrow|Risgex]] refused to provide a key when [[Gralstak]] made a poorly executed request
+- **Backup Plan:** External surveillance from makeshift hiding spots around the barn's perimeter
 
 ---
 
-## **Snooping Marius' House**
+## **Parallel Investigation: The Ligroves Household**
 
-- **[[Robin Thaleia|Robin]]** and **[[Lharamit Pirevin Rhyne|Lharamit]]** snuck into the [[Marius Ligroves|Marius]] and [[Danlas Ligroves|Danlas]] household while the others distracted [[Danlas Ligroves|Danlas]]
-- [[Robin Thaleia|Robin]] misty stepped into the house, made a noise, and pretended a loom had fallen to cover his presence
-- [[Manmosu]] tried distracting **[[Danlas Ligroves|Danlas]]** with magic (Command and Prestidigitation), but [[Danlas Ligroves|Danlas]] became suspicious
-- [[Threecie Novik|Threecie]] helped [[Danlas Ligroves|Danlas]] reset the loom, playing innocent
-- [[Robin Thaleia|Robin]] found [[Marius Ligroves|Marius]]’ diary
-    - Mostly mundane, complaining about his dad and being overlooked
-    - Mentions helping a drunk **[[Risgex Cloudbrow|Risgex]]** home, but nothing incriminating
-    - Notes [[Lharamit Pirevin Rhyne|Lharamit]] and [[Threecie Novik|Threecie]]’s prolonged stay in town as odd
-- [[Robin Thaleia|Robin]] also found letters in [[Danlas Ligroves|Danlas]]’ room. Bureaucratic in nature, including rental and expansion discussions from the Keggronites
-- [[Robin Thaleia|Robin]] escaped through the window, helped by [[Lharamit Pirevin Rhyne|Lharamit]] who laid down a blanket
+*While the barn team prepared for surveillance, others pursued political angles.*
+
+### **[[Threecie Novik|Threecie]] & [[Manmosu]]: Confronting [[Danlas Ligroves|Danlas]]**
+
+- **Cover Story:** Claimed to be reporting back to [[Marius Ligroves|Marius]]
+- **[[Danlas Ligroves|Danlas]]'s Demeanor:**
+  - Claimed [[Marius Ligroves|Marius]] was absent
+  - Displayed confidence about [[Marius Ligroves|Marius]]'s impending promotion to lawmaster
+  - Blamed [[Mallone Ulaxidor|Mallone]] for escalating community conflicts
+  - Praised the Keggronites, claiming their presence brought peace to the town
+
+### **[[Robin Thaleia|Robin]] & [[Lharamit Pirevin Rhyne|Lharamit]]: Covert House Search**
+
+- **Infiltration Strategy:** [[Robin Thaleia|Robin]] used *Misty Step* to enter while others provided distraction
+- **Cover Incident:** Accidentally made noise, improvised excuse about a fallen loom
+- **[[Manmosu]]'s Magical Intervention:** Attempted to assist with *Command* and *Prestidigitation*, but aroused [[Danlas Ligroves|Danlas]]'s suspicions instead
+- **[[Threecie Novik|Threecie]]'s Save:** Helped reset the loom while maintaining innocent pretences
+
+### **Evidence Discovered**
+
+#### **[[Marius Ligroves|Marius]]'s Diary**
+
+- **Content Quality:** Mostly mundane personal complaints
+- **Family Relations:** Frequent grievances about his father and feeling overlooked
+- **Notable Entry:** Mentioned helping a drunk [[Risgex Cloudbrow|Risgex]] home (no incriminating details)
+- **Party Observations:** Noted [[Lharamit Pirevin Rhyne|Lharamit]] and [[Threecie Novik|Threecie]]'s prolonged stay as unusual
+
+#### **[[Danlas Ligroves|Danlas]]'s Correspondence**
+
+- **Nature:** Bureaucratic letters and documents
+- **Keggronite Connection:** Rental agreements and expansion discussions involving the Keggronite family
+- **Significance:** Suggests deeper business relationships than publicly acknowledged
+
+### **Escape & Teamwork**
+
+- **Exit Strategy:** [[Robin Thaleia|Robin]] escaped through a window
+- **[[Lharamit Pirevin Rhyne|Lharamit]]'s Assistance:** Provided a blanket to cushion the landing and aid the escape
 
 ---
 
-## **The Werechicken Attack**
+## **The Werechicken Outbreak**
 
-- **[[Lyra Shadowflame|Lyra]]** and **[[Gralstak]]** heard banging inside the barn, with the chain rattling
-- [[Lyra Shadowflame|Lyra]] sent **[[Hooty]]** to scout, spotting chickens trying to break out
-- The front door burst open. **Combat began**
-- Chickens were infected and transforming. **Werechickens**. Spreading infection by pecking each other
-- **[[Hooty]]** alerted the rest of the party, who rushed to help
+*The quiet surveillance mission exploded into supernatural chaos.*
 
-**Combat Highlights**
+### **Initial Signs of Trouble**
 
-- Chickens resisted multiple hits, particularly one that dodged 3 players
-- [[Lyra Shadowflame|Lyra]] used **Silvery Barbs** on [[Lharamit Pirevin Rhyne|Lharamit]]’s would-be killing blow due to her own self-consciousness, resulting in [[Lharamit Pirevin Rhyne|Lharamit]] blasting **[[Manmosu]]** instead
-- [[Gralstak]] eventually splattered the chicken. [[Threecie Novik|Threecie]] cleaned up with **Eldritch Blasts**, and **[[Manmosu]]** finished off the sleeping chickens with **Thunderwave**
-- [[Threecie Novik|Threecie]] was notably sharper in tone during combat. [[Lharamit Pirevin Rhyne|Lharamit]] noticed this as more of her authentic self
+- **Audio Cues:** Loud banging and chain rattling from inside the barn
+- **Reconnaissance:** [[Lyra Shadowflame|Lyra]] sent [[Hooty]] to scout the interior
+- **Discovery:** Chickens attempting to break out of their confinement
+- **Escalation:** The front door burst open dramatically
+
+### **The Transformation**
+
+- **Infection Spread:** Chickens were transforming into werechickens through mutual pecking and biting
+- **Party Alert:** [[Hooty]] successfully warned the rest of the group, who rushed to assist
+
+### **Combat Highlights**
+
+#### **Individual Performances**
+
+- **[[Lyra Shadowflame|Lyra]]'s Critical Error:** Used *Silvery Barbs* on [[Lharamit Pirevin Rhyne|Lharamit]]'s killing blow due to personal embarrassment, causing [[Lharamit Pirevin Rhyne|Lharamit]] to accidentally blast [[Manmosu]] instead
+- **[[Gralstak]]'s Finale:** Eventually splattered the most resilient chicken after taking significant damage
+- **[[Threecie Novik|Threecie]]'s Precision:** Efficiently eliminated multiple targets with well-aimed *Eldritch Blasts*
+- **[[Manmosu]]'s Cleanup:** Finished off sleeping chickens with a devastating *Thunderwave*
+
+#### **Combat Observations**
+
+- **Enemy Resilience:** One particularly agile chicken dodged attacks from three different party members
+- **[[Threecie Novik|Threecie]]'s Personality:** Displayed a notably sharper, more intense combat persona that [[Lharamit Pirevin Rhyne|Lharamit]] recognized as her more authentic self
+- **Tactical Challenges:** The confined space and multiple small, fast targets created coordination difficulties
 
 ---
 
-## **Session Highlights**
+## **Session Character Highlights**
 
-- **[[Threecie Novik|Threecie]]**: Stylishly savage Eldritch Blasts and sharp-tongued commentary
-- **[[Manmosu]]**: Pissed off [[Danlas Ligroves|Danlas]] with magic, then dramatically stormed out
-- **[[Robin Thaleia|Robin]]**: Snuck through a house, and found lots of documents
-- **[[Lyra Shadowflame|Lyra]]**: Considered arson as a solution and felt guilty enough to sabotage a party member’s kill
-- **[[Gralstak]]**: Got launched by chickens and failed at negotiation
-- **[[Lharamit Pirevin Rhyne|Lharamit]]**: Played support, healed [[Manmosu]], and laid a blanket for [[Robin Thaleia|Robin]]’s daring escape
+### **Combat Personalities Revealed**
+
+- **[[Threecie Novik|Threecie]]:** Stylishly brutal *Eldritch Blasts* combined with cutting commentary, showing her true tactical mindset
+- **[[Manmosu]]:** Frustrated [[Danlas Ligroves|Danlas]] with magical antics before dramatically storming out, then delivered overwhelming magical force in combat
+- **[[Robin Thaleia|Robin]]:** Demonstrated excellent stealth and infiltration skills, successfully gathering intelligence under pressure
+- **[[Lyra Shadowflame|Lyra]]:** Considered arson as a problem-solving method, struggled with guilt that led to tactical mistakes
+- **[[Gralstak]]:** Suffered physical comedy moments (being launched by chickens) while failing at diplomacy but succeeding in direct combat
+- **[[Lharamit Pirevin Rhyne|Lharamit]]:** Provided consistent support and healing while showing tactical awareness of her teammates' authentic personalities
+
+---
+
+## **Unresolved Mysteries**
+
+- **[[Mrs Cluckerson]]'s Fate:** Still missing, potentially connected to the werechicken outbreak
+- **Infection Source:** How did the chickens become infected with lycanthropy?
+- **Timing Significance:** Was this incident connected to [[Mallone Ulaxidor|Mallone]]'s murder investigation?
+- **Keggronite Involvement:** Do the business documents found suggest deeper conspiracy?
+
+---
+
+## Navigation
+
+← [[Session 2]] **Previous** | **Next:** [[Session 4]] →

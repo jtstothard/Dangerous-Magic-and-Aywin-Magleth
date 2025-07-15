@@ -1,45 +1,26 @@
 ---
+tags: []
 title: Spuaburg
-aliases:
-  - Spuaburg
+date created: Tuesday, July 8th 2025, 4:03:08 pm
+date modified: Tuesday, July 15th 2025, 10:55:37 am
 ---
 
-A region within the continent of [[Places/Continents/Jealeon/index|Jealeon]], known for its association with the Peace Domain and its recent conflict with neighboring [[Loshium]].
+A region within the continent of [[Jealeon|Jealeon]], known for its association with the Peace Domain and its recent conflict with neighbouring [[Loshium]].
 
 ## Overview
 
-**Spuaburg** is home to [[Lyra Shadowflame]] and represents one of the "peace nations" within [[Places/Continents/Jealeon/index|Jealeon]]. Despite its association with peace, the region recently concluded a war with [[Loshium]], demonstrating the complex nature of political relationships in the continent.
+**Spuaburg** is one of the "peace nations" within [[Jealeon|Jealeon]]. Despite its association with peace, the region recently concluded a war with [[Loshium]], demonstrating the complex nature of political relationships in the continent. The region is home to the religious group known as the "Peace Keepers", who worship [[Rainia, the Winged Harmoniser]].
 
-## Political and Religious Character
+## War with [[Loshium]]
 
-### Peace Domain Association
+The war with [[Loshium]] is not described as a religious conflict, but rather one for access to resources and trade routes. Spuaburg maintains a key position in the region controlling all of the continent's access to the ocean from the east, making it a strategically important area for trade and military movements.
 
-- **Philosophy**: Spuaburg is associated with the Peace Domain, representing one approach to maintaining harmony and order
-- **Peace Keepers**: The region identifies as "Peace keepers" in contrast to [[Loshium]]'s "Pacifiers," suggesting different methodologies in achieving peaceful outcomes
+According to Spuaburg accounts, [[Loshium]] forces initiated the conflict in an act described by the people of Spuaburg as an "act of terrorism". [[Loshium]] focused their efforts on reclaiming territory north of the canal on their border that previously belonged to them.
 
-### Recent Conflict
+## Religious Significance
 
-- **War with [[Loshium]]**: Recently ended a conflict with the neighboring region
-- **Nature of Conflict**: Despite both regions having peace-oriented philosophies, this was described as "not a religious war"
-- **Ideological Differences**: The conflict appears to have been over different approaches to peace ("Peace keepers vs Pacifiers")
+The Peace Keepers of Spuaburg are a religious group that worships [[Rainia, the Winged Harmoniser]]. They are known for their commitment to peace and diplomacy, although their recent military actions against [[Loshium]] suggest a more complex relationship with the concept of peace.
 
-## Notable Residents
+## Geography
 
-### [[Lyra Shadowflame]]
-
-- **Origin**: Native of Spuaburg
-- **Background**: Associated with the Peace Domain
-- **Current Status**: Traveling to [[Aeremore]] to study magic and uncover truths about regional conflicts
-- **Motivation**: Seeks to understand "why the two peace nations split," referring to the recent conflict with [[Loshium]]
-
-## Current Status
-
-### Post-War Situation
-
-- **Recent Peace**: The conflict with [[Loshium]] has recently concluded
-- **Ongoing Questions**: The reasons for the split between the two peace-oriented regions remain a matter of investigation
-- **Political Implications**: The conflict has raised questions about the nature of peace and the methods different regions use to achieve it
-
-## Travel and Access
-
-Spuaburg appears to be accessible through various routes within [[Places/Continents/Jealeon/index|Jealeon]], with residents like [[Lyra Shadowflame]] able to travel to other regions for study and investigation.
+Spuaburg is located on the eastern side of [[Jealeon|Jealeon]], providing strategic control over maritime access from the east. This geographical advantage has made it a focal point for trade and military movements, particularly during the recent conflict with [[Loshium]].

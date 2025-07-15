@@ -1,85 +1,127 @@
-# Investigation continued
-## **[[Gralstak]] & [[Lyra Shadowflame|Lyra]]: River Investigation**
+---
+tags: []
+title: Session 2
+date created: Tuesday, July 8th 2025, 4:13:43 pm
+date modified: Tuesday, July 15th 2025, 10:55:52 am
+---
 
-- Investigated the river behind the blacksmith
-- Narrow and deep, but slow moving. A dagger wouldn’t drift far, likely sank
-- No weapon found
-- [[Gralstak]] washed his clothes after Robin’s comments
-- [[Lyra Shadowflame|Lyra]] quietly told [[Hooty]] he might have to become a fish soon
+## Investigation Continues
+
+### **[[Gralstak]] & [[Lyra Shadowflame|Lyra]]: River Search**
+
+- **Location:** River behind the blacksmith's forge
+- **Environment:** Narrow, deep, but slow-moving water
+- **Analysis:** Any dropped dagger would likely sink nearby rather than drift
+- **Results:** No weapon recovered despite thorough search
+- **Side Notes:**
+  - [[Gralstak]] took the opportunity to wash his clothes following [[Robin Thaleia|Robin]]'s earlier comments about his appearance
+  - [[Lyra Shadowflame|Lyra]] jokingly warned [[Hooty]] he might need to become aquatic soon
+
+### **[[Lharamit Pirevin Rhyne|Lharamit]] & [[Robin Thaleia|Robin]]: Strategic Planning**
+
+- **Consideration:** Breaking into the Keggronite residence
+- **Decision:** Too risky without a clear objective or solid plan
+- **Status:** Held in reserve as a potential future option
 
 ---
 
-## **Lharamit & Robin: Keggronite Discussion**
+## **The [[Tallbloom Stables]] Investigation**
 
-- Considered sneaking into the Keggronite home
-- Decided against it for now as too risky without a clear goal
+*A family business fighting to survive amid growing tensions and outside pressure.*
 
----
+### **Family Members Present**
 
-## **The Stables – Tallbloom Family**
+- **[[Saria Tallbloom|Saria]]:** Middle-aged elf, stable owner and family matriarch
+- **[[Amara Tallbloom|Amara]]:** Young adult, [[Saria Tallbloom|Saria]]'s child
+- **[[Syndra Tallbloom|Syndra]]:** Teenage daughter
 
-**People Present:**
+### **Business & Political Situation**
 
-- **[[Saria Tallbloom|Saria]]** middle aged elf, stable owner
-- **[[Amara Tallbloom|Amara]]** young adult (they/them), [[Saria Tallbloom|Saria]]’s child
-- **[[Syndra Tallbloom|Syndra]]** teen daughter (she/her)
+- **Independence:** One of the few local businesses not owned by the Keggronites
+- **Horses:** Currently boarding horses belonging to [[Strondabella Keggranite|Strondabella]], rented out to villagers
+- **Environmental Conflict:** [[Bertrum Greyson|Bertrum]]'s forge pollution affecting horse health
+- **Family Tension:** [[Saria Tallbloom|Saria]] pressuring [[Syndra Tallbloom|Syndra]] to leave town for work and marriage prospects
 
-**Key Info:**
+### **Weapon Analysis**
 
-- Stables not owned by the Keggronites, one of the few local businesses left
-- Horses present belong to [[Strondabella Keggranite|Strondabella]], hired out to villagers
-- [[Bertrum Greyson|Bertrum]]’s forge pollution is affecting the horses
-- [[Saria Tallbloom|Saria]] dislikes the blacksmith and wants [[Syndra Tallbloom|Syndra]] to leave and find work and a husband
-- [[Gralstak]] exaggerated his hatred for [[Bertrum Greyson|Bertrum]] to win favour
+- **[[Saria Tallbloom|Saria]]'s Hoofing Knife:** Heavily soiled from regular use, clearly not the murder weapon
+- **[[Syndra Tallbloom|Syndra]]'s Knife:** Cleaner but showed no signs of recent suspicious use
+- **[[Gralstak]]'s Assessment:** Neither blade appeared suitable or recently used for the crime
 
-**Knife Investigation:**
+### **Key Conversations & Revelations**
 
-- [[Gralstak]] examined [[Saria Tallbloom|Saria]]’s hoofing knife, very dirty, unlikely murder weapon
-- [[Syndra Tallbloom|Syndra]]’s knife was cleaner but showed no signs of use
-
-**Conversations:**
-
-- [[Syndra Tallbloom|Syndra]] admired [[Mallone Ulaxidor|Mallone]] and said she was someone you could have a drink with
-- [[Syndra Tallbloom|Syndra]] doesn’t want to leave, thinks [[Saria Tallbloom|Saria]] will find something to nag about regardless
-- [[Robin Thaleia|Robin]] made an odd remark about mothers and grew flustered when [[Lharamit Pirevin Rhyne|Lharamit]] and [[Syndra Tallbloom|Syndra]] noticed
-- [[Amara Tallbloom|Amara]] lied about not hearing anything, intimidated by [[Gralstak]] into revealing [[Shayee Cloudbrow|Shayee]] was over last night visiting [[Syndra Tallbloom|Syndra]]
-- [[Amara Tallbloom|Amara]] doesn’t want [[Saria Tallbloom|Saria]] to know due to her being heteronormative and unaccepting
+- **[[Syndra Tallbloom|Syndra]]'s Perspective:**
+  - Admired [[Mallone Ulaxidor|Mallone]], described her as "someone you could have a drink with"
+  - Resistant to her mother's pressure to leave, believing [[Saria Tallbloom|Saria]] will find fault regardless
+- **[[Robin Thaleia|Robin]]'s Moment:** Made an odd comment about mothers, growing flustered when questioned by [[Lharamit Pirevin Rhyne|Lharamit]] and [[Syndra Tallbloom|Syndra]]
+- **[[Amara Tallbloom|Amara]]'s Secret:** Initially lied about not hearing anything unusual, but [[Gralstak]]'s intimidation revealed [[Shayee Cloudbrow|Shayee]]'s nighttime visit to [[Syndra Tallbloom|Syndra]]
+- **Family Dynamics:** [[Amara Tallbloom|Amara]] fears [[Saria Tallbloom|Saria]]'s reaction due to her heteronormative and unaccepting attitudes
 
 ---
 
-## **Cloudbrow House – Shayee & Family**
+## **The Cloudbrow Household**
 
-**Party:** [[Threecie Novik|Threecie]], [[Lyra Shadowflame|Lyra]], [[Manmosu]]
+*Investigating the family connected to the barn break-in and missing chicken.*
 
-- Overheard [[Risgex Cloudbrow|Risgex]] ([[Shayee Cloudbrow|Shayee]]’s mum) asking someone where they were last night
-- [[Risgex Cloudbrow|Risgex]] (silver dragonborn) greeted the party
-    - Believes everyone was home but knows [[Shayee Cloudbrow|Shayee]] sneaks out sometimes
-    - Dislikes [[Strondabella Keggranite|Strondabella]] and believes she’d pay someone else to commit murder
-    - Suggested it could be someone from Brightroot Apartments as they’re less known in town
-- [[Shayee Cloudbrow|Shayee]] (half air genasi, silver dragonborn appearance)
-    - Lied about being out, [[Threecie Novik|Threecie]] sensed it
-    - [[Lyra Shadowflame|Lyra]] tried Minor Illusion to distract, [[Risgex Cloudbrow|Risgex]] noticed and is now suspicious
-    - [[Threecie Novik|Threecie]] pulled [[Shayee Cloudbrow|Shayee]] aside and got the truth
-        - Was with [[Syndra Tallbloom|Syndra]] last night
-        - Didn’t notice anything strange, just avoided being caught
-        - Used to drink with [[Mallone Ulaxidor|Mallone]]
-        - Said [[Mallone Ulaxidor|Mallone]] didn’t get on with Keggronites, [[Bertrum Greyson|Bertrum]], [[Saria Tallbloom|Saria]], and [[Danlas Ligroves|Danlas]]
-        - [[Danlas Ligroves|Danlas]] wants [[Marius Ligroves|Marius]] to take over as lawmaster
+### **Team Assignment**
+
+- **Investigators:** [[Threecie Novik|Threecie]], [[Lyra Shadowflame|Lyra]], [[Manmosu]]
+
+### **Initial Observations**
+
+- **Overheard:** [[Risgex Cloudbrow|Risgex]] questioning someone about their whereabouts the previous night
+- **Family Dynamics:** Clear concern about [[Shayee Cloudbrow|Shayee]]'s nocturnal activities
+
+### **[[Risgex Cloudbrow|Risgex]] Interview
+
+- **Family Knowledge:** Believes everyone was home but acknowledges [[Shayee Cloudbrow|Shayee]]'s tendency to sneak out
+- **Keggronite Suspicions:** Strong dislike for [[Strondabella Keggranite|Strondabella]], believes she would hire others for murder rather than act directly
+- **Alternative Theory:** Suggested investigating [[Brightroot Apartments]] residents, as they're less known in the community
+- **Investigation Compromised:** [[Lyra Shadowflame|Lyra]]'s failed *Minor Illusion* distraction made [[Risgex Cloudbrow|Risgex]] suspicious of the party's true motives
+
+### **[[Shayee Cloudbrow|Shayee]] Interview
+
+- **Initial Deception:** Lied about being out, but [[Threecie Novik|Threecie]]'s insight detected the falsehood
+- **Private Confession:** [[Threecie Novik|Threecie]] extracted the truth in a one on one conversation
+- **Confirmed Alibi:** Was indeed with [[Syndra Tallbloom|Syndra]] throughout the night
+- **Lack of Observations:** Noticed nothing unusual, focused on avoiding detection
+- **[[Mallone Ulaxidor|Mallone]]'s Relationships:**
+  - Used to drink with her socially
+  - Confirmed [[Mallone Ulaxidor|Mallone]]'s poor relationships with Keggronites, [[Bertrum Greyson|Bertrum]], [[Saria Tallbloom|Saria]], and [[Danlas Ligroves|Danlas]]
+  - Revealed [[Danlas Ligroves|Danlas]]'s ambitions for [[Marius Ligroves|Marius]] to become the new lawmaster
 
 ---
 
-## **Cloudbrow Barn – Narchis**
+## **The [[Cloudbrow Farm & Barn|Cloudbrow Barn]] Mystery**
 
-- [[Narchis Cloudbrow|Narchis]] is distraught. [[Mrs Cluckerson]] the chicken is gone
-    - Believes she’s gone to the city to make it big
-- Only he and his wife have barn keys
-- Barn lock was picked recently
-- [[Foxtrot Fowler|Foxtrot]] ([[Tango Fowler|Tango]]’s partner) was gone for years and only returned a few months ago
-- [[Lyra Shadowflame|Lyra]] agrees to keep watch overnight in case anything returns
+### **[[Narchis Cloudbrow|Narchis]]'s Distress**
+
+- **Missing Asset:** [[Mrs Cluckerson]] the prized chicken has disappeared
+- **Big Theory:** Believes she's gone to the city "to make it big"
+- **Security Details:** Only he and his wife possess barn keys
+- **Evidence of Break In:** Lock showing clear signs of being picked recently
+
+### **The [[Foxtrot Fowler|Foxtrot]] Connection**
+
+- **Background:** [[Foxtrot Fowler|Foxtrot]] is [[Tango Fowler|Tango]]'s partner who disappeared for years
+- **Recent Return:** Only came back to town a few months ago
+- **Timing Significance:** His return coincides with increasing tensions in the community
+
+### **[[Lyra Shadowflame|Lyra]]'s Commitment**
+
+- **Surveillance Plan:** Agreed to maintain overnight watch at the barn
+- **Objective:** Determine if [[Mrs Cluckerson]] or other entities return to the scene
 
 ---
 
-## **Other Notes**
+## **Character Development Notes**
 
-- [[Threecie Novik|Threecie]] self-conscious around [[Shayee Cloudbrow|Shayee]] and hid her scarred side
-- [[Gralstak]] has a fart jar that records sound, being considered for subterfuge
+- **[[Threecie Novik|Threecie]]:** Showed self-consciousness around [[Shayee Cloudbrow|Shayee]], deliberately hiding her scarred side
+- **[[Gralstak]]:** His recording fart jar continues to be considered for surveillance and subterfuge operations
+- **[[Lyra Shadowflame|Lyra]]:** Taking initiative in the investigation, volunteering for potentially dangerous overnight surveillance
+
+---
+
+## Navigation
+
+← [[Session 1]] **Previous** | **Next:** [[Session 3]] →
