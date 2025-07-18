@@ -3,7 +3,7 @@ aliases: [Cerbereburn]
 tags: []
 title: Cerbereburn
 date created: Friday, July 4th 2025, 1:04:26 pm
-date modified: Friday, July 18th 2025, 10:13:23 am
+date modified: Friday, July 18th 2025, 11:30:55 am
 ---
 
 ![[Pasted image 20250704130658.webp]]

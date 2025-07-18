@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags: []
+title: Session 6 – Next Session
 date created: Friday, July 18th 2025, 10:47:55 am
 date modified: Friday, July 18th 2025, 11:04:01 am
 ---

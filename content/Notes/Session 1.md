@@ -14,7 +14,7 @@ date modified: Friday, July 18th 2025, 11:03:50 am
 
 - **[[Lharamit Pirevin Rhyne|Lharamit]]**–4'5" brown-furred bunny with a fluffy mane and religious vestments. Acolyte of [[Shallandra]]
 - **[[Threecie Novik|Threecie]]**–6'5" blue-scaled dragonborn with a glass eye and fully gloved arm. Mercenary on a mysterious errand
-- **[[Lyra Shadowflame|Lyra]]**–5'8" nerdy human carrying a massive book, accompanied by her owl familiar. Dressed like a worn-out librarian, heading to study magic
+- **[[Lyra Shadowflame|Lyra]]**–5'8" nerdy tiefling carrying a massive book, accompanied by her owl familiar. Dressed like a worn-out librarian, heading to study magic
 - **[[Gralstak]]**–7'4" bald, greenish human in raggedy clothes, sporting a monocle and bristling with potions. Carries a surprisingly fancy greataxe and seeks strong allies
 - **[[Manmosu]]**–Well-dressed Loxodon with a monocle and magnifying glass, constantly taking notes. Claims to be on a "sanctioned mission"
 - **[[Robin Thaleia|Robin]]**–5'8" pretty, finely dressed, feminine-presenting human. Charismatic and particular about appearances, travelling to meet unspecified people

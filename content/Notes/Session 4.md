@@ -42,7 +42,7 @@ date modified: Friday, July 18th 2025, 10:52:55 am
 
 *The party divides to investigate simultaneous disturbances across town.*
 
-### The Keggronite Investigation**
+### **The Keggronite Investigation**
 
 - **Personnel:** [[Threecie Novik|Threecie]], [[Lharamit Pirevin Rhyne|Lharamit]], [[Lyra Shadowflame|Lyra]]
 - **Target:** Responding to screams near the Keggronite residence
@@ -50,7 +50,7 @@ date modified: Friday, July 18th 2025, 10:52:55 am
 - **Findings:** [[Jafrak Keggranite|Jafrak]] appeared normal, eating dinner peacefully
 - **Assessment:** No immediate evidence of supernatural involvement
 
-### Brightroot Apartments Sweep**
+### **Brightroot Apartments Sweep**
 
 - **Personnel:** [[Robin Thaleia|Robin]], [[Gralstak]]
 - **Approach:** Systematic door to door investigation

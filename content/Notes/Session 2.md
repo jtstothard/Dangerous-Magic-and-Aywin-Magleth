@@ -80,7 +80,7 @@ date modified: Friday, July 18th 2025, 10:52:45 am
 - **Alternative Theory:** Suggested investigating [[Brightroot Apartments]] residents, as they're less known in the community
 - **Investigation Compromised:** [[Lyra Shadowflame|Lyra]]'s failed *Minor Illusion* distraction made [[Risgex Cloudbrow|Risgex]] suspicious of the party's true motives
 
-### **[[Shayee Cloudbrow|Shayee]] Interview
+### **[[Shayee Cloudbrow|Shayee]] Interview**
 
 - **Initial Deception:** Lied about being out, but [[Threecie Novik|Threecie]]'s insight detected the falsehood
 - **Private Confession:** [[Threecie Novik|Threecie]] extracted the truth in a one on one conversation
