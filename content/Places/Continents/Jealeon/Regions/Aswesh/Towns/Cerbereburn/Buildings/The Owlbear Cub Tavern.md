@@ -19,9 +19,9 @@ date modified: Tuesday, July 15th 2025, 11:07:19 am
 
 ## Staff & Management
 
-| Role | Name | Description |
-|------|------|-------------|
-| **Barkeep/Owner** | *Unknown Name* | A big, burly minotaur (they/them) who runs the establishment |
+| Role              | Name             | Description                                                  |
+| ----------------- | ---------------- | ------------------------------------------------------------ |
+| **Barkeep/Owner** | [[Zymis Wenben]] | A big, burly minotaur (they/them) who runs the establishment |
 
 ---
 

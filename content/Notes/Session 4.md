@@ -1,9 +1,9 @@
 ---
 aliases: []
 tags: []
-title: Session 4
+title: Session 4 – 🌕 Moons, Mayhem, and Mistrust
 date created: Monday, July 14th 2025, 10:59:14 pm
-date modified: Tuesday, July 15th 2025, 11:17:14 am
+date modified: Friday, July 18th 2025, 10:52:55 am
 ---
 
 ## **Aftermath Of the Werechicken Attack**

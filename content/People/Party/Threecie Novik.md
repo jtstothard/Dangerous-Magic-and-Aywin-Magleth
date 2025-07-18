@@ -3,7 +3,7 @@ tags: []
 aliases: [Threecie]
 title: Threecie Novik
 date created: Friday, July 4th 2025, 12:57:26 pm
-date modified: Tuesday, July 15th 2025, 10:55:10 am
+date modified: Tuesday, July 15th 2025, 1:47:25 pm
 ---
 
 ![[Pasted image 20250704125835.webp]]

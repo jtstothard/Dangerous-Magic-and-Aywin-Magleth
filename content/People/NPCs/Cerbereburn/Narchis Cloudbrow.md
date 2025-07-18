@@ -4,7 +4,7 @@ aliases: [Narchis]
 pronouns: he/him
 title: Narchis Cloudbrow
 date created: Tuesday, July 8th 2025, 4:59:38 pm
-date modified: Tuesday, July 15th 2025, 10:39:42 am
+date modified: Friday, July 18th 2025, 11:08:35 am
 ---
 
 **Narchis Cloudbrow** is a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who owns and operates a barn with his wife. He became involved in the investigation when his prized chicken [[Mrs Cluckerson]] went missing, which later proved to be connected to the supernatural crisis affecting the town.

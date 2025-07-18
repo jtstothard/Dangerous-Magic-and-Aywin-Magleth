@@ -3,7 +3,7 @@ aliases: []
 tags: []
 title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Tuesday, July 15th 2025, 11:17:07 am
+date modified: Friday, July 18th 2025, 11:02:07 am
 ---
 
 Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
@@ -22,13 +22,14 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 📝 Session Notes
 
-- [[Session 0]] - Character Creation & World Building
-- [[Session 0.5]] - Prologue
-- [[Session 1]] - The Adventure Begins
-- [[Session 2]] - Continuing the Journey
-- [[Session 3]] - Deeper into the Mystery
-- [[Session 4]] - Plot Thickens
-- [[Session 5]] - Next Session
+- [[Session 0]] - 🕯️ Character Creation & Campaign Setup
+- [[Session 0.5]] - 📦 Prologue
+- [[Session 1]] - 🗡️ Murder In Town
+- [[Session 2]] - 🥚 Clucking Suspicions
+- [[Session 3]] - 🌘 Night Watch & Missing Folk
+- [[Session 4]] - 🌕 Moons, Mayhem, and Mistrust
+- [[Session 5]] - 🗝️ Lock Picks & Loose Ends
+- [[Session 6]] - Next Session
 
 ### 🌍 The World
 

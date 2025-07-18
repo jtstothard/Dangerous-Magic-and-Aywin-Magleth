@@ -1,8 +1,9 @@
 ---
+aliases: []
 tags: []
-title: Session 2
+title: Session 2 – 🥚 Clucking Suspicions
 date created: Tuesday, July 8th 2025, 4:13:43 pm
-date modified: Tuesday, July 15th 2025, 10:55:52 am
+date modified: Friday, July 18th 2025, 10:52:45 am
 ---
 
 ## Investigation Continues

@@ -9,7 +9,7 @@ date modified: Tuesday, July 15th 2025, 10:55:41 am
 
 ## Astronomical Properties
 
-- **Lunar Cycle**: A couple of hundred days
+- **Lunar Cycle**: 251 days
 - **Appearance**: Small, red, hard to see
 
 ## Lycanthropic Connections

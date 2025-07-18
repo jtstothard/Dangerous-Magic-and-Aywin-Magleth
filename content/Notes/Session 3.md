@@ -1,8 +1,9 @@
 ---
+aliases: []
 tags: []
-title: Session 3
+title: Session 3 – 🌘 Night Watch & Missing Folk
 date created: Tuesday, July 8th 2025, 4:17:45 pm
-date modified: Tuesday, July 15th 2025, 10:55:53 am
+date modified: Friday, July 18th 2025, 10:52:50 am
 ---
 
 ## **The [[Cloudbrow Farm & Barn|Barn]] Stakeout**

@@ -4,7 +4,7 @@ aliases: [Risgara]
 pronouns: he/him
 title: Risgara Geraves
 date created: Tuesday, July 8th 2025, 5:01:39 pm
-date modified: Tuesday, July 15th 2025, 10:42:49 am
+date modified: Friday, July 18th 2025, 11:19:10 am
 ---
 
 **Risgara Geraves** is a tiefling resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who lives in the [[Brightroot Apartments]]. He was initially a prime suspect in [[Mallone Ulaxidor|Mallone]]'s murder due to an incident the night before, but has since been largely dismissed as a red herring in the investigation.
@@ -15,6 +15,14 @@ date modified: Tuesday, July 15th 2025, 10:42:49 am
 - **Heavy drinker** - Known for drinking heavily and becoming disruptive at the local tavern
 - **Hungover and unhelpful** - When questioned by investigators, was suffering from a hangover and provided little useful information
 - **Apartment dweller** - Lives in the [[Brightroot Apartments]], the same complex where [[Zymis Wenben|Zymis]] was later murdered
+- **Lacks self-control** - According to [[Mallone Ulaxidor|Mallone]]'s surveillance files, assessed as someone who "lacks self-control" and is "likely to cause trouble"
+- **Source of conflict** - [[Ramman Onyxguard|Ramman]] has been increasingly frustrated with him, suggesting ongoing tensions within the apartment complex
+
+## Intelligence Assessment
+
+**[[Mallone Ulaxidor|Mallone]]'s Surveillance:** The lawmaster's confidential files revealed ongoing monitoring of Risgara since his arrival in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]. [[Mallone Ulaxidor|Mallone]] assessed him as lacking self-control and being likely to cause trouble, which proved accurate given his disruptive tavern behavior.
+
+**Apartment Complex Dynamics:** The surveillance files tracked escalating tension between Risgara and [[Ramman Onyxguard|Ramman]], with [[Ramman Onyxguard|Ramman]] becoming increasingly frustrated with Risgara's behavior. The notation that this was written on a different day (noted by different ink) suggests the conflict has been ongoing and deteriorating over time.
 
 ## The Night Before the Murder
 

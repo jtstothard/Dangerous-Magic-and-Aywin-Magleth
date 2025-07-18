@@ -4,7 +4,7 @@ aliases: [Robin]
 pronouns: he/him
 title: Robin Thaleia
 date created: Friday, July 4th 2025, 1:00:49 pm
-date modified: Tuesday, July 15th 2025, 10:55:10 am
+date modified: Friday, July 18th 2025, 11:02:02 am
 ---
 
 **Pronouns:** He/Him
@@ -60,3 +60,12 @@ date modified: Tuesday, July 15th 2025, 10:55:10 am
 - **Spell arrest incident** - [[Marius Ligroves|Marius]] attempted to arrest him for spellcasting, but [[Gralstak]] intervened by carrying off the lawmaster
 - **Strategic thinking** - Shows good judgment about when to use magic and when to rely on mundane methods
 - **Document analysis** - Found mostly mundane but some politically relevant information in the Ligroves household documents
+
+**Mind-Affecting Magic Controversy (Session 5):**
+
+- **_Command_ spell usage** - Used _Command_ to force [[Gralstak]] to leave [[Bertrum Greyson|Bertrum]]'s shop during investigation chaos
+- **Ethical stance** - Dismissive about consent regarding magical compulsion, claimed [[Gralstak]]'s feelings were "his own making"
+- **Party fracture** - His casual use of mind affecting magic caused [[Threecie Novik|Threecie]] and [[Lharamit Pirevin Rhyne|Lharamit]] to storm off in protest
+- **[[Threecie Novik|Threecie]]'s trauma response** - Triggered her declaration of "no one getting in my head again"
+- **Official consequences** - Received warning from [[Marius Ligroves|Marius]] for magical misconduct, attempted to give it to [[Lyra Shadowflame|Lyra]]
+- **Attitude toward magic** - Remains flippant about the ethical implications of magic use on party members

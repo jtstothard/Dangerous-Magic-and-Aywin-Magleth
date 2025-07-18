@@ -4,7 +4,7 @@ aliases: [Amara]
 pronouns: they/them
 title: Amara Tallbloom
 date created: Tuesday, July 8th 2025, 5:06:50 pm
-date modified: Tuesday, July 15th 2025, 10:30:04 am
+date modified: Friday, July 18th 2025, 10:40:51 am
 ---
 
 **Amara Tallbloom** is a young adult and child of [[Saria Tallbloom]], who runs the stables in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]. Amara lives at the Tallbloom Home with their mother and younger sister [[Syndra Tallbloom]].

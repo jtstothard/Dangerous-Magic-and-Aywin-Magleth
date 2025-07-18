@@ -4,7 +4,7 @@ aliases: [Zymis]
 pronouns: he/him
 title: Zymis Wenben
 date created: Monday, July 14th 2025, 7:43:54 pm
-date modified: Tuesday, July 15th 2025, 10:55:05 am
+date modified: Friday, July 18th 2025, 10:40:41 am
 ---
 
 **Zymis Wenben** was a resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who lived in the [[Brightroot Apartments]]. He became the second murder victim in the town's crisis, killed by what appears to be a werewolf attack in his own room.

@@ -4,7 +4,7 @@ aliases: [Shayee]
 pronouns: she/her
 title: Shayee Cloudbrow
 date created: Tuesday, July 8th 2025, 5:09:38 pm
-date modified: Tuesday, July 15th 2025, 10:48:04 am
+date modified: Friday, July 18th 2025, 11:05:03 am
 ---
 
 **Shayee Cloudbrow** is a young resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] and daughter of [[Risgex Cloudbrow|Risgex]]. She is in a secret romantic relationship with [[Syndra Tallbloom|Syndra]] and has been a crucial witness in providing alibis and information about the town's political tensions.

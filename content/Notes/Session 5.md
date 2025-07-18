@@ -1,183 +1,262 @@
 ---
 aliases: []
 tags: []
-title: Session 5
+title: Session 5 – 🗝️ Lock Picks & Loose Ends
 date created: Monday, July 14th 2025, 7:46:14 pm
-date modified: Tuesday, July 15th 2025, 11:17:20 am
+date modified: Friday, July 18th 2025, 11:03:57 am
 ---
 
-## Previous Session Recap
+## **Jailbreak Operations**
 
-*The werewolf threat becomes undeniable as the party uncovers more evidence and faces growing political complications.*
+*With [[Lyra Shadowflame|Lyra]] and [[Manmosu]] imprisoned, escape becomes the priority.*
 
-### **Werechicken Forensics**
+### **Initial Conditions**
 
-- [[Lharamit Pirevin Rhyne|Lharamit]] and [[Gralstak]] determined most chickens were infected by other chickens
-- Critical discovery: One group showed large bite marks from a bigger creature, indicating deliberate infection spreading
+- **[[Manmosu]]'s State:** Disgruntled and determined to leave town
+- **Legal Defense:** Claims hiring someone for murder isn't illegal in this area, insists he never killed anyone himself
+- **[[Lyra Shadowflame|Lyra]]'s Approach:** Cast *Unseen Servant* to facilitate the escape
 
-### **Lycanthropic Lore Discussion**
+### **Interaction With [[Marius Ligroves|Marius]]**
 
-- **Three Moon System:** Each lycanthrope type corresponds to a specific moon
-- **Transformation Mechanics:** Full moons force involuntary transformation
-- **Strategic Implications:** Understanding lunar cycles could predict future incidents
+- **[[Lyra Shadowflame|Lyra]]'s Strategy:** Complimented the jail as "nice," prompting [[Marius Ligroves|Marius]] to threaten making it worse, [[Lyra Shadowflame|Lyra]] doesn't seem worried
+- **[[Manmosu]]'s Interjection:** Insisted he was having a terrible time
+- **Key Theft:** *Unseen Servant* successfully pickpocketed [[Marius Ligroves|Marius]]'s keys undetected
+- **[[Marius Ligroves|Marius]]'s Departure:** Left the area, providing opportunity for escape
 
-### **Public Werewolf Declaration**
+### **Escape Execution**
 
-- [[Threecie Novik|Threecie]] used *Thaumaturgy* to announce the werewolf threat publicly
-- Successfully forced villagers to present themselves for identity verification
-- Several townspeople responded, but notable absences raised suspicion
-
-### **The Scream & Investigation Split**
-
-- Distant screaming led to tactical party division
-- Team Alpha investigated Keggronites (appeared innocent)
-- Team Beta searched [[Brightroot Apartments]] (mostly empty, [[Risgara Geraves|Risgara]] missing)
-
-### **Night Surveillance Results**
-
-- [[Lharamit Pirevin Rhyne|Lharamit]] visited Fowlers, learned [[Foxtrot Fowler|Foxtrot]] was missing
-- [[Gralstak]] maintained watch on the blacksmith's forge
-- Team discovered flattened grass near apartments indicating recent activity
-
-### **Morning Crisis**
-
-- Tavern stood eerily deserted, suggesting mass fear or evacuation
-- [[Marius Ligroves|Marius]] and [[Strondabella Keggranite|Strondabella]] arrested [[Lyra Shadowflame|Lyra]] and [[Manmosu]] as "leverage"
-
-### **First Confirmed Werewolf Victim**
-
-- [[Zymis Wenben|Zymis]] found mauled in the forest
-- Crime scene showed clear werewolf attack patterns
-- [[Marius Ligroves|Marius]] obstructed thorough investigation
-
-### **[[Foxtrot Fowler|Foxtrot]]'s Suspicious Behaviour**
-
-- [[Robin Thaleia|Robin]] used *Charm Person* for interrogation
-- [[Foxtrot Fowler|Foxtrot]] showed genuine shock about werechickens but alarm that the party killed them
-- Clearly hiding significant information about the lycanthropic situation
-
-### **Authority Breakdown**
-
-- [[Gralstak]] physically carried away [[Marius Ligroves|Marius]] when arrest was attempted
-- [[Amara Tallbloom|Amara]] witnessed the confrontation and confirmed family alibis
+- **First Deception Attempt:** [[Lyra Shadowflame|Lyra]] tried to fake unlocking the cell, expecting [[Manmosu]] to leave immediately - **Failed**
+- **Second Escape Attempt:** Tried to slip out before [[Manmosu]] could follow - **Failed**
+- **[[Manmosu]]'s Departure:** Successfully snuck away from town
+- **[[Lharamit Pirevin Rhyne|Lharamit]]'s Observation:** Spotted [[Manmosu]] leaving, pointed him out to [[Threecie Novik|Threecie]]
+- **Party Decision:** Chose not to intervene in [[Manmosu]]'s escape
 
 ---
 
-## **Current Investigation Leads**
+## **Intelligence Gathering: [[Mallone Ulaxidor|Mallone]]'s Files**
 
-### **High Priority Suspects**
+*[[Lyra Shadowflame|Lyra]] uses her freedom to investigate the lawmaster's office.*
 
-**[[Foxtrot Fowler|Foxtrot]]'s Secrets**
+### **Newcomer Surveillance Notes**
 
-- Demonstrated knowledge about werechickens beyond normal citizen awareness
-- Emotional reaction suggests personal connection to lycanthropic creatures
-- Recent return to town coincides with escalating supernatural incidents
-- Potential connection to [[Strondabella Keggranite|Strondabella]] or forest activities
+#### **[[Foxtrot Fowler|Foxtrot]]**
 
-**[[Risgara Geraves|Risgara]]'s Disappearance**
+- **Behavioral Changes:** More fidgety and skittish than before
+- **Skill Development:** Picked up dexterity tricks in [[Aeremore]]
 
-- Door remained locked during the scream investigation
-- Failed to appear during public werewolf verification
-- Original drunk at tavern, potentially red herring or deliberate misdirection
-- Apartment searches revealed no recent habitation
+#### **[[Brightroot Apartments]] Residents**
 
-### **Missing Key Evidence**
+- **[[Risgara Geraves|Risgara]]:**
+  - Lacks self-control, likely to cause trouble
+  - [[Ramman Onyxguard|Ramman]] increasingly frustrated with him (noted on different day as ink dried different)
+- **[[Ramman Onyxguard|Ramman]]:** Authoritative but short-tempered
+- **[[Snadwe Wemdiem|Snadwe]]:** Nervous, skittish, easily peer-pressured
 
-**[[Mrs Cluckerson]] Investigation**
+### **Intelligence Gathering Methods**
 
-- Prize chicken remains missing since barn break-in
-- Possibly the original infected creature or patient zero
-- Could be roaming as transformed werechicken
-- Might hold clues to infection source or method
+- **[[Mallone Ulaxidor|Mallone]]'s Approach:** Regular drinking sessions to loosen tongues
+- **Target Subjects:** [[Zymis Wenben|Zymis]], [[Shayee Cloudbrow|Shayee]], [[Amara Tallbloom|Amara]]
 
-**Forest Trail Analysis**
+### **Family Intelligence**
 
-- [[Zymis Wenben|Zymis]]'s body location had nearby blood trail evidence
-- Could lead to werewolf den, transformation site, or secondary crime scene
-- [[Marius Ligroves|Marius]]'s obstruction prevented thorough examination
-- Independent investigation required
+#### **Cloudbrow Family Dynamics**
 
-### **Political Investigations**
+- **[[Risgex Cloudbrow|Risgex]]:** Aware of [[Shayee Cloudbrow|Shayee]]'s sneaking but has wrong idea about who she's seeing
+- **[[Shayee Cloudbrow|Shayee]]:**
+  - Sides with father on chicken vs. sheep profitability
+  - Resents mother's opposing opinion adding to tensions
 
-**[[Marius Ligroves|Marius]] & [[Strondabella Keggranite|Strondabella]] Alliance**
+#### **Tallbloom Family Assessments**
 
-- Coordinated arrest attempt suggests deeper cooperation
-- Could indicate cover-up, panic response, or direct involvement
-- [[Strondabella Keggranite|Strondabella]]'s business documents merit further examination
-- Power dynamics shifting rapidly in town leadership
+- **[[Amara Tallbloom|Amara]]:**
+  - Happy with [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]'s quiet compared to city life
+  - Only person [[Mallone Ulaxidor|Mallone]] trusts in town
+  - Described as "chill and normal"
+- **[[Syndra Tallbloom|Syndra]]:** Very immature, treats relationship as world ending importance
+- **[[Saria Tallbloom|Saria]]:** More intelligent than she appears, requires careful watching
 
-**Lycanthropic Knowledge Sources**
+### **Key Figures Assessment**
 
-- Church records might contain historical lycanthropy incidents
-- [[Dhunta Rannacit|Dhunta]] could possess local folklore or family knowledge
-- Old books or town archives may document previous outbreaks
-- Precedent for werechickens needs investigation
-
-### **Character Alibis & Connections**
-
-**[[Shayee Cloudbrow|Shayee]] & [[Syndra Tallbloom|Syndra]]**
-
-- Romantic relationship provides mutual alibis for multiple incidents
-- [[Shayee Cloudbrow|Shayee]]'s magical heritage (half air genasi) could be relevant
-- Both have demonstrated knowledge of town dynamics and secret movements
-
-**[[Bertrum Greyson|Bertrum]] the Blacksmith**
-
-- Consistently unaccounted for during critical events
-- Previous suspicion for murder weapon creation
-- Pollution disputes with neighbors provide motive for broader conflicts
-- Evasive behaviour pattern established
+- **[[Bertrum Greyson|Bertrum]]:** Most capable fighter, primary backup for violent situations
+- **[[Strondabella Keggranite|Strondabella]]:**
+  - Most intelligent person in town
+  - Only reveals information she wants known
+  - Best interrogated separately from [[Jafrak Keggranite|Jafrak]]
+  - [[Mallone Ulaxidor|Mallone]] opposes Keggronite dominance of town
 
 ---
 
-## **Supernatural Threat Analysis**
+## **Blacksmith Investigation**
 
-### **Confirmed Lycanthropic Activity**
+*The party regroups and targets [[Bertrum Greyson|Bertrum]] for further investigation.*
 
-- **Werechicken Outbreak:** Artificially created through deliberate infection process
-- **Werewolf Presence:** At least one shapeshifter capable of strategic planning and human-form murders
-- **Infection Vector:** Large creature biting chickens intentionally to spread lycanthropy
+### **Initial Approach & Entry**
 
-### **Strategic Implications**
+- **[[Bertrum Greyson|Bertrum]]'s State:** Loudly smithing, didn't notice party approach
+- **[[Lharamit Pirevin Rhyne|Lharamit]]'s First Attempt:** Tried to pick lock, discovered shop contents unsuitable as lockpicks
+- **[[Lyra Shadowflame|Lyra]]'s Solution:** Provided [[Marius Ligroves|Marius]]'s lawmaster keys
 
-- **Timing Coordination:** Incidents occurring in sequence suggest intelligent planning rather than random attacks
-- **Political Manipulation:** Supernatural threats coinciding with political instability indicates possible coordination
-- **Information Control:** Official channels compromised, requiring independent investigation methods
+### **Distraction Tactics**
 
-### **Unresolved Questions**
+- **[[Robin Thaleia|Robin]] & [[Threecie Novik|Threecie]]:** Engaged [[Bertrum Greyson|Bertrum]] in conversation outside
+- **[[Gralstak]]:** Pretended to browse shop inventory
+- **[[Lyra Shadowflame|Lyra]]:** Used *Unseen Servant* to search river bottom for murder weapon (unsuccessful)
 
-- **Original Source:** What creature or person initiated the lycanthropic infections?
-- **Motivation:** Political destabilization, personal revenge, or external threat?
-- **Scope:** How many townspeople might be infected or involved?
-- **Connection:** Relationship between [[Mallone Ulaxidor|Mallone]]'s murder and lycanthropic outbreak timing?
+### **[[Threecie Novik|Threecie]] And [[Robin Thaleia|Robin]]'s Interrogation**
 
----
+- **Contact Method:** Telepathy (*Message*), startled [[Bertrum Greyson|Bertrum]]
+- **Location:** Moved conversation to back of the shop
+- **Alibi Question:** [[Bertrum Greyson|Bertrum]] claimed to be home alone during murders
+- **[[Robin Thaleia|Robin]]'s Mistake:** Pitied [[Bertrum Greyson|Bertrum]] for living alone, causing defensive reaction
+- **[[Bertrum Greyson|Bertrum]]'s Response:** "You said you pitied me because I own a house, what the fuck was that"
+- **Opinion on [[Foxtrot Fowler|Foxtrot]]:** Typical "dumb kid goes to city, gets knocked down, comes back with tail between legs"
 
-## **Next Session Priorities**
+### **Professional Information**
 
-### **Immediate Actions Required**
-
-1. **Secure Release:** Negotiate or facilitate escape for [[Lyra Shadowflame|Lyra]] and [[Manmosu]]
-2. **Forest Investigation:** Follow blood trail and examine [[Zymis Wenben|Zymis]]'s scene thoroughly
-3. **[[Foxtrot Fowler|Foxtrot]] Confrontation:** Extract full truth about his lycanthropic knowledge
-4. **[[Mrs Cluckerson]] Search:** Locate missing chicken, potentially transformed
-
-### **Information Gathering**
-
-1. **Lycanthropic Research:** Consult church, archives, or local experts for historical precedent
-2. **Political Documents:** Access [[Strondabella Keggranite|Strondabella]]'s correspondence and business records
-3. **Alibi Verification:** Cross-reference timing of all suspects during key incidents
-4. **Authority Structure:** Determine legitimate leadership in [[Marius Ligroves|Marius]]'s absence
-
-### **Strategic Considerations**
-
-- **Public Safety:** Protect remaining townspeople from further lycanthropic attacks
-- **Political Stability:** Prevent complete breakdown of local authority
-- **Evidence Preservation:** Document supernatural threats for future reference
-- **Party Unity:** Maintain group cohesion despite arrests and growing tensions
+- **Silver Work:** No longer crafts silver items due to coastal wizard's changing their mind affecting lycanthrope resistances
+- **Lock & Key Creation:** Makes all town locks, requires [[Mallone Ulaxidor|Mallone]]'s supervision to ensure only two keys per lock (family + lawmaster)
+- **Tallbloom Suspicions:** If he were the murderer, would have targeted Tallblooms directly rather than [[Zymis Wenben|Zymis]]
+- **Town Knowledge:** Knows everyone except [[Brightroot Apartments]] residents
 
 ---
 
-## Navigation
+## **House Search & Evidence**
 
-← [[Session 4]] **Previous**
+*[[Lharamit Pirevin Rhyne|Lharamit]] conducts covert investigation while others maintain distraction.*
+
+### **Bedroom Discovery**
+
+- **Weapon Found:** Dagger in bedside table
+- **Condition Assessment:** Unclear if recently used; would have been cleaned if used
+- **Living Conditions:** Very messy, no visitors expected
+
+### **Disturbing Artwork**
+
+- **Drawing Located:** Near top of miscellaneous stack
+- **Content:** Crude drawing of tongue with blade cutting it, blood droplet
+- **Implications:** Possible threat or warning
+- **[[Lharamit Pirevin Rhyne|Lharamit]]'s Action:** Made copy of drawing
+
+### **[[Gralstak]]'s Disruption**
+
+- **Weapon Examination:** Demanded to see various shop weapons
+- **Purchase Deception:** Repeatedly claimed intent to buy, then changed mind
+- **Evidence Claim:** Attempted to take box of daggers as "evidence"
+- **[[Bertrum Greyson|Bertrum]]'s Refusal:** Insisted they were wares, not evidence
+- **Dramatic Exit:** [[Gralstak]] flung dagger across room, passed through [[Threecie Novik|Threecie]]'s ghostly hand
+
+### **Escape Complications**
+
+- **Downstairs Route Blocked:** Conversation ongoing, no stealth opportunity
+- **Window Exit:** [[Lharamit Pirevin Rhyne|Lharamit]] attempted roof escape
+- **Roof Accident:** Slipped, created noise, dislodged tiles
+- **[[Lyra Shadowflame|Lyra]]'s Cover:** Used *Mending* on tiles to distract [[Bertrum Greyson|Bertrum]]
+- **[[Bertrum Greyson|Bertrum]]'s Reaction:** "What the fuck are you doing to my roof?". Further hostility to [[Lyra Shadowflame|Lyra]]
+
+### **Final Confrontation**
+
+- **[[Robin Thaleia|Robin]]'s Command:** Used *Command* spell to make [[Gralstak]] leave
+- **[[Gralstak]]'s Accusation:** Claimed [[Robin Thaleia|Robin]] had been controlling all his actions
+- **Mass Ejection:** [[Bertrum Greyson|Bertrum]] kicked entire group out for causing disturbance
+
+---
+
+## **Stables Reconnaissance**
+
+*[[Lharamit Pirevin Rhyne|Lharamit]] uses her escape route for additional intelligence gathering.*
+
+### **[[Saria Tallbloom|Saria]] Interview**
+
+- **Cover Story:** Acted as if she'd always intended to visit stables
+- **Werewolf Discussion:** Asked about lycanthrope threats and murders
+- **[[Saria Tallbloom|Saria]]'s Hypothesis:** If she were the murderer, would use werechickens as distraction
+- **Behavioral Note:** Unusually upfront and honest, seemed to be sizing up [[Lharamit Pirevin Rhyne|Lharamit]]
+
+### **Alibi Verification**
+
+- **Previous Night:** [[Saria Tallbloom|Saria]] didn't appear during [[Threecie Novik|Threecie]]'s public announcement
+- **[[Saria Tallbloom|Saria]]'s Explanation:** Was in bed, acknowledged usefulness of alibi is limited
+- **[[Amara Tallbloom|Amara]]'s Corroboration:** Confirmed both went to bed at same time
+
+### **Relationships & Motives**
+
+- **Limited Knowledge:** Didn't know much about [[Zymis Wenben|Zymis]] personally
+- **[[Strondabella Keggranite|Strondabella]] Suspicion:** Suggested she might have motive regarding chickens
+
+---
+
+## **Party Tensions & Consequences**
+
+*Internal conflicts emerge over magical ethics and investigation methods.*
+
+### **[[Robin Thaleia|Robin]] Vs. [[Gralstak]] Confrontation**
+
+- **[[Gralstak]]'s Position:** "Don't mess with my brain"
+- **[[Robin Thaleia|Robin]]'s Defense:** Claimed feelings were [[Gralstak]]'s own making
+- **Evidence Dispute:** [[Robin Thaleia|Robin]] explained daggers in shop aren't evidence
+
+### **[[Threecie Novik|Threecie]]'s Moral Stand**
+
+- **Primary Objection:** "Don't make people do stuff against their will"
+- **Personal Trauma:** "No one getting in her head again"
+- **Physical Response:** Attempted to punch [[Robin Thaleia|Robin]] asking everyone to just "go along with it" as [[Marius Ligroves|Marius]] approaches
+- **Alliance:** [[Lharamit Pirevin Rhyne|Lharamit]] joined her in storming off
+
+### **[[Robin Thaleia|Robin]]'s Attitude**
+
+- **Casual Dismissal:** Flippant about mind affecting spells
+- **Ethical Flexibility:** Unconcerned about consent regarding magical compulsion
+
+---
+
+## **Legal Ramifications**
+
+*[[Marius Ligroves|Marius]] and [[Foxtrot Fowler|Foxtrot]] arrive to address the magical incident.*
+
+### **[[Marius Ligroves|Marius]]'s Investigation**
+
+- **[[Foxtrot Fowler|Foxtrot]]'s Report:** Had been complaining about [[Robin Thaleia|Robin]] casting spells. Doesn't seem too bothered but is just trying to pass on suspicion
+- **[[Gralstak]]'s Support:** Agreed with lawman's position
+- **[[Robin Thaleia|Robin]]'s Counter:** "Look at what level you're stooping to. You're on [[Gralstak]]'s level."
+- **Credibility:** [[Marius Ligroves|Marius]] didn't believe [[Gralstak]]'s control claims, helping [[Robin Thaleia|Robin]]'s case
+
+### **Missing Keys Discovery**
+
+- **Office Access:** [[Marius Ligroves|Marius]] found lawmaster office locked
+- **Key Realization:** Discovered he didn't have his keys
+- **[[Lyra Shadowflame|Lyra]] Confrontation:** Accused her of theft, she denied having them. Lyra is intimidated by [[Marius Ligroves|Marius]]'s presence
+- **Accomplice Theory:** [[Lyra Shadowflame|Lyra]] redirected blame to [[Lharamit Pirevin Rhyne|Lharamit]]
+- **[[Lharamit Pirevin Rhyne|Lharamit]]'s Response:** Denied being accomplice, returned keys
+- **[[Marius Ligroves|Marius]]'s Confusion:** Accused [[Lyra Shadowflame|Lyra]] of planting keys on [[Lharamit Pirevin Rhyne|Lharamit]]
+- **Missing Prisoner:** [[Marius Ligroves|Marius]] didn't notice [[Manmosu]]'s absence until [[Lyra Shadowflame|Lyra]] pointed it out
+
+### **Official Warnings**
+
+- **Recipients:** [[Robin Thaleia|Robin]] and [[Lyra Shadowflame|Lyra]]
+- **Document Quality:** Shitty written warning that means fuck all
+- **Requirement:** Must keep warnings on person for repeat offence tracking
+- **[[Robin Thaleia|Robin]]'s Attempt:** Tried to give his warning to [[Lyra Shadowflame|Lyra]], was refused by [[Marius Ligroves|Marius]]
+- **Sentimental:** [[Lyra Shadowflame|Lyra]] puts the note in a scrapbook and expresses joy at the souvenir
+
+---
+
+## **Outstanding Questions**
+
+*Several mysteries remain unresolved.*
+
+### **Lycanthropy Research**
+
+- **Cure Availability:** Unknown if lycanthropy can be treated
+- **Study Level:** Affliction not well researched
+
+### **Investigation Status**
+
+- **Primary Suspect** Foxtrot seems to have most suspicion
+- **Evidence Gaps:** Still no murder weapon found
+- **Behavioural Patterns:** Several residents showing suspicious or defensive behaviour
+
+---
+
+### **Navigation**
+
+← [[Session 4]] **Previous** | **Next:** [[Session 6]] →

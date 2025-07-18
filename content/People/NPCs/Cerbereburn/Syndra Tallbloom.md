@@ -4,7 +4,7 @@ aliases: [Syndra]
 pronouns: she/her
 title: Syndra Tallbloom
 date created: Tuesday, July 8th 2025, 5:07:09 pm
-date modified: Tuesday, July 15th 2025, 10:51:12 am
+date modified: Friday, July 18th 2025, 11:05:01 am
 ---
 
 **Syndra Tallbloom** is the youngest member of the Tallbloom family, living at the Tallbloom Home with her mother [[Saria Tallbloom|Saria]] and older sibling [[Amara Tallbloom|Amara]]. She is in a secret romantic relationship with [[Shayee Cloudbrow|Shayee]] that has become entangled with the murder investigation.
