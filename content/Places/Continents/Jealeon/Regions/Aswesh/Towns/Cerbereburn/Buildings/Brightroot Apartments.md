@@ -3,7 +3,7 @@ tags: []
 aliases: [The Apartments]
 title: Brightroot Apartments
 date created: Monday, July 14th 2025, 10:11:02 pm
-date modified: Tuesday, July 15th 2025, 10:55:30 am
+date modified: Friday, July 18th 2025, 11:38:12 am
 ---
 
 ## **Building Summary**
@@ -26,9 +26,9 @@ date modified: Tuesday, July 15th 2025, 10:55:30 am
 | Resident | Unit Status | Investigation Notes |
 |----------|-------------|-------------------|
 | **[[Zymis Wenben]]** | **DECEASED** | Werewolf victim, room shows signs of struggle |
-| **[[Risgara Geraves]]** | Active | Drunk tiefling, whereabouts unknown during critical events |
-| **Ramman Onyxguard** | Active | Minimal information available |
-| **Snadwe Wemdiem** | Active | Minimal information available |
+| **[[Risgara Geraves]]** | Active | Drunk tiefling, lacks self-control, likely to cause trouble. Ongoing tensions with [[Ramman Onyxguard\|Ramman]] |
+| **[[Ramman Onyxguard]]** | Active | Authoritative but short-tempered, increasingly frustrated with [[Risgara Geraves\|Risgara]] |
+| **[[Snadwe Wemdiem]]** | Active | Nervous, skittish, easily peer-pressured |
 
 ---
 
@@ -52,17 +52,26 @@ date modified: Tuesday, July 15th 2025, 10:55:30 am
 
 ## **Building Security Concerns**
 
+### **Surveillance Intelligence**
+
+- **[[Mallone Ulaxidor|Mallone]]'s Assessment**: Noted as least known residents in town
+- **Behavioral Patterns**: [[Risgara Geraves|Risgara]] and [[Ramman Onyxguard|Ramman]] have escalating tensions
+- **Risk Factors**: [[Risgara Geraves|Risgara]]'s lack of self-control, [[Snadwe Wemdiem|Snadwe]]'s susceptibility to peer pressure
+- **Timeline Notes**: [[Mallone Ulaxidor|Mallone]]'s observations written on different days (ink variations noted)
+
 ### **Safety Issues**
 
-- **Werewolf Attack**: One confirmed supernatural assault
-- **Resident Safety**: Other tenants potentially at risk
+- **Werewolf Attack**: One confirmed supernatural assault on [[Zymis Wenben]]
+- **Resident Safety**: Other tenants potentially at risk due to supernatural activity
+- **Internal Conflicts**: Ongoing tensions between residents create additional security concerns
 - **Entry Points**: Multiple access routes including windows
 - **Lockdown Impact**: Building security during town crisis
 
 ### **Investigation Access**
 
 - **Crime Scene Preservation**: [[Zymis Wenben|Zymis]]'s room requires careful documentation
-- **Witness Interviews**: Other residents may have heard or seen relevant events
+- **Witness Interviews**: Other residents may have heard or seen relevant events, though personalities suggest varying cooperation levels
 - **Evidence Collection**: Multiple units may contain relevant information
+- **Surveillance History**: [[Mallone Ulaxidor|Mallone]]'s files provide behavioral baselines for residents
 
 ---
