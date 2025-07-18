@@ -4,7 +4,7 @@ aliases: [Strondabella]
 pronouns: she/her
 title: Strondabella Keggranite
 date created: Tuesday, July 8th 2025, 4:57:05 pm
-date modified: Friday, July 18th 2025, 11:05:02 am
+date modified: Friday, July 18th 2025, 11:34:42 am
 ---
 
 **Strondabella Keggranite** is part of the wealthy dwarven Keggranite family in [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], she is [[Jafrak Keggranite|Jafrak]]'s partner in both business and personal matters. She has emerged as a particularly significant figure in both the murder investigation and the supernatural crisis that followed.
@@ -26,7 +26,7 @@ date modified: Friday, July 18th 2025, 11:05:02 am
 
 ## Intelligence Assessment
 
-**[[Mallone Ulaxidor|Mallone]]'s Surveillance:** According to the lawmaster's confidential files discovered in Session 5, Strondabella was assessed as the "most intelligent person in town" who "only reveals information she wants known." [[Mallone Ulaxidor|Mallone]] specifically planned to interrogate her separately from [[Jafrak Keggranite|Jafrak]], recognizing her as the strategic mind of their partnership.
+**[[Mallone Ulaxidor|Mallone]]'s Surveillance:** According to the lawmaster's confidential files, Strondabella was assessed as the "most intelligent person in town" who "only reveals information she wants known." [[Mallone Ulaxidor|Mallone]] specifically planned to interrogate her separately from [[Jafrak Keggranite|Jafrak]], recognizing her as the strategic mind of their partnership.
 
 **Anti-Keggronite Opposition:** [[Mallone Ulaxidor|Mallone]]'s files explicitly state that she "opposes Keggronite dominance of town," indicating an ongoing political conflict between the lawmaster and the Keggranite business interests.
 

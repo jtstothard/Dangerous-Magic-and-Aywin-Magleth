@@ -1,8 +1,9 @@
 ---
+aliases: []
 tags: []
 title: Manmosu
 date created: Friday, July 4th 2025, 1:00:17 pm
-date modified: Tuesday, July 15th 2025, 10:55:10 am
+date modified: Friday, July 18th 2025, 11:34:20 am
 ---
 
 **Pronouns:** He/Him
@@ -63,7 +64,7 @@ date modified: Tuesday, July 15th 2025, 10:55:10 am
 - **Team coordination** - Works effectively with different party members depending on the situation
 - **Shared traits awareness** - Remains self-conscious about sharing formal appearance traits with [[Gralstak]]
 
-**Recent Departure (Session 5):**
+**Recent Departure:**
 
 - **Arrest and jailbreak** - Was imprisoned with [[Lyra Shadowflame|Lyra]] by [[Marius Ligroves|Marius]] as leverage for party cooperation
 - **Legal justification** - Argued that hiring someone for murder isn't illegal in this area, insisting he never killed anyone himself
