@@ -3,7 +3,7 @@ aliases: []
 tags: []
 title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Friday, July 18th 2025, 11:33:53 am
+date modified: Friday, August 1st 2025, 1:22:36 pm
 ---
 
 Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
@@ -29,7 +29,7 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 - [[Session 3]] - 🌘 Night Watch & Missing Folk
 - [[Session 4]] - 🌕 Moons, Mayhem, and Mistrust
 - [[Session 5]] - 🗝️ Lock Picks & Loose Ends
-- [[Session 6]] - Next Session
+- [[Session 6]] - 🐺 The Werewolf Unmasked
 
 ### 🌍 The World
 

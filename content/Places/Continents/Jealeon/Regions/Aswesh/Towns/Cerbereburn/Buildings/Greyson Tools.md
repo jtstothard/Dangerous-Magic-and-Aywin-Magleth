@@ -3,7 +3,7 @@ tags: []
 aliases: ["Bertrum's Shop", Blacksmith]
 title: Greyson Tools
 date created: Monday, July 14th 2025, 10:10:09 pm
-date modified: Tuesday, July 15th 2025, 10:55:31 am
+date modified: Friday, August 1st 2025, 1:14:28 pm
 ---
 
 ## **Building Summary**

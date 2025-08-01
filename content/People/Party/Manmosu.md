@@ -3,7 +3,7 @@ aliases: []
 tags: []
 title: Manmosu
 date created: Friday, July 4th 2025, 1:00:17 pm
-date modified: Friday, July 18th 2025, 11:34:20 am
+date modified: Friday, August 1st 2025, 1:08:37 pm
 ---
 
 **Pronouns:** He/Him
@@ -15,7 +15,7 @@ date modified: Friday, July 18th 2025, 11:34:20 am
 
 ## **Character Overview**
 
-- **Class:** Unknown, but described as magical, possibly a **Wizard**, **Artificer**, or **Cleric**
+- **Class:** Assumed Sorcerer
 - **Personality:** Thoughtful, studious, modest; prefers to quietly take notes and observe
 - **Notable Traits:**
  	- Repeatedly described as _not well-travelled_ despite appearance

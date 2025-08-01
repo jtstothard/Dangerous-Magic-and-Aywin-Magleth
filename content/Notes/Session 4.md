@@ -1,198 +1,83 @@
 ---
 aliases: []
-tags: []
-title: Session 4 – 🌕 Moons, Mayhem, and Mistrust
+tags: [investigation, session]
+title: "🌕 Session 4: Moons, Mayhem, and Mistrust"
 date created: Monday, July 14th 2025, 10:59:14 pm
-date modified: Friday, July 18th 2025, 10:52:55 am
+date modified: Friday, August 1st 2025, 12:25:09 pm
 ---
 
-## **Aftermath Of the Werechicken Attack**
+## Journal Entry
 
-*The immediate investigation reveals disturbing patterns about the infection source.*
+The aftermath of the attack at the [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Cloudbrow Farm & Barn|Cloudbrow Barn]] left me shaken. [[People/Party/Lharamit Pirevin Rhyne|Lharamit]] and [[People/Party/Gralstak|Gralstak]] examined the corpses, uncovering that most chickens were infected by others, but some bore deliberate bite marks from a larger creature. The infection felt purposeful, not random.
 
-### **Forensic Analysis**
+[[People/Party/Threecie Novik|Threecie]]'s public declaration using *Thaumaturgy* changed everything. She announced the werewolf threat to all of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], demanding everyone present themselves for inspection. The town's response was immediate, [[People/NPCs/Cerbereburn/Marius Ligroves|Marius]], [[People/NPCs/Cerbereburn/Dhunta Rannacit|Dhunta]], [[People/NPCs/Cerbereburn/Javu Rannacit|Javu]], [[People/NPCs/Cerbereburn/Narchis Cloudbrow|Narchis]], [[People/NPCs/Cerbereburn/Risgex Cloudbrow|Risgex]], [[People/NPCs/Cerbereburn/Syndra Tallbloom|Syndra]], and [[People/NPCs/Cerbereburn/Shayee Cloudbrow|Shayee]] all emerged.
 
-- **[[Lharamit Pirevin Rhyne|Lharamit]] and [[Gralstak]]:** Examined chicken corpses
-  - **Infection Pattern:** Most chickens were turned by other chickens
-  - **Primary Source:** One group showed bite marks from a medium large creature
-  - **Intent Analysis:** Bites appeared deliberate rather than predatory, suggesting purposeful infection
+The party split to investigate new disturbances. I joined [[People/Party/Threecie Novik|Threecie]] and [[People/Party/Lharamit Pirevin Rhyne|Lharamit]] to the [[People/NPCs/Cerbereburn/Strondabella Keggranite|Keggronite Residence]], where [[People/NPCs/Cerbereburn/Strondabella Keggranite|Strondabella]] reluctantly let us in. [[People/NPCs/Cerbereburn/Jafrak Keggranite|Jafrak]] seemed normal, eating dinner, and we found no evidence of supernatural activity. Meanwhile, [[People/Party/Robin Thaleia|Robin Thaleia]] and [[People/Party/Gralstak|Gralstak]] swept the [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Brightroot Apartments|Brightroot Apartments]], finding most doors unresponsive except for [[People/NPCs/Cerbereburn/Risgara Geraves|Risgara]]'s locked door. [[People/Party/Threecie Novik|Threecie]] blasted open a door, but the room was empty.
 
----
+Night surveillance began. [[People/Party/Lharamit Pirevin Rhyne|Lharamit]] visited the Fowler residence, where [[People/NPCs/Cerbereburn/Tango Fowler|Tango]] claimed ignorance of [[People/NPCs/Cerbereburn/Foxtrot Fowler|Foxtrot]]'s whereabouts. [[People/Party/Gralstak|Gralstak]] camped outside [[People/NPCs/Cerbereburn/Bertrum Greyson|Bertrum Greyson]]'s forge. [[People/Party/Threecie Novik|Threecie]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit]], and I watched the apartments, discovering flattened grass but no suspicious activity.
 
-## **[[Threecie Novik|Threecie]]'s Public Declaration**
+Morning brought new tensions. The [[The Owlbear Cub Tavern]] was eerily empty. [[People/NPCs/Cerbereburn/Marius Ligroves|Marius]] and [[People/NPCs/Cerbereburn/Strondabella Keggranite|Strondabella]] arrested me and [[People/Party/Manmosu|Manmosu]], claiming it was to keep us available for the investigation. The sense of official suspicion was growing.
 
-*A dramatic announcement that shifts the town's awareness of the supernatural threat.*
+A gruesome discovery in the forest confirmed the threat extended beyond chickens. [[People/NPCs/Cerbereburn/Zymis Wenben|Zymis Wenben]] was found mauled, with blood spatter and an open window suggesting a violent struggle. [[People/NPCs/Cerbereburn/Marius Ligroves|Marius]] blocked further investigation, but [[People/Party/Robin Thaleia|Robin Thaleia]] managed to infiltrate the room with *Misty Step*, though found little evidence.
 
-### **The Proclamation**
+Later, [[People/Party/Robin Thaleia|Robin Thaleia]] interrogated [[People/NPCs/Cerbereburn/Foxtrot Fowler|Foxtrot Fowler]] with *Charm Person*. Foxtrot was shocked about the werechickens and alarmed that we had killed infected creatures, but still concealed something.
 
-- **Method:** Used *Thaumaturgy* for maximum auditory impact
-- **Message:** Publicly announced werewolf threat to the entire town
-- **Demand:** Required all townsfolk to present themselves for identity verification
+The day ended with a confrontation at [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Greyson Tools|Greyson Tools]]. [[People/NPCs/Cerbereburn/Marius Ligroves|Marius]] tried to arrest [[People/Party/Robin Thaleia|Robin Thaleia]] for spellcasting, but [[People/Party/Gralstak|Gralstak]] intervened, declaring himself lawmaster and carrying Marius away. [[People/NPCs/Cerbereburn/Amara Tallbloom|Amara Tallbloom]] witnessed the scene and later provided her family's alibi for the night of Zymis's death.
 
-### **Community Response**
-
-- **Immediate Appearance:** Several villagers emerged to comply:
-  - [[Marius Ligroves|Marius]], [[Dhunta Rannacit|Dhunta]], [[Javu Rannacit|Javu]]
-  - [[Narchis Cloudbrow|Narchis]], [[Risgex Cloudbrow|Risgex]]
-  - [[Syndra Tallbloom|Syndra]], [[Shayee Cloudbrow|Shayee]]
+So many leads remain: the [[People/NPCs/Cerbereburn/Strondabella Keggranite|Keggronite]] connection, [[People/NPCs/Cerbereburn/Foxtrot Fowler|Foxtrot Fowler]]'s secrets, the fate of [[People/NPCs/Cerbereburn/Mrs Cluckerson|Mrs Cluckerson]], and the true nature of the infection. The town feels on the brink, and I am not sure who to trust.
 
 ---
 
-## **Investigation Split: Following the Screams**
+## Major Events
 
-*The party divides to investigate simultaneous disturbances across town.*
+- Forensic analysis of werechicken corpses at [[Cloudbrow Farm & Barn|Cloudbrow Barn]]
+- [[Threecie Novik|Threecie]]'s public declaration of the werewolf threat
+- Town-wide identity verification and community response
+- Split investigations: Keggronite residence and [[Brightroot Apartments]]
+- Night surveillance across key locations
+- Arrest of [[Lyra Shadowflame|Lyra]] and [[Manmosu]]
+- Discovery of [[Zymis Wenben|Zymis]]'s mauled body in the forest
+- Interrogation of [[Foxtrot Fowler|Foxtrot]]
+- Public confrontation at [[Greyson Tools|Blacksmith]]
 
-### **The Keggronite Investigation**
+## Key NPC Interactions
 
-- **Personnel:** [[Threecie Novik|Threecie]], [[Lharamit Pirevin Rhyne|Lharamit]], [[Lyra Shadowflame|Lyra]]
-- **Target:** Responding to screams near the Keggronite residence
-- **Access:** [[Strondabella Keggranite|Strondabella]] grudgingly permitted entry
-- **Findings:** [[Jafrak Keggranite|Jafrak]] appeared normal, eating dinner peacefully
-- **Assessment:** No immediate evidence of supernatural involvement
+- **[[Lharamit Pirevin Rhyne|Lharamit]] & [[Gralstak]]:** Conducted forensic analysis of chickens
+- **[[Threecie Novik|Threecie]]:** Publicly announced the supernatural threat
+- **[[Strondabella Keggranite|Strondabella]] & [[Jafrak Keggranite|Jafrak]]:** Allowed investigation at their residence
+- **[[Risgara Geraves|Risgara]]:** Notable absence at [[Brightroot Apartments]]
+- **[[Tango Fowler|Tango]]:** Claimed ignorance of [[Foxtrot Fowler|Foxtrot]]'s whereabouts
+- **[[Marius Ligroves|Marius]] & [[Strondabella Keggranite|Strondabella]]:** Arrested party members, blocked investigation
+- **[[Zymis Wenben|Zymis]]:** Found dead, victim of mauling
+- **[[Amara Tallbloom|Amara]]:** Provided family alibi
 
-### **Brightroot Apartments Sweep**
+## Character Actions & Developments
 
-- **Personnel:** [[Robin Thaleia|Robin]], [[Gralstak]]
-- **Approach:** Systematic door to door investigation
-- **Results:** Most apartments appeared vacant or unresponsive
-- **Notable Exception:** [[Risgara Geraves|Risgara]]'s door remained locked
-- **Escalation:** [[Threecie Novik|Threecie]] used *Eldritch Blast* to breach one door
-- **Discovery:** Empty room, no occupants or signs of disturbance
+- [[Lharamit Pirevin Rhyne|Lharamit]]: Led forensic analysis, participated in split investigations, conducted surveillance
+- [[Gralstak]]: Assisted with forensics, camped at the forge, intervened in arrest attempt
+- [[Threecie Novik|Threecie]]: Made public declaration, breached apartment door, maintained night watch
+- [[Lyra Shadowflame|Lyra]]: Investigated, was arrested, participated in surveillance
+- [[Robin Thaleia|Robin Thaleia]]: Investigated Brightroot, infiltrated Zymis's room, interrogated Foxtrot, resisted arrest
+- [[Manmosu]]: Arrested with Lyra, supported investigations
 
----
+## Ongoing Mysteries & Leads
 
-## **Night Surveillance Operations**
+- The Keggronite connection: business documents, motives, and expansion plans
+- [[Foxtrot Fowler|Foxtrot]]'s secrets and possible involvement
+- Recovery and role of [[Mrs Cluckerson]]
+- Cloudbrow family re-interview after barn incident
+- Surveillance and evidence at [[Brightroot Apartments]]
+- Method and motive behind chicken infection
+- Murder weapon analysis and link to supernatural events
 
-*The party establishes watch positions across key locations.*
+## Mechanical Details
 
-### **Individual Reconnaissance**
-
-- **[[Lharamit Pirevin Rhyne|Lharamit]]'s Mission:** Visited the Fowler residence
-  - [[Tango Fowler|Tango]] answered the door
-  - Claimed ignorance of [[Foxtrot Fowler|Foxtrot]]'s current whereabouts
-- **[[Gralstak]]'s Station:** Established camp outside the blacksmith's forge
-- **Team Surveillance:** [[Threecie Novik|Threecie]], [[Lharamit Pirevin Rhyne|Lharamit]], and [[Lyra Shadowflame|Lyra]]
-  - Discovered flattened grass near the apartments
-  - Maintained rotating night watch schedule
-  - No suspicious activity observed during the watch
-
----
-
-## **Morning Developments**
-
-*Dawn brings new tensions and official responses to the crisis.*
-
-### **The Tavern Anomaly**
-
-- **Observation:** [[The Owlbear Cub Tavern]] was eerily empty
-- **Implications:** Unusual for the town's social centre
-
-### **Official Detentions**
-
-- **Arrested Parties:** [[Lyra Shadowflame|Lyra]] and [[Manmosu]]
-- **Arresting Officers:** [[Marius Ligroves|Marius]] and [[Strondabella Keggranite|Strondabella]]
-- **Stated Justification:** Ensuring the remaining party members stayed to assist with the investigation
-- **Subtext:** Growing official suspicion and desire for control
-
----
-
-## **The Forest Discovery**
-
-*A gruesome find confirms the werewolf threat extends beyond chickens.*
-
-### **The Crime Scene**
-
-- **Location:** Forest area outside town
-- **Discovery Team:** [[Marius Ligroves|Marius]], [[Risgex Cloudbrow|Risgex]], and party members
-- **Victim:** [[Zymis Wenben|Zymis]], found in mauled condition
-- **Evidence:**
-  - Blood spatter around the scene
-  - Open window suggesting forced entry or escape
-  - Clear signs of violent struggle
-- **Official Obstruction:** [[Marius Ligroves|Marius]] blocked further detailed investigation
-
-### **Covert Investigation**
-
-- **[[Robin Thaleia|Robin]]'s Solo Mission:** Used *Misty Step* to infiltrate [[Zymis Wenben|Zymis]]' room
-- **Findings:** Limited useful evidence discovered
-- **Execution:** Successfully completed without detection
-
----
-
-## **The [[Foxtrot Fowler|Foxtrot]] Interrogation**
-
-*Magical persuasion reveals suspicious behaviour patterns.*
-
-### **Method & Results**
-
-- **Technique:** [[Robin Thaleia|Robin]] employed *Charm Person*
-- **[[Foxtrot Fowler|Foxtrot]]'s Reactions:**
-  - Expressed shock at the concept of werechickens
-  - Displayed notable alarm that the party had killed infected creatures
-  - Clearly concealing information despite magical influence
-
----
-
-## **Escalation At the [[Greyson Tools|Blacksmith]]'s**
-
-*Official authority clashes with party autonomy, leading to public confrontation.*
-
-### **The Arrest Attempt**
-
-- **Trigger:** [[Marius Ligroves|Marius]] witnessed [[Robin Thaleia|Robin]] casting spells
-- **Response:** Attempted to arrest [[Robin Thaleia|Robin]] for magical activities
-- **[[Gralstak]]'s Intervention:** Physically lifted [[Marius Ligroves|Marius]] and walked away
-  - Declared himself the new lawmaster
-  - Public display of defiance met with disbelief
-
-### **Witness Testimony**
-
-- **[[Amara Tallbloom|Amara]]'s Account:** Observed the confrontation
-- **Family Alibi:** Reported to mother that their entire family was home during [[Zymis Wenben|Zymis]]'s death
-- **Implications:** Provides the Tallbloom family with corroborated alibi
-
----
-
-## **Outstanding Investigation Leads**
-
-*Key avenues requiring follow-up as the supernatural threat escalates.*
-
-### **High Priority**
-
-1. **The Keggronite Connection**
-   - Access to their business documents and correspondence
-   - Direct interrogation of [[Strondabella Keggranite|Strondabella]]
-   - Understanding their expansion plans and conflict history with [[Mallone Ulaxidor|Mallone]]
-
-2. **[[Foxtrot Fowler|Foxtrot]] Investigation**
-   - Recent return to town timing
-   - Potential for external manipulation or payment
-   - Hidden knowledge about the werechicken outbreak
-
-3. **[[Mrs Cluckerson]] Recovery**
-   - Source of her release from the barn
-   - Her potential role as patient zero or key evidence
-   - Connection to the initial infection vector
-
-### **Medium Priority**
-
-4. **Cloudbrow Family Re-interview**
-   - [[Risgex Cloudbrow|Risgex]] and [[Shayee Cloudbrow|Shayee]] may have additional observations
-   - New information following the barn incident
-
-5. **[[Brightroot Apartments]] Surveillance**
-   - [[Shayee Cloudbrow|Shayee]]'s implications about Keggronite payments to residents
-   - Flattened grass evidence suggesting recent clandestine activity
-
-6. **Barn Forensics**
-   - Method of chicken infection
-   - Potential staging connected to [[Mallone Ulaxidor|Mallone]]'s murder
-
-### **Lower Priority**
-
-7. **Murder Weapon Analysis**
-   - Possibility of magical, silvered, or otherwise enhanced weapon
-   - Connection between the original murder and supernatural events
+- Forensic checks on chicken corpses revealed infection patterns
+- *Thaumaturgy* used for public announcement
+- *Eldritch Blast* to breach apartment door
+- *Misty Step* for covert investigation
+- *Charm Person* used on [[Foxtrot Fowler|Foxtrot]]
+- Arrest and intimidation checks during public confrontation
 
 ---
 

@@ -1,118 +1,59 @@
 ---
 aliases: []
-tags: []
-title: Session 3 – 🌘 Night Watch & Missing Folk
+tags: [investigation, session]
+title: "🌘 Session 3: Night Watch & Missing Folk"
 date created: Tuesday, July 8th 2025, 4:17:45 pm
-date modified: Friday, July 18th 2025, 10:52:50 am
+date modified: Friday, August 1st 2025, 12:25:38 pm
 ---
 
-## **The [[Cloudbrow Farm & Barn|Barn]] Stakeout**
+## Journal Entry
 
-*What began as a simple surveillance operation quickly turned into something far more dangerous.*
+The night at the [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Cloudbrow Farm & Barn|Cloudbrow Barn]] began with a sense of unease. [[People/Party/Gralstak|Gralstak]] and I were assigned to surveillance, hoping to catch the intruder who had broken in before. [[People/NPCs/Cerbereburn/Risgex Cloudbrow|Risgex Cloudbrow]] refused to give us a key, so we hid outside, nerves on edge. Meanwhile, [[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Manmosu|Manmosu]], [[People/Party/Robin Thaleia|Robin Thaleia]], and [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]] pursued leads at the Ligroves Household, digging into [[People/NPCs/Cerbereburn/Danlas Ligroves|Danlas Ligroves]]'s ambitions and the [[People/NPCs/Cerbereburn/Strondabella Keggranite|Keggronites]]' business dealings.
 
-### **Team Assignment & Preparation**
+The barn was quiet until the banging and rattling began. I sent [[People/Party/Hooty|Hooty]] to scout, and she saw the chickens acting strangely. Suddenly, the doors burst open and chaos erupted, chickens were transforming into werechickens, attacking each other and us. I panicked and used *Silvery Barbs* on [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]]'s attack, which backfired and hurt [[People/Party/Manmosu|Manmosu]]. [[People/Party/Gralstak|Gralstak]] fought bravely, [[People/Party/Threecie Novik|Threecie Novik]] was ruthless with her magic, and [[People/Party/Manmosu|Manmosu]] finished the fight with a thunderous spell. The confined space and the speed of the chickens made everything more difficult.
 
-- **Surveillance Team:** [[Gralstak]] and [[Lyra Shadowflame|Lyra]]
-- **Initial Plan:** Hide inside the barn to observe any intruders
-- **Complication:** [[Risgex Cloudbrow|Risgex]] refused to provide a key when [[Gralstak]] made a poorly executed request
-- **Backup Plan:** External surveillance from makeshift hiding spots around the barn's perimeter
+Afterwards, we regrouped and compared notes. [[People/Party/Robin Thaleia|Robin Thaleia]] and [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]] had found suspicious documents linking the [[People/NPCs/Cerbereburn/Strondabella Keggranite|Keggronites]] to the Ligroves Household. [[People/Party/Threecie Novik|Threecie Novik]]'s sharpness in combat surprised me, and [[People/Party/Manmosu|Manmosu]]'s magical force was overwhelming. I am left wondering about the source of the infection, the fate of [[People/NPCs/Cerbereburn/Mrs Cluckerson|Mrs Cluckerson]], and whether all of this ties back to [[People/NPCs/Cerbereburn/Mallone Ulaxidor|Mallone Ulaxidor]]'s murder. The threads are tangled, and I am not sure where they will lead next.
 
 ---
 
-## **Parallel Investigation: The Ligroves Household**
+## Major Events
 
-*While the barn team prepared for surveillance, others pursued political angles.*
+- Stakeout at [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Cloudbrow Farm & Barn|Cloudbrow Barn]] by [[People/Party/Gralstak|Gralstak]] and [[People/Party/Lyra Shadowflame|Lyra Shadowflame]]
+- Parallel investigation at Ligroves Household by [[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Manmosu|Manmosu]], [[People/Party/Robin Thaleia|Robin Thaleia]], and [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]]
+- Discovery of [[People/NPCs/Cerbereburn/Marius Ligroves|Marius Ligroves]]'s diary and [[People/NPCs/Cerbereburn/Danlas Ligroves|Danlas Ligroves]]'s correspondence with the [[People/NPCs/Cerbereburn/Strondabella Keggranite|Keggronites]]
+- Outbreak of werechickens in the barn, leading to a chaotic battle
+- Evidence of lycanthropy infection among the chickens
 
-### **[[Threecie Novik|Threecie]] & [[Manmosu]]: Confronting [[Danlas Ligroves|Danlas]]**
+## Key NPC Interactions
 
-- **Cover Story:** Claimed to be reporting back to [[Marius Ligroves|Marius]]
-- **[[Danlas Ligroves|Danlas]]'s Demeanor:**
-  - Claimed [[Marius Ligroves|Marius]] was absent
-  - Displayed confidence about [[Marius Ligroves|Marius]]'s impending promotion to lawmaster
-  - Blamed [[Mallone Ulaxidor|Mallone]] for escalating community conflicts
-  - Praised the Keggronites, claiming their presence brought peace to the town
+- **[[People/NPCs/Cerbereburn/Risgex Cloudbrow|Risgex Cloudbrow]]:** Refused to provide a key, remained suspicious of the party's intentions.
+- **[[People/NPCs/Cerbereburn/Danlas Ligroves|Danlas Ligroves]]:** Confident about his son's future, praised the [[People/NPCs/Cerbereburn/Strondabella Keggranite|Keggronites]], and tried to deflect blame for town troubles.
+- **[[People/NPCs/Cerbereburn/Marius Ligroves|Marius Ligroves]]:** Absent, but his diary revealed family tensions and a possible connection to [[People/NPCs/Cerbereburn/Risgex Cloudbrow|Risgex Cloudbrow]].
+- **[[People/NPCs/Cerbereburn/Strondabella Keggranite|Strondabella Keggranite]]:** Appears in business documents, suggesting deeper ties to the Ligroves family.
+- **[[People/NPCs/Cerbereburn/Mrs Cluckerson|Mrs Cluckerson]]:** Still missing, possibly linked to the outbreak.
 
-### **[[Robin Thaleia|Robin]] & [[Lharamit Pirevin Rhyne|Lharamit]]: Covert House Search**
+## Character Actions & Developments
 
-- **Infiltration Strategy:** [[Robin Thaleia|Robin]] used *Misty Step* to enter while others provided distraction
-- **Cover Incident:** Accidentally made noise, improvised excuse about a fallen loom
-- **[[Manmosu]]'s Magical Intervention:** Attempted to assist with *Command* and *Prestidigitation*, but aroused [[Danlas Ligroves|Danlas]]'s suspicions instead
-- **[[Threecie Novik|Threecie]]'s Save:** Helped reset the loom while maintaining innocent pretences
+- [[People/Party/Lyra Shadowflame|Lyra Shadowflame]]: Used *Silvery Barbs* in a moment of panic, struggled with guilt, considered arson as a solution.
+- [[People/Party/Gralstak|Gralstak]]: Fought bravely, took significant damage, ultimately defeated the most resilient werechicken.
+- [[People/Party/Threecie Novik|Threecie Novik]]: Showed a sharper, more ruthless side in combat, efficiently eliminated threats.
+- [[People/Party/Manmosu|Manmosu]]: Used powerful magic to finish the fight, frustrated [[People/NPCs/Cerbereburn/Danlas Ligroves|Danlas Ligroves]] with antics.
+- [[People/Party/Robin Thaleia|Robin Thaleia]]: Demonstrated stealth and infiltration skills, gathered key intelligence.
+- [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]]: Provided support and healing, recognised [[People/Party/Threecie Novik|Threecie Novik]]'s true combat persona.
 
-### **Evidence Discovered**
+## Ongoing Mysteries & Leads
 
-#### **[[Marius Ligroves|Marius]]'s Diary**
+- Fate of [[People/NPCs/Cerbereburn/Mrs Cluckerson|Mrs Cluckerson]] and her connection to the outbreak
+- Source of the lycanthropy infection among the chickens
+- Significance of the timing with [[People/NPCs/Cerbereburn/Mallone Ulaxidor|Mallone Ulaxidor]]'s murder
+- [[People/NPCs/Cerbereburn/Strondabella Keggranite|Keggronite]] involvement and business dealings with the [[People/NPCs/Cerbereburn/Ligroves Household|Ligroves Household]]
 
-- **Content Quality:** Mostly mundane personal complaints
-- **Family Relations:** Frequent grievances about his father and feeling overlooked
-- **Notable Entry:** Mentioned helping a drunk [[Risgex Cloudbrow|Risgex]] home (no incriminating details)
-- **Party Observations:** Noted [[Lharamit Pirevin Rhyne|Lharamit]] and [[Threecie Novik|Threecie]]'s prolonged stay as unusual
+## Mechanical Details
 
-#### **[[Danlas Ligroves|Danlas]]'s Correspondence**
-
-- **Nature:** Bureaucratic letters and documents
-- **Keggronite Connection:** Rental agreements and expansion discussions involving the Keggronite family
-- **Significance:** Suggests deeper business relationships than publicly acknowledged
-
-### **Escape & Teamwork**
-
-- **Exit Strategy:** [[Robin Thaleia|Robin]] escaped through a window
-- **[[Lharamit Pirevin Rhyne|Lharamit]]'s Assistance:** Provided a blanket to cushion the landing and aid the escape
-
----
-
-## **The Werechicken Outbreak**
-
-*The quiet surveillance mission exploded into supernatural chaos.*
-
-### **Initial Signs of Trouble**
-
-- **Audio Cues:** Loud banging and chain rattling from inside the barn
-- **Reconnaissance:** [[Lyra Shadowflame|Lyra]] sent [[Hooty]] to scout the interior
-- **Discovery:** Chickens attempting to break out of their confinement
-- **Escalation:** The front door burst open dramatically
-
-### **The Transformation**
-
-- **Infection Spread:** Chickens were transforming into werechickens through mutual pecking and biting
-- **Party Alert:** [[Hooty]] successfully warned the rest of the group, who rushed to assist
-
-### **Combat Highlights**
-
-#### **Individual Performances**
-
-- **[[Lyra Shadowflame|Lyra]]'s Critical Error:** Used *Silvery Barbs* on [[Lharamit Pirevin Rhyne|Lharamit]]'s killing blow due to personal embarrassment, causing [[Lharamit Pirevin Rhyne|Lharamit]] to accidentally blast [[Manmosu]] instead
-- **[[Gralstak]]'s Finale:** Eventually splattered the most resilient chicken after taking significant damage
-- **[[Threecie Novik|Threecie]]'s Precision:** Efficiently eliminated multiple targets with well-aimed *Eldritch Blasts*
-- **[[Manmosu]]'s Cleanup:** Finished off sleeping chickens with a devastating *Thunderwave*
-
-#### **Combat Observations**
-
-- **Enemy Resilience:** One particularly agile chicken dodged attacks from three different party members
-- **[[Threecie Novik|Threecie]]'s Personality:** Displayed a notably sharper, more intense combat persona that [[Lharamit Pirevin Rhyne|Lharamit]] recognized as her more authentic self
-- **Tactical Challenges:** The confined space and multiple small, fast targets created coordination difficulties
-
----
-
-## **Session Character Highlights**
-
-### **Combat Personalities Revealed**
-
-- **[[Threecie Novik|Threecie]]:** Stylishly brutal *Eldritch Blasts* combined with cutting commentary, showing her true tactical mindset
-- **[[Manmosu]]:** Frustrated [[Danlas Ligroves|Danlas]] with magical antics before dramatically storming out, then delivered overwhelming magical force in combat
-- **[[Robin Thaleia|Robin]]:** Demonstrated excellent stealth and infiltration skills, successfully gathering intelligence under pressure
-- **[[Lyra Shadowflame|Lyra]]:** Considered arson as a problem-solving method, struggled with guilt that led to tactical mistakes
-- **[[Gralstak]]:** Suffered physical comedy moments (being launched by chickens) while failing at diplomacy but succeeding in direct combat
-- **[[Lharamit Pirevin Rhyne|Lharamit]]:** Provided consistent support and healing while showing tactical awareness of her teammates' authentic personalities
-
----
-
-## **Unresolved Mysteries**
-
-- **[[Mrs Cluckerson]]'s Fate:** Still missing, potentially connected to the werechicken outbreak
-- **Infection Source:** How did the chickens become infected with lycanthropy?
-- **Timing Significance:** Was this incident connected to [[Mallone Ulaxidor|Mallone]]'s murder investigation?
-- **Keggronite Involvement:** Do the business documents found suggest deeper conspiracy?
+- [[People/Party/Lyra Shadowflame|Lyra Shadowflame]]'s *Silvery Barbs* caused a critical error, redirecting damage to [[People/Party/Manmosu|Manmosu]]
+- [[People/Party/Threecie Novik|Threecie Novik]]'s *Eldritch Blasts* were highly effective
+- [[People/Party/Manmosu|Manmosu]]'s *Thunderwave* finished off multiple enemies
+- Stealth, infiltration, and teamwork checks during the Ligroves investigation
 
 ---
 

@@ -4,7 +4,7 @@ aliases: [Risgara]
 pronouns: he/him
 title: Risgara Geraves
 date created: Tuesday, July 8th 2025, 5:01:39 pm
-date modified: Friday, July 18th 2025, 11:19:10 am
+date modified: Friday, August 1st 2025, 11:43:44 am
 ---
 
 **Risgara Geraves** is a tiefling resident of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] who lives in the [[Brightroot Apartments]]. He was initially a prime suspect in [[Mallone Ulaxidor|Mallone]]'s murder due to an incident the night before, but has since been largely dismissed as a red herring in the investigation.

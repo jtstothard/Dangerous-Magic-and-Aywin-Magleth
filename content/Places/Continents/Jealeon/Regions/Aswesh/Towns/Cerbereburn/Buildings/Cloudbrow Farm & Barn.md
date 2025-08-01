@@ -3,7 +3,7 @@ tags: []
 aliases: ["Narchis's Farm", Cloudbrow Barn, Cloudbrow Farm, The Farm]
 title: Cloudbrow Farm & Barn
 date created: Monday, July 14th 2025, 10:11:34 pm
-date modified: Tuesday, July 15th 2025, 10:55:30 am
+date modified: Friday, August 1st 2025, 1:14:26 pm
 ---
 
 ## **Building Summary**

@@ -1,56 +1,37 @@
 ---
-tags: []
 aliases: [Lharamit]
+pronouns: she/her
 title: Lharamit Pirevin Rhyne
+tags: []
 date created: Friday, July 4th 2025, 12:59:37 pm
-date modified: Tuesday, July 15th 2025, 10:55:09 am
+date modified: Friday, August 1st 2025, 1:09:24 pm
 ---
 
-**Pronouns:** She/Her
-**Species:** Bnuuy (anthropomorphic rabbitfolk)
-**Height:** 4'5"
-**Appearance:** Plain brown fur, big fluffy mane, usually in **religious vestments**
+## Basic Information
 
----
+- **Species:** Bnuuy (anthropomorphic rabbitfolk)
+- **Physical description:** 4'5", plain brown fur, big fluffy mane, usually in religious vestments
+- **Key relationships:** [[Threecie Novik]], party members, [[Shallandra]] (deity)
 
-## **Character Overview**
+## Character Overview
 
 - **Class:** Cleric
-- **Background:** Acolyte of **[[Shallandra]]**, likely trained in healing and divine rites
-- **Personality:** Calm, measured, and soft-spoken; leans toward **listening rather than leading** conversations
-- **Notable Traits:**
-	- Often up early, used to structured religious routines
-	- Speaks plainly but **with quiet conviction**
-	- Handles accusations and suspicion with **grace and logic**
+- **Personality traits:** Calm, measured, soft-spoken, logical, quietly confident
+- **Notable equipment/companions:** None specified
 
----
+## Background
 
-## **Background**
+- **Origins:** Serves at the Cathedral of [[Shallandra]], travelled to [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] for mercenary work
+- **Goals:** Support party, uphold faith, resolve supernatural threats
+- **Connections to other characters:** Travels with [[Threecie Novik]], works with party, respected for healing and logic
 
-- Serves at the **Cathedral of [[Shallandra]]**
-- Has travelled to **[[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** on an errand for [[Threecie Novik|Threecie]]'s mercenary group (possibly as moral or magical support)
-- Seems used to being underestimated, but not afraid to stand her ground when accused or challenged
+## Recent Developments
 
----
+- [[Notes/Session 6|Session 6]]: Interrogated [[Foxtrot Fowler]], participated in the battle, and was healed by [[Threecie Novik]] after going down.
 
-## **Recent Investigation Behaviour**
+## Investigation Notes
 
-**Investigative Skills:**
-- **Forensic examination** - Worked with [[Gralstak]] to examine werechicken corpses, identifying different bite patterns
-- **Night surveillance** - Visited the Fowlers during night watch, gathering intelligence about [[Foxtrot Fowler|Foxtrot]]'s whereabouts
-- **Evidence analysis** - Helped determine that most chickens were infected by other chickens, but some had bite marks from larger creatures
-
-**Support Role:**
-- **Healing and assistance** - Healed [[Manmosu]] after he was accidentally hit by friendly fire during the werechicken combat
-- **Tactical support** - Laid a blanket to help [[Robin Thaleia|Robin]]'s daring escape from the Ligroves house during infiltration
-- **Hearing screams** - First to detect the screams that led to discovering the supernatural threat escalation
-
-**Social Interactions:**
-- **Diplomatic approach** - Considered breaking into the Keggronite house with [[Robin Thaleia|Robin]] but decided against it as too risky
-- **Observational skills** - Noted [[Threecie Novik|Threecie]]'s sharper, more authentic personality during combat situations
-- **Team coordination** - Often serves as a steadying influence during tense moments
-
-**Investigation Partnerships:**
-- **Primary partner:** [[Threecie Novik|Threecie]] (known each other for a few months)
-- **Collaborative work:** Frequently paired with [[Robin Thaleia|Robin]] for stealth and investigation missions
-- **Combat support:** Works effectively with [[Gralstak]] during evidence examination and dangerous situations
+- Skilled in forensic examination and evidence analysis
+- Provides healing and tactical support
+- Often serves as a steadying influence in tense moments
+- Key in party's investigative and support efforts

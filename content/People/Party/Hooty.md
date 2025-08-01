@@ -1,9 +1,10 @@
 ---
+aliases: []
 tags: []
 pronouns: he/him
 title: Hooty
 date created: Tuesday, July 8th 2025, 5:05:28 pm
-date modified: Tuesday, July 15th 2025, 10:55:07 am
+date modified: Friday, August 1st 2025, 1:09:01 pm
 ---
 
 **Species:** Owl

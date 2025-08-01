@@ -6,7 +6,7 @@ type: Building
 location: Cerbereburn
 function: Tavern
 date created: Monday, July 14th 2025, 10:09:45 pm
-date modified: Tuesday, July 15th 2025, 11:07:19 am
+date modified: Friday, August 1st 2025, 11:39:42 am
 ---
 
 **The Owlbear Cub Tavern** is the central social hub of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], serving as the primary gathering place for both locals and travellers. This establishment plays a crucial role in the town's social dynamics and serves as the party's initial meeting point during their investigation.
