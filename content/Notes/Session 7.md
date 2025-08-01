@@ -1,5 +1,5 @@
 ---
-title: Pre-Session Recap 7
+title: 🦉 Session 7: Aftermath & Open Threads
 aliases: []
 tags: [recap, preparation]
 date: 01/08/2025
