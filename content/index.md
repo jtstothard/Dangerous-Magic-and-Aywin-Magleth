@@ -3,7 +3,7 @@ aliases: []
 tags: []
 title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Friday, August 1st 2025, 1:22:36 pm
+date modified: Thursday, August 14th 2025, 3:26:20 pm
 ---
 
 Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
@@ -22,20 +22,13 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 📝 Session Notes
 
-- [[Session 0]] - 🕯️ Character Creation & Campaign Setup
-- [[Session 0.5]] - 📦 Prologue
-- [[Session 1]] - 🗡️ Murder In Town
-- [[Session 2]] - 🥚 Clucking Suspicions
-- [[Session 3]] - 🌘 Night Watch & Missing Folk
-- [[Session 4]] - 🌕 Moons, Mayhem, and Mistrust
-- [[Session 5]] - 🗝️ Lock Picks & Loose Ends
-- [[Session 6]] - 🐺 The Werewolf Unmasked
+ - [[Session 7]] - 🌫️ Fog, Fights, and Farewells
 
 ### 🌍 The World
 
 - **[[Places/Continents/Jealeon/index|Jealeon]]** - The main continent where our adventures take place
   - **[[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]]** - A key region in our campaign
-	- **[[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** - Important town with many NPCs and locations
+  - **[[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]]** - Important town with many NPCs and locations
 
 ### 👥 Important People
 
@@ -57,5 +50,8 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 - 📚 **[[Notes/]]** - All session notes and campaign records
 - 👤 **[[People/]]** - Character sheets, NPCs, and deities
 - 🗺️ **[[Places/]]** - Locations, maps, and world information
+- 🏢 **[[Organisations/]]** - Factions, adventuring parties, and more
+  - **[[Organisations/Adventuring Parties/index|Adventuring Parties]]**
+	- **[[Organisations/Adventuring Parties/Smoke and Ropes|Smoke and Ropes]]**
 
 ---

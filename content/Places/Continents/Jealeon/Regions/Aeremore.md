@@ -3,12 +3,17 @@ aliases: []
 tags: [aeremore, city, region]
 title: Aeremore
 date created: Tuesday, July 8th 2025, 3:43:24 pm
-date modified: Friday, August 1st 2025, 1:21:23 pm
+date modified: Thursday, August 14th 2025, 3:29:46 pm
 ---
 
 ## Summary
 
 **Aeremore** is a renowned centre for magical learning and scholarly pursuit within the continent of [[Places/Continents/Jealeon/index|index]]. Built into a mountain, the city features Magleth Manor at its summit. Aeremore is the campaign's primary destination.
+
+## Organisations & Parties
+
+- [[Organisations/Adventuring Parties/index|Adventuring Parties]] active in Aeremore
+- [[Organisations/Adventuring Parties/Smoke and Ropes|Smoke and Ropes]] (notable party)
 
 ## Notable Locations
 
