@@ -9,7 +9,7 @@ date modified: Friday, July 18th 2025, 10:52:20 am
 ## Geographic Overview
 
 - **Primary Continent:** [[Places/Continents/Jealeon/index|Jealeon]]
-- **Campaign Starting City:** [[Aeremore]]
+- **Campaign Starting City:** [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]]
 
 ### Regional Politics & Tensions
 

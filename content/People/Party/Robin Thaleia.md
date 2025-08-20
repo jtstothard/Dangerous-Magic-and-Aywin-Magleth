@@ -21,13 +21,15 @@ date modified: Friday, August 1st 2025, 1:08:11 pm
 
 ## Background
 
-- **Origins:** Travelling to [[Aeremore]] to "meet people" (unclear if social or political)
+- **Origins:** Travelling to [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]] to "meet people" (unclear if social or political)
 - **Goals:** Social advancement, group cohesion, uncover secrets
 - **Connections to other characters:** Strong bond with [[Manmosu]], works closely with party, frequent magical interactions with people
+
 
 ## Recent Developments
 
 - [[Notes/Session 6|Session 6]]: Planned and attempted to break into [[Foxtrot Fowler]]'s home, participated in the confrontation and battle, and continued to advocate for the use of mind control magic.
+- [[Notes/Session 8|Session 8]]: Supported Threecie, helped process the aftermath, and bonded with the party during downtime.
 
 ## Investigation Notes
 

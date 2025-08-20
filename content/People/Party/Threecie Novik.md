@@ -4,7 +4,7 @@ pronouns: she/they
 title: Threecie Novik
 tags: []
 date created: Friday, July 4th 2025, 12:57:26 pm
-date modified: Friday, August 1st 2025, 1:07:20 pm
+date modified: Wednesday, August 20th 2025, 2:14:28 pm
 ---
 
 ![[Pasted image 20250704125835.webp]]
@@ -30,6 +30,7 @@ date modified: Friday, August 1st 2025, 1:07:20 pm
 ## Recent Developments
 
 - [[Notes/Session 6|Session 6]]: Interrogated [[Foxtrot Fowler]], participated in the battle, and healed [[Lharamit Pirevin Rhyne]] during the fight.
+- [[Notes/Session 8|Session 8]]: Gained Thanatos as a familiar, struggled with guilt over killing a person, and helped the party process the aftermath of the fight.
 
 ## Investigation Notes
 

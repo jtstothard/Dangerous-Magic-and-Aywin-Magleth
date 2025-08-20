@@ -4,7 +4,7 @@ pronouns: he/him
 title: Gralstak
 tags: []
 date created: Friday, July 4th 2025, 12:59:57 pm
-date modified: Friday, August 1st 2025, 1:05:52 pm
+date modified: Wednesday, August 20th 2025, 2:14:45 pm
 ---
 
 ## Basic Information
@@ -28,6 +28,7 @@ date modified: Friday, August 1st 2025, 1:05:52 pm
 ## Recent Developments
 
 - [[Notes/Session 6|Session 6]]: Interrogated [[Marius Ligroves]], participated in the confrontation and battle with [[Foxtrot Fowler]], and contributed to the party's aggressive investigative tactics.
+- [[Notes/Session 8|Session 8]]: Provided comic relief, bonded with Lyra, and helped restrain the survivor during the investigation.
 
 ## Investigation Notes
 

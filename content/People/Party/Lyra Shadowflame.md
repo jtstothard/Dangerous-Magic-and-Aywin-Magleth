@@ -22,12 +22,13 @@ date modified: Friday, August 1st 2025, 1:09:01 pm
 ## Background
 
 - **Origins:** From a family that follows the Peace Domain, worships [[Rainia, the Winged Harmoniser]]
-- **Goals:** Study magic at a formal institution in [[Aeremore]], solve mysteries, support the party
+- **Goals:** Study magic at a formal institution in [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]], solve mysteries, support the party
 - **Connections to other characters:** Travels with [[Gralstak]], interacts with all party members
 
 ## Recent Developments
 
 - [[Notes/Session 6|Session 6]]: Attempted to infiltrate [[Foxtrot Fowler]]'s home using [[Hooty]], but found little of note. Participated in the confrontation and battle with Foxtrot.
+- [[Notes/Session 8|Session 8]]: Observed and sketched Thanatos, bonded with Gralstak, and participated in party downtime.
 
 ## Investigation Notes
 

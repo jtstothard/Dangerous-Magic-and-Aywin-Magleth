@@ -13,7 +13,7 @@ date modified: Tuesday, July 15th 2025, 11:10:53 am
 
 ## Regional Overview
 
-### [[Aeremore]]
+### [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]]
 
 The campaign's destination city, known as a center for magical learning and scholarship. Many adventurers and scholars travel here to study magic and uncover truths about the world.
 

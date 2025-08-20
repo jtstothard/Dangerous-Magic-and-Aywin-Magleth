@@ -8,7 +8,7 @@ date modified: Friday, July 18th 2025, 11:02:24 am
 
 ## The Quest for Knowledge
 
-- **Primary Goal:** Travel to [[Aeremore]] to study magic and uncover the truth behind the split between the two peace nations
+- **Primary Goal:** Travel to [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]] to study magic and uncover the truth behind the split between the two peace nations
 - **Family Offer Refused:** Parents offered passage on a military supply ship, but [[Lyra Shadowflame|Lyra]] chose independence over convenience
 
 ## The Pirate Ship Incident
@@ -24,7 +24,7 @@ date modified: Friday, July 18th 2025, 11:02:24 am
 - **Meeting [[Gralstak]]:** Encountered a peculiar figure covered in potion bottles arguing with border guards
   - Witnessed him consume a mysterious potion during the dispute
   - [[Lyra Shadowflame|Lyra]]'s curiosity led to extensive questioning about his chemical practices
-- **Shared Destination:** Both heading to [[Aeremore]], decided to travel together for safety
+- **Shared Destination:** Both heading to [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]], decided to travel together for safety
 
 ## Combat Encounter
 

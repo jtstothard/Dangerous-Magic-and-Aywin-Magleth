@@ -12,7 +12,7 @@ The session began with tension in [[Places/Continents/Jealeon/Regions/Aswesh/Tow
 
 In the tavern, we regrouped. Apologies and reintroductions were exchanged, with [[Gralstak]] and [[Threecie Novik|Threecie]] sharing their ages, and [[Robin Thaleia|Robin]] expressing surprise at [[Gralstak]]'s youth. [[Lharamit Pirevin Rhyne|Lharamit]] pressed Robin to avoid manipulating people, a request Robin found difficult to accept. The party rested and leveled up, preparing for the journey ahead.
 
-Leaving [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], we traveled toward [[Aeremore]]. The first day was uneventful, passing a caravan and a small adventuring party. On the second day, a magical fog descended, and we were ambushed by the same adventurers. [[Lyra Shadowflame|Lyra]] was knocked unconscious, and a fierce battle ensued. [[Robin Thaleia|Robin]]'s fey transformation and [[Threecie Novik|Threecie]]'s decisive actions turned the tide. Some enemies exploded into smoke, victims of a botched fog cloud spell.
+Leaving [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], we traveled toward [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]]. The first day was uneventful, passing a caravan and a small adventuring party. On the second day, a magical fog descended, and we were ambushed by the same adventurers. I was knocked unconscious, and a fierce battle ensued. [[Robin Thaleia|Robin]]'s fey transformation and [[Threecie Novik|Threecie]]'s decisive actions turned the tide. Some enemies exploded into smoke, victims of a botched fog cloud spell.
 
 After the fight, [[Lharamit Pirevin Rhyne|Lharamit]] found documents revealing the attackers were contracted by the [[Organisations/Adventuring Parties/index|Aeremore Adventurers' League]] to find missing plans, targeting our party specifically. The session ended with unresolved questions about the contract and the league's motives.
 
@@ -20,9 +20,10 @@ After the fight, [[Lharamit Pirevin Rhyne|Lharamit]] found documents revealing t
 
 - Confrontation with [[Tango Fowler]] over [[Foxtrot Fowler|Foxtrot]]'s death
 - Party reintroductions and emotional exchanges in the tavern
-- Departure from [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] toward [[Aeremore]]
+- Departure from [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]] toward [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]]
 - Ambush in magical fog by adventuring party [[Smoke and Ropes]]
 - Discovery of contract and profile targeting the party
+- Party name decided as [[The Prime Suspects]]
 
 ## Key NPC Interactions
 

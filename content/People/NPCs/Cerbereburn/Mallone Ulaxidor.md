@@ -52,7 +52,7 @@ date modified: Friday, July 18th 2025, 11:19:03 am
 
 **Newcomer Monitoring:**
 
-- **[[Foxtrot Fowler|Foxtrot]]:** Noted behavioral changes - more fidgety and skittish since returning, acquired "dexterity skills" in [[Aeremore]]
+- **[[Foxtrot Fowler|Foxtrot]]:** Noted behavioral changes - more fidgety and skittish since returning, acquired "dexterity skills" in [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]]
 - **[[Risgara Geraves|Risgara]]:** Assessed as lacking self-control, likely to cause trouble
 - **[[Ramman Onyxguard|Ramman]]:** Documented as authoritative but short-tempered, tracked his increasing frustration with [[Risgara Geraves|Risgara]]
 - **[[Snadwe Wemdiem|Snadwe]]:** Identified as nervous, skittish, and very easily peer-pressured
