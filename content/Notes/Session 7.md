@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: []
-title: "🌫️ Session 7: Fog, Fights, and Farewells"
+title: Session 7 🌫️ Fog, Fights, and Farewells
 date created: Thursday, August 14th 2025, 3:07:49 pm
-date modified: Thursday, August 14th 2025, 3:26:09 pm
+date modified: Tuesday, September 9th 2025, 11:01:01 am
 ---
 
 ## Journal Entry
@@ -39,3 +38,7 @@ After the fight, [[Lharamit Pirevin Rhyne|Lharamit]] found documents revealing t
 - [[People/Party/Robin Thaleia|Robin Thaleia]]: Fey transformation, used magic to control attackers, debated manipulation ethics
 - [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]]: Stood against manipulation, found key documents
 - [[People/Party/Lyra Shadowflame|Lyra Shadowflame]]: Knocked unconscious in ambush
+
+## Navigation
+
+← [[Session 6]] **Previous** | **Next:** [[Session 8]] →

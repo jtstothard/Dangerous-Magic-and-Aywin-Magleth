@@ -1,8 +1,16 @@
 ---
-title: "🌙 Session X: Descriptive Title"
+title: "Session X [Replace with relevant emoji] [Replace with a TV episode-style title]"
 ---
 
+
 ## Journal Entry
+
+
+
+> **Note:**
+>
+> - Replace the emoji in the title with one that fits the session's theme or mood (e.g., 🦉 for an owlbear encounter, 🕵️ for a mystery session).
+> - The session title should read like a TV episode title—evocative, memorable, and relevant to the session's events.
 
 Write this section as if it were a personal journal entry written by Lyra, reflecting on the session from her perspective. The tone should be introspective and narrative, capturing her thoughts, emotions, and observations about the events that unfolded. Include:
 
@@ -16,11 +24,13 @@ The entry should feel personal and immersive, providing a vivid recounting of th
 
 ---
 
+
 ## Major Events
 
 - Event 1
 - Event 2
 - ...
+
 
 ## Key NPC Interactions
 
@@ -30,20 +40,24 @@ Document all significant NPC interactions in detail. Include their roles, motiva
 - **[[Another NPC]]**: Provide details about their involvement, motivations, and how they influenced the session.
 - ...
 
+
 ## Character Actions & Developments
 
 - [[People/Party/ExamplePC|Example PC]]: Description of development or action
 - ...
 
+
 ## Ongoing Mysteries & Leads
 
 - Unresolved plot threads, evidence, or investigation notes
+
 
 ## Mechanical Details
 
 - Important dice rolls, spell effects, or rule clarifications
 
 ---
+
 
 ## Navigation
 

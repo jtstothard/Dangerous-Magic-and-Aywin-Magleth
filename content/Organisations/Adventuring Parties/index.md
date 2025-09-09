@@ -22,7 +22,8 @@ Some jobs have symbols from various magical institutions in the Pentaturres. The
 
 ## Recent Developments
 
-- [[Notes/Session 8|Session 8]]: The party ([[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Gralstak|Gralstak]]) registered as [[Organisations/Adventuring Parties/The Prime Suspects|The Prime Suspects]] and received a contract to investigate stolen plans. [[Maccario|Maccario]] oversaw their registration and contract assignment.
+- [[Notes/Session 8|Session 8]]: The party ([[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Gralstak|Gralstak]]) registered as [[Organisations/Adventuring Parties/The Prime Suspects|The Prime Suspects]] and received a contract to investigate stolen plans. [[Maccario Bulen|Maccario]] oversaw their registration and contract assignment.
+- [[Notes/Session 9|Session 9]]: Assigned the party the contract to find Abel Milhaud, a missing tiefling teenager in Aeremore.
 
 ## Structure
 

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Jealeon
 tags: []
 title: Jealeon
 type: Continent

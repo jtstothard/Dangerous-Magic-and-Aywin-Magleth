@@ -1,0 +1,4 @@
+---
+aliases:
+  - Syndra
+---

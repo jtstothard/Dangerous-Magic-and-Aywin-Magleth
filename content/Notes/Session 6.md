@@ -1,10 +1,9 @@
 ---
-title: "🐺 Session 6: The Werewolf Unmasked"
-aliases: []
+title: Session 6 🐺 The Werewolf Unmasked
 tags: [session, summary]
 date: 2025-07-17
 date created: Friday, August 1st 2025, 12:41:51 pm
-date modified: Friday, August 1st 2025, 1:22:43 pm
+date modified: Tuesday, September 9th 2025, 11:01:02 am
 ---
 
 ## Journal Entry

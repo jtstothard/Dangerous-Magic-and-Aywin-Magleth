@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lharamit Pirevin Rhyne
 tags: []
 date created: Friday, July 4th 2025, 12:59:37 pm
-date modified: Wednesday, August 20th 2025, 2:04:41 pm
+date modified: Tuesday, September 9th 2025, 11:28:51 am
 ---
 
 ## Basic Information
@@ -29,6 +29,7 @@ date modified: Wednesday, August 20th 2025, 2:04:41 pm
 
 - [[Notes/Session 6|Session 6]]: Interrogated [[Foxtrot Fowler]], participated in the battle, and was healed by [[Threecie Novik]] after going down.
 - [[Notes/Session 8|Session 8]]: Reported to [[Allabyra Crisella]], investigated magical symbols and mutations, and dealt with rival Iramoore.
+- [[Notes/Session 9|Session 9]]: Led the investigation into [[Abel Milhaud|Abel]]'s disappearance, attuned to magical lodestones, and used Locate Object to track their location to the [[Pashae Institute]].
 
 ## Investigation Notes
 

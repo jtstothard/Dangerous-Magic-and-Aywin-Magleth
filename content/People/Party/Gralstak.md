@@ -29,6 +29,7 @@ date modified: Wednesday, August 20th 2025, 2:14:45 pm
 
 - [[Notes/Session 6|Session 6]]: Interrogated [[Marius Ligroves]], participated in the confrontation and battle with [[Foxtrot Fowler]], and contributed to the party's aggressive investigative tactics.
 - [[Notes/Session 8|Session 8]]: Provided comic relief, bonded with Lyra, and helped restrain the survivor during the investigation.
+- [[Notes/Session 9|Session 9]]: Assisted in canvassing for information, negotiated with Knig Neg, and supported the investigation into Abel's disappearance.
 
 ## Investigation Notes
 

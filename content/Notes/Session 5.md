@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: [investigation, session]
-title: "🗝️ Session 5: Lock Picks & Loose Ends"
+title: Session 5 🗝️ Lock Picks & Loose Ends
 date created: Monday, July 14th 2025, 7:46:14 pm
-date modified: Friday, August 1st 2025, 12:32:41 pm
+date modified: Tuesday, September 9th 2025, 11:01:04 am
 ---
 
 ## Journal Entry

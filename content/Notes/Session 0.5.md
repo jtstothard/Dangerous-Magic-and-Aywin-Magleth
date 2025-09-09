@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: []
-title: Session 0.5 – 📦 Prologue
+title: Session 0.5 📦 Prologue
 date created: Tuesday, July 8th 2025, 4:04:11 pm
-date modified: Friday, July 18th 2025, 11:02:24 am
+date modified: Tuesday, September 9th 2025, 11:01:08 am
 ---
 
 ## The Quest for Knowledge

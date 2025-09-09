@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: []
 title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Wednesday, August 20th 2025, 2:12:05 pm
+date modified: Tuesday, September 9th 2025, 11:14:05 am
 ---
 
 Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
@@ -22,16 +21,17 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 📝 Session Notes
 
- - [[Notes/Session 8|🦉 Session 8: The Prime Suspects and the Raven's Arrival]]
- - [[Notes/Session 7|🌫️ Session 7: Fog, Fights, and Farewells]]
- - [[Notes/Session 6|🐺 Session 6: The Werewolf Unmasked]]
- - [[Notes/Session 5|🗝️ Session 5: Lock Picks & Loose Ends]]
- - [[Notes/Session 4|🌕 Session 4: Moons, Mayhem, and Mistrust]]
- - [[Notes/Session 3|🌘 Session 3: Night Watch & Missing Folk]]
- - [[Notes/Session 2|🌙 Session 2: Clucking Suspicions]]
- - [[Notes/Session 1|🗡️ Session 1: Murder In Town]]
- - [[Notes/Session 0.5|📦 Session 0.5: Prologue]]
- - [[Notes/Session 0|🕯️ Session 0: Character Creation & Campaign Setup]]
+- [[Notes/Session 9|🧩 Session 9: The Lodestones of Osterford]]
+- [[Notes/Session 8|🦉 Session 8: The Prime Suspects and the Raven's Arrival]]
+- [[Notes/Session 7|🌫️ Session 7: Fog, Fights, and Farewells]]
+- [[Notes/Session 6|🐺 Session 6: The Werewolf Unmasked]]
+- [[Notes/Session 5|🗝️ Session 5: Lock Picks & Loose Ends]]
+- [[Notes/Session 4|🌕 Session 4: Moons, Mayhem, and Mistrust]]
+- [[Notes/Session 3|🌘 Session 3: Night Watch & Missing Folk]]
+- [[Notes/Session 2|🌙 Session 2: Clucking Suspicions]]
+- [[Notes/Session 1|🗡️ Session 1: Murder In Town]]
+- [[Notes/Session 0.5|📦 Session 0.5: Prologue]]
+- [[Notes/Session 0|🕯️ Session 0: Character Creation & Campaign Setup]]
 
 ### 🌍 The World
 

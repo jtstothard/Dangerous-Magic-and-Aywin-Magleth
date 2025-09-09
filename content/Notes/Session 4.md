@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: [investigation, session]
-title: "🌕 Session 4: Moons, Mayhem, and Mistrust"
+title: Session 4 🌕 Moons, Mayhem, and Mistrust
 date created: Monday, July 14th 2025, 10:59:14 pm
-date modified: Friday, August 1st 2025, 12:25:09 pm
+date modified: Tuesday, September 9th 2025, 11:01:05 am
 ---
 
 ## Journal Entry

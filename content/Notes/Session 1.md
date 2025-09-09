@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: []
-title: "🗡️ Session 1: Murder In Town"
+title: Session 1 🗡️ Murder In Town
 date created: Tuesday, July 15th 2025, 12:28:55 am
-date modified: Friday, August 1st 2025, 12:25:49 pm
+date modified: Tuesday, September 9th 2025, 11:01:07 am
 ---
 
 ## Journal Entry

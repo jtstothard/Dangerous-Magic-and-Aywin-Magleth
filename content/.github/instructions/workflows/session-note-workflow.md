@@ -15,7 +15,7 @@ This workflow ensures that session notes from all players are consistently summa
      - Resolve conflicts by preferring the most detailed or accurate account, or by marking uncertainties (e.g. "Player A recalls X, Player B recalls Y").
      - Remove duplicate points, but retain unique perspectives if they add value.
 
-2. **Update Reference Files**
+1. **Update Reference Files**
    - For each character (PC or NPC) who experienced a development:
      - Update their file in `People/Party/` or `People/NPCs/` using the [template-character.md](../templates/template-character.md).
      - Add a new entry under "Recent Developments" or "Role in Current Events".
@@ -29,18 +29,25 @@ This workflow ensures that session notes from all players are consistently summa
    - If any update is private or secret, add `hidden: true` to the frontmatter as described in the [style-guide.md](../style-guide.md).
    - If new categories of reference are needed (e.g. items, religions, organisations), create new folders under the root (e.g. `Items/`, `Religions/`, `Organisations/`) and add a corresponding template to the [templates/](../templates/) folder.
 
-3. **Update Main Index**
+1. **Update Main Index**
    - Add the new session note to the main index file (e.g. `index.md` or `Notes/index.md`).
    - Ensure the session is listed in chronological order with a wikilink (e.g. `[[Notes/Session X|Session X]]`).
    - If new reference files (characters, places, organisations, etc.) were created, update their respective index sections as well.
    - Maintain consistent formatting and section structure as described in the [style-guide.md](../style-guide.md).
 
-4. **Review and Quality Check**
+1. **Review and Quality Check**
    - Check for:
      - Consistent naming and cross-references as outlined in the [project-structure.md](../project-structure.md).
      - Broken or missing wikilinks.
      - Required frontmatter fields in all updated files (see [style-guide.md](../style-guide.md)).
      - Factual accuracy and clarity.
 
-5. **Pre-Session Preparation**
-   - Use the [pre-session-preparation.md](pre-session-preparation.md) workflow to create a concise recap for the next session.
+
+1. **Pre-Session Preparation**
+
+- Use the [pre-session-preparation.md](pre-session-preparation.md) workflow to create a concise recap for the next session.
+
+1. **Clean Up Player Notes**
+
+- After merging and summarising all player notes or subfolder drafts into the main session summary, remove or archive the original per-player notes/subfolders from the `Notes/Session X/` directory to keep the workspace tidy and avoid confusion.
+- Ensure the final `Notes/Session X.md` is the single source of truth for that session.

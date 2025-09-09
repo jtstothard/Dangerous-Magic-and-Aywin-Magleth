@@ -1,8 +1,8 @@
 ---
 tags: []
 title: Spuaburg
-date created: Tuesday, July 8th 2025, 4:03:08 pm
-date modified: Tuesday, July 15th 2025, 10:55:37 am
+date created: Tuesday, July 8th 2025, 3:03:08 pm
+date modified: Tuesday, September 9th 2025, 11:07:58 am
 ---
 
 A region within the continent of [[Places/Continents/Jealeon/index|Jealeon]], known for its association with the Peace Domain and its recent conflict with neighbouring [[Loshium]].
@@ -24,3 +24,7 @@ The Peace Keepers of Spuaburg are a religious group that worships [[Rainia, the 
 ## Geography
 
 Spuaburg is located on the eastern side of [[Places/Continents/Jealeon/index|Jealeon]], providing strategic control over maritime access from the east. This geographical advantage has made it a focal point for trade and military movements, particularly during the recent conflict with [[Loshium]].
+
+## Recent Developments
+
+- [[Notes/Session 9|Session 9]]: [[Spuaburg]] mentioned as a source region for volatile magical rocks connected to the [[Abel Milhaud]] investigation in [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]].

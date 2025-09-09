@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: []
-title: "🦉 Session 8: The Prime Suspects and the Raven's Arrival"
+title: "Session 8 🦉 The Prime Suspects and the Raven's Arrival"
 date created: Wednesday, August 20th 2025, 1:32:27 pm
-date modified: Wednesday, August 20th 2025, 2:13:41 pm
+date modified: Tuesday, September 9th 2025, 11:00:58 am
 ---
 
 ## Journal Entry
@@ -14,7 +13,7 @@ The morning was tense. [[People/Party/Threecie Novik|Threecie]] was shaken, guil
 
 [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]] is colder than I imagined. [[People/Party/Lharamit Pirevin Rhyne|Lharamit]] went straight to the cathedral, seeking answers from [[Allabyra Crisella]] about the symbol we found in [[Bertrum Greyson]]'s house and the smoky people. She was told to speak to [[Deacon Cain]] and [[Deacon Cathetos]], one for symbology, one for magical mutations. The rest of us ended up at [[People/Party/Threecie Novik|Threecie Novik]]'s place. It's sparse, barely lived in, but it was enough. [[People/Party/Robin Thaleia|Robin Thaleia]] and [[People/Party/Threecie Novik|Threecie Novik]] shared a drink, while [[People/Party/Gralstak|Gralstak]] and I played cards, and for a moment, things felt almost normal.
 
-Today, we went to the [[Organisations/Adventuring Parties/index|Aeremore Adventurers' League]]. [[Maccario|Maccario]], a dwarven official, offered us a contract to find the missing plans if we could pass their test. We registered as [[The Prime Suspects]]. I'm not sure if it's a joke or a warning, but it's ours now. There are so many threads, [[Thanatos]], the stolen plans, the symbols, and the smoky people. I don't know where they lead, but I'll keep following them. For now, I'm just glad we're together, even if everything feels uncertain.
+Today, we went to the [[Organisations/Adventuring Parties/index|Aeremore Adventurers' League]]. [[Maccario Bulen|Maccario]], a dwarven official, offered us a contract to find the missing plans if we could pass their test. We registered as [[The Prime Suspects]]. I'm not sure if it's a joke or a warning, but it's ours now. There are so many threads, [[Thanatos]], the stolen plans, the symbols, and the smoky people. I don't know where they lead, but I'll keep following them. For now, I'm just glad we're together, even if everything feels uncertain.
 
 ## Major Events
 
@@ -31,7 +30,7 @@ Today, we went to the [[Organisations/Adventuring Parties/index|Aeremore Adventu
 - **[[Allabyra Crisella]]**: [[Lharamit Pirevin Rhyne|Lharamit]]'s superior at the cathedral, provides guidance on magical investigations.
 - **[[Deacon Cain]]**: Expert in symbology, referenced for further investigation.
 - **[[Deacon Cathetos]]**: Expert in magical mutations, referenced for further investigation.
-- **[[Maccario]]**: Dwarven official at the [[Organisations/Adventuring Parties/index|Aeremore Adventurers' League]], offers the contract and entrance test.
+- **[[Maccario Bulen]]**: Dwarven official at the [[Organisations/Adventuring Parties/index|Aeremore Adventurers' League]], offers the contract and entrance test.
 - **Survivor from [[Smoke and Ropes]]**: Interrogated about the stolen plans, escapes during the session.
 
 ## Character Actions & Developments
@@ -48,3 +47,7 @@ Today, we went to the [[Organisations/Adventuring Parties/index|Aeremore Adventu
 - What is the true nature of [[Thanatos]] and the connection to [[Threecie Novik|Threecie]]?
 - What do the symbols found in [[Bertrum Greyson|Bertrum]]'s house mean?
 - What is causing the magical mutations and smoky people?
+
+## Navigation
+
+← [[Session 7]] **Previous** | **Next:** [[Session 9]] →

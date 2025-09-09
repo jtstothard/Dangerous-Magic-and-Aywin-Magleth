@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: []
-title: Session 0 – 🕯️ Character Creation & Campaign Setup
+title: Session 0 🕯️ Character Creation & Campaign Setup
 date created: Tuesday, July 8th 2025, 3:59:25 pm
-date modified: Friday, July 18th 2025, 10:52:20 am
+date modified: Tuesday, September 9th 2025, 11:01:47 am
 ---
 
 ## Geographic Overview

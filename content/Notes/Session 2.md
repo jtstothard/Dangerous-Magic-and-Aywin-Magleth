@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: [investigation, session]
-title: "🌙 Session 2: Clucking Suspicions"
+title: Session 2  🌙 Clucking Suspicions
 date created: Tuesday, July 8th 2025, 4:13:43 pm
-date modified: Friday, August 1st 2025, 12:25:59 pm
+date modified: Tuesday, September 9th 2025, 11:01:06 am
 ---
 
 ## Journal Entry
