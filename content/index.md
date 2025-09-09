@@ -2,7 +2,7 @@
 tags: []
 title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Tuesday, September 9th 2025, 11:14:05 am
+date modified: Tuesday, September 9th 2025, 2:19:03 pm
 ---
 
 Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
@@ -63,4 +63,3 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
   - **[[Organisations/Adventuring Parties/index|Adventuring Parties]]**
   - **[[Organisations/Adventuring Parties/Smoke and Ropes|Smoke and Ropes]]**
 
----
