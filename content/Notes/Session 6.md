@@ -3,7 +3,7 @@ title: Session 6 🐺 The Werewolf Unmasked
 tags: [session, summary]
 date: 2025-07-17
 date created: Friday, August 1st 2025, 12:41:51 pm
-date modified: Tuesday, September 9th 2025, 11:01:02 am
+date modified: Tuesday, September 9th 2025, 11:31:53 am
 ---
 
 ## Journal Entry
