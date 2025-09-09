@@ -2,7 +2,7 @@
 tags: [investigation, session]
 title: Session 2  🌙 Clucking Suspicions
 date created: Tuesday, July 8th 2025, 4:13:43 pm
-date modified: Tuesday, September 9th 2025, 11:31:47 am
+date modified: Tuesday, September 9th 2025, 11:34:34 am
 ---
 
 ## Journal Entry
