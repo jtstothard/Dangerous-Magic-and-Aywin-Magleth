@@ -1,9 +1,8 @@
 ---
-aliases: []
 tags: []
 title: Manmosu
 date created: Friday, July 4th 2025, 1:00:17 pm
-date modified: Friday, August 1st 2025, 1:08:37 pm
+date modified: Thursday, September 25th 2025, 11:24:19 am
 ---
 
 **Pronouns:** He/Him
@@ -32,42 +31,9 @@ date modified: Friday, August 1st 2025, 1:08:37 pm
 
 ---
 
-## **Recent Investigation Behaviour**
+## Recent Developments
 
-**Magical Abilities:**
-
-- **Thunderwave finishing** - Used _Thunderwave_ to dramatically finish off sleeping chickens during the werechicken combat
-- **Command and Prestidigitation** - Attempted to distract [[Danlas Ligroves|Danlas]] during the house infiltration, though it made him suspicious
-- **Precise spellcasting** - Previously demonstrated ability to kill wolves with single spells, showing effective combat magic
-
-**Social Interactions:**
-
-- **Interrogation work** - Visited [[Danlas Ligroves|Danlas]] with [[Threecie Novik|Threecie]], claiming to report back to [[Marius Ligroves|Marius]]
-- **Dramatic exits** - Stormed out dramatically when his magical distraction attempts pissed off [[Danlas Ligroves|Danlas]]
-- **Arrest and detention** - Was arrested along with [[Lyra Shadowflame|Lyra]] by [[Marius Ligroves|Marius]] and [[Strondabella Keggranite|Strondabella]] as leverage to ensure party cooperation
-
-**Investigation Style:**
-
-- **Note-taking observer** - Continues to document events and observations in his notepad
-- **Strategic thinking** - Works well in partnerships, particularly with [[Threecie Novik|Threecie]] during questioning sessions
-- **Modest participation** - Often lets others take the lead while providing magical support when needed
-
-**Combat Behaviour:**
-
-- **Friendly fire incident** - Was accidentally hit by [[Lharamit Pirevin Rhyne|Lharamit]]'s blast after [[Lyra Shadowflame|Lyra]]'s _Silvery Barbs_ interference
-- **Area effect specialist** - Uses spells like _Thunderwave_ effectively to handle multiple enemies
-- **Supportive role** - Generally positioned to provide magical backup rather than frontline combat
-
-**Partnership Dynamics:**
-
-- **Close bond with [[Robin Thaleia|Robin]]** - Their relationship continues to be strong, with Robin frequently praising his magical abilities
-- **Team coordination** - Works effectively with different party members depending on the situation
-- **Shared traits awareness** - Remains self-conscious about sharing formal appearance traits with [[Gralstak]]
-
-**Recent Departure:**
-
-- **Arrest and jailbreak** - Was imprisoned with [[Lyra Shadowflame|Lyra]] by [[Marius Ligroves|Marius]] as leverage for party cooperation
-- **Legal justification** - Argued that hiring someone for murder isn't illegal in this area, insisting he never killed anyone himself
-- **Departure from town** - Successfully escaped jail and immediately left [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index|Cerbereburn]], determined to avoid further involvement
-- **Party decision** - The remaining party members chose not to intervene in his departure
-- **Current status** - Temporarily separated from the party, whereabouts unknown
+- Reunited with the party while staying at a hotel in [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]].
+- Attempted to infiltrate the [[Pashae Institute]] but triggered a pressure plate, activating animated kitchenware.
+- Participated in the battle against animated cutlery and an oven.
+- See: [[Notes/Session 10|Session 10]].

@@ -2,7 +2,7 @@
 tags: []
 title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Tuesday, September 9th 2025, 2:19:03 pm
+date modified: Thursday, September 25th 2025, 11:29:08 am
 ---
 
 Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
@@ -21,6 +21,7 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 📝 Session Notes
 
+- [[Notes/Session 10|🥄 Session 10: The Animated Kitchen]]
 - [[Notes/Session 9|🧩 Session 9: The Lodestones of Osterford]]
 - [[Notes/Session 8|🦉 Session 8: The Prime Suspects and the Raven's Arrival]]
 - [[Notes/Session 7|🌫️ Session 7: Fog, Fights, and Farewells]]
@@ -62,4 +63,3 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 - 🏢 **[[Organisations/]]** - Factions, adventuring parties, and more
   - **[[Organisations/Adventuring Parties/index|Adventuring Parties]]**
   - **[[Organisations/Adventuring Parties/Smoke and Ropes|Smoke and Ropes]]**
-

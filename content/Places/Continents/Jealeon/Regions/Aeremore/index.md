@@ -3,7 +3,7 @@ aliases: [Aeremore]
 tags: [aeremore, city, region]
 title: Aeremore
 date created: Tuesday, July 8th 2025, 3:43:24 pm
-date modified: Wednesday, August 20th 2025, 2:09:29 pm
+date modified: Thursday, September 11th 2025, 6:07:38 pm
 ---
 
 ## Summary
@@ -19,7 +19,7 @@ date modified: Wednesday, August 20th 2025, 2:09:29 pm
 
 - [[Places/Continents/Jealeon/Regions/Aeremore/Magleth Manor|Magleth Manor]] (at the top of the city)
 - [[Places/Continents/Jealeon/Regions/Aeremore/The Cobbles|The Cobbles]] (outside Magleth Manor)
-- [[Places/Continents/Jealeon/Regions/Aeremore/The Pentacores|The Pentacores]]
+- [[Places/Continents/Jealeon/Regions/Aeremore/The Pentattures|The Pentattures]]
 - [[Places/Continents/Jealeon/Regions/Aeremore/Inner Osterford|Inner Osterford]] (outside the Pentacores)
 - [[Places/Continents/Jealeon/Regions/Aeremore/Outer Osterford|Outer Osterford]] (outside the city walls)
 

@@ -1,11 +1,10 @@
 ---
-aliases:
-  - Jealeon
+aliases: [Jealeon]
 tags: []
 title: Jealeon
 type: Continent
 date created: Tuesday, July 8th 2025, 3:50:26 pm
-date modified: Tuesday, July 15th 2025, 11:10:53 am
+date modified: Thursday, September 11th 2025, 6:25:38 pm
 ---
 
 ![[Pasted image 20250708155045.webp]]

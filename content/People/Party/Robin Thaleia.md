@@ -4,7 +4,7 @@ pronouns: he/him
 title: Robin Thaleia
 tags: []
 date created: Friday, July 4th 2025, 1:00:49 pm
-date modified: Tuesday, September 9th 2025, 10:59:02 am
+date modified: Thursday, September 25th 2025, 11:24:28 am
 ---
 
 ## Basic Information
@@ -27,9 +27,9 @@ date modified: Tuesday, September 9th 2025, 10:59:02 am
 
 ## Recent Developments
 
-- [[Notes/Session 6|Session 6]]: Planned and attempted to break into [[Foxtrot Fowler]]'s home, participated in the confrontation and battle, and continued to advocate for the use of mind control magic.
-- [[Notes/Session 8|Session 8]]: Supported Threecie, helped process the aftermath, and bonded with the party during downtime.
-- [[Notes/Session 9|Session 9]]: Helped gather information in the neighborhood, interacted with [[Knig Neg]], and contributed creative ideas during the investigation into [[Abel Milhaud]]'s disappearance.
+- Advocated for charm-based infiltration of the [[Pashae Institute]].
+- Participated in the battle against animated kitchenware during the rescue mission for [[Abel Milhaud]].
+- See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes
 

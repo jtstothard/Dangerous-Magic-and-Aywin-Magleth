@@ -1,9 +1,9 @@
 ---
-aliases: ["AAL", "Aeremore Adventurers' League"]
+aliases: ["Adventurers' League", "Aeremore Adventurers' League", AAL]
 tags: []
 date created: Thursday, August 14th 2025, 3:15:14 pm
-date modified: Tuesday, September 9th 2025, 11:31:38 am
-title: "Aeramore Adventurers' League"
+date modified: Thursday, September 25th 2025, 11:29:03 am
+title: "Aeremore Adventurers' League"
 ---
 
 ## Overview
@@ -23,7 +23,8 @@ Some jobs have symbols from various magical institutions in the Pentaturres. The
 ## Recent Developments
 
 - [[Notes/Session 8|Session 8]]: The party ([[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Gralstak|Gralstak]]) registered as [[Organisations/Adventuring Parties/The Prime Suspects|The Prime Suspects]] and received a contract to investigate stolen plans. [[Maccario Bulen|Maccario]] oversaw their registration and contract assignment.
-- [[Notes/Session 9|Session 9]]: Assigned the party the contract to find Abel Milhaud, a missing tiefling teenager in Aeremore.
+- [[Notes/Session 9|Session 9]]: Assigned the party the contract to find [[Abel Milhaud]], a missing tiefling teenager in [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]].
+- [[Notes/Session 10|Session 10]]: The party continued their investigation into [[Abel Milhaud]], infiltrating the Pashae Institute and rescuing him. The League's role in assigning this contract remains central to the party's progress.
 
 ## Structure
 

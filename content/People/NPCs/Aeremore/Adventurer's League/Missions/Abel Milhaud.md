@@ -4,7 +4,7 @@ pronouns: he/him
 title: Abel Milhaud
 tags: [missing, npc, tiefling]
 date created: Tuesday, September 9th 2025, 10:15:05 am
-date modified: Tuesday, September 9th 2025, 11:03:09 am
+date modified: Thursday, September 25th 2025, 11:23:44 am
 ---
 
 ## Basic Information
@@ -22,6 +22,9 @@ date modified: Tuesday, September 9th 2025, 11:03:09 am
 ## Recent Developments
 
 - [[Notes/Session 9|Session 9]]: Subject of a missing persons investigation. Disappeared from [[Outer Osterford]], leaving behind magical components and a coded note. Last tracked by the party to the [[Pashae Institute]].
+- [[Notes/Session 10|Session 10]]:
+  - Found unconscious and restrained in the Pashae Institute during the party's investigation.
+  - Rescued by the party after a battle with animated kitchenware.
 
 ## Notable Possessions (at time of disappearance)
 
@@ -31,4 +34,4 @@ date modified: Tuesday, September 9th 2025, 11:03:09 am
 
 ## Status
 
-Missing as of [[Notes/Session 9|Session 9]]. Last known location: [[Pashae Institute]], [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]] (tracked by Locate Object spell).
+Found but unconscious being experimented on by the [[Organisations/Pashae Institute|Pashae Institute]] as of [[Session 10]]

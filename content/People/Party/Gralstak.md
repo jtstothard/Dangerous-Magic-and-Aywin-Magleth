@@ -1,10 +1,9 @@
 ---
-aliases: [Gralstak]
 pronouns: he/him
 title: Gralstak
 tags: []
 date created: Friday, July 4th 2025, 12:59:57 pm
-date modified: Wednesday, August 20th 2025, 2:14:45 pm
+date modified: Thursday, September 25th 2025, 11:23:57 am
 ---
 
 ## Basic Information
@@ -27,9 +26,9 @@ date modified: Wednesday, August 20th 2025, 2:14:45 pm
 
 ## Recent Developments
 
-- [[Notes/Session 6|Session 6]]: Interrogated [[Marius Ligroves]], participated in the confrontation and battle with [[Foxtrot Fowler]], and contributed to the party's aggressive investigative tactics.
-- [[Notes/Session 8|Session 8]]: Provided comic relief, bonded with Lyra, and helped restrain the survivor during the investigation.
-- [[Notes/Session 9|Session 9]]: Assisted in canvassing for information, negotiated with Knig Neg, and supported the investigation into Abel's disappearance.
+- Attempted to bluff his way into the [[Pashae Institute]] as a private investigator.
+- Participated in the battle against animated kitchenware during the rescue mission for [[Abel Milhaud]].
+- See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes
 
