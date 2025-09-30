@@ -3,7 +3,7 @@ pronouns: he/him
 title: Gralstak
 tags: []
 date created: Friday, July 4th 2025, 12:59:57 pm
-date modified: Thursday, September 25th 2025, 11:23:57 am
+date modified: Tuesday, September 30th 2025, 11:08:03 am
 ---
 
 ## Basic Information
@@ -28,6 +28,10 @@ date modified: Thursday, September 25th 2025, 11:23:57 am
 
 - Attempted to bluff his way into the [[Pashae Institute]] as a private investigator.
 - Participated in the battle against animated kitchenware during the rescue mission for [[Abel Milhaud]].
+- **[[Notes/Session 11|Session 11]]**:
+  - Killed one of the [[Organisations/Pashae Institute|Pashae Institute]] mages during combat.
+  - Witnessed the mage's body explode with arcane energy upon death.
+  - Assisted the party in escaping the institute after rescuing [[Abel Milhaud]].
 - See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes

@@ -43,10 +43,6 @@ This workflow ensures that session notes from all players are consistently summa
      - Factual accuracy and clarity.
 
 
-1. **Pre-Session Preparation**
-
-- Use the [pre-session-preparation.md](pre-session-preparation.md) workflow to create a concise recap for the next session.
-
 1. **Clean Up Player Notes**
 
 - After merging and summarising all player notes or subfolder drafts into the main session summary, remove or archive the original per-player notes/subfolders from the `Notes/Session X/` directory to keep the workspace tidy and avoid confusion.

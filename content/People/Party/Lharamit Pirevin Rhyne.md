@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lharamit Pirevin Rhyne
 tags: []
 date created: Friday, July 4th 2025, 12:59:37 pm
-date modified: Thursday, September 25th 2025, 11:24:04 am
+date modified: Tuesday, September 30th 2025, 11:08:16 am
 ---
 
 ## Basic Information
@@ -31,6 +31,10 @@ date modified: Thursday, September 25th 2025, 11:24:04 am
 - Reunited with [[Manmosu]], who was staying at a nearby hotel.
 - Used Locate Object to pinpoint [[Abel Milhaud|Abel]]'s location.
 - Participated in the infiltration of the [[Pashae Institute]] and the battle against animated kitchenware.
+- **[[Notes/Session 11|Session 11]]**:
+  - Assisted in assessing [[Abel Milhaud]]'s condition after his rescue.
+  - Provided healing and support during the party's escape from the [[Pashae Institute]].
+  - Helped the party regroup and ensure [[Abel Milhaud|Abel]]'s safety at the [[Organisations/Adventuring Parties/index|Adventurers' League]] headquarters.
 - See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes

@@ -4,7 +4,7 @@ pronouns: he/him
 title: Abel Milhaud
 tags: [missing, npc, tiefling]
 date created: Tuesday, September 9th 2025, 10:15:05 am
-date modified: Thursday, September 25th 2025, 11:23:44 am
+date modified: Tuesday, September 30th 2025, 11:07:31 am
 ---
 
 ## Basic Information
@@ -25,6 +25,10 @@ date modified: Thursday, September 25th 2025, 11:23:44 am
 - [[Notes/Session 10|Session 10]]:
   - Found unconscious and restrained in the Pashae Institute during the party's investigation.
   - Rescued by the party after a battle with animated kitchenware.
+- [[Notes/Session 11|Session 11]]:
+  - Rescued by the party, who found him pale and weak, with puncture marks indicating blood theft.
+  - The room where he was held contained vials of unknown substances, suggesting ongoing experiments.
+  - Brought to the [[Organisations/Adventuring Parties/index|Adventurers' League]] headquarters for safety. His long-term condition remains uncertain.
 
 ## Notable Possessions (at time of disappearance)
 
@@ -34,4 +38,4 @@ date modified: Thursday, September 25th 2025, 11:23:44 am
 
 ## Status
 
-Found but unconscious being experimented on by the [[Organisations/Pashae Institute|Pashae Institute]] as of [[Session 10]]
+Found but unconscious being experimented on by the [[Organisations/Pashae Institute|Pashae Institute]] as of [[Notes/Session 10|Session 10]]. Rescued and recovering as of [[Notes/Session 11|Session 11]].

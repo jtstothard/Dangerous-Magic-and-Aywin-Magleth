@@ -4,7 +4,7 @@ pronouns: she/they
 title: Threecie Novik
 tags: []
 date created: Friday, July 4th 2025, 12:57:26 pm
-date modified: Thursday, September 25th 2025, 11:24:45 am
+date modified: Tuesday, September 30th 2025, 11:09:03 am
 ---
 
 ![[Pasted image 20250704125835.webp]]
@@ -32,6 +32,9 @@ date modified: Thursday, September 25th 2025, 11:24:45 am
 - Made [[Thanatos]] invisible to scout the [[Pashae Institute]].
 - Located [[Abel Milhaud]] during the scouting mission.
 - Assisted in the infiltration and battle against animated kitchenware.
+- **[[Notes/Session 11|Session 11]]**:
+  - Refused the intruder's demand to leave [[Abel Milhaud]] behind, standing firm in her decision.
+  - Supported the party during the chaotic escape from the [[Pashae Institute]].
 - See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes

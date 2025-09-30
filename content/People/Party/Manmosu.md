@@ -2,7 +2,7 @@
 tags: []
 title: Manmosu
 date created: Friday, July 4th 2025, 1:00:17 pm
-date modified: Thursday, September 25th 2025, 11:24:19 am
+date modified: Tuesday, September 30th 2025, 11:08:38 am
 ---
 
 **Pronouns:** He/Him
@@ -17,9 +17,9 @@ date modified: Thursday, September 25th 2025, 11:24:19 am
 - **Class:** Assumed Sorcerer
 - **Personality:** Thoughtful, studious, modest; prefers to quietly take notes and observe
 - **Notable Traits:**
- 	- Repeatedly described as _not well-travelled_ despite appearance
- 	- Uses precise magic to great effect (e.g. killing wolves with one spell)
- 	- Often downplays his role in events; lets others speak for him
+  - Repeatedly described as _not well-travelled_ despite appearance
+  - Uses precise magic to great effect (e.g. killing wolves with one spell)
+  - Often downplays his role in events; lets others speak for him
 
 ---
 
@@ -36,4 +36,9 @@ date modified: Thursday, September 25th 2025, 11:24:19 am
 - Reunited with the party while staying at a hotel in [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]].
 - Attempted to infiltrate the [[Pashae Institute]] but triggered a pressure plate, activating animated kitchenware.
 - Participated in the battle against animated cutlery and an oven.
+- **[[Notes/Session 11|Session 11]]**:
+  - Picked the lock to the pantry where [[Abel Milhaud]] was held.
+  - Searched the room and took vials of unknown substances for later analysis.
+  - Carried Abel during the party's escape, ensuring his safety.
+  - Worked with [[Robin Thaleia]] to disguise the party's escape by blending into the streets.
 - See: [[Notes/Session 10|Session 10]].

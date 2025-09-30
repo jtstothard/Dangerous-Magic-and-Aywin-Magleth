@@ -22,6 +22,8 @@ Write this section as if it were a personal journal entry written by Lyra, refle
 
 The entry should feel personal and immersive, providing a vivid recounting of the session while offering insight into Lyra's perspective and emotional state. It can also include details about things that Lyra didn't necessarily witness but learned about through others.
 
+The journal entry should be in first-person narrative style, rich in detail and character voice, making it engaging and reflective of Lyra's unique perspective within the group.
+
 ---
 
 

@@ -2,7 +2,7 @@
 tags: [animated kitchen, investigation, Pashae Institute, session]
 title: "Session 10 🥄 The Animated Kitchen"
 date created: Thursday, September 25th 2025, 10:40:44 am
-date modified: Thursday, September 25th 2025, 11:23:53 am
+date modified: Tuesday, September 30th 2025, 11:07:17 am
 ---
 
 ## Journal Entry

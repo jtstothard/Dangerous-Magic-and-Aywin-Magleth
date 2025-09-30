@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lyra Shadowflame
 tags: []
 date created: Friday, July 4th 2025, 12:59:19 pm
-date modified: Thursday, September 25th 2025, 11:24:12 am
+date modified: Tuesday, September 30th 2025, 11:08:30 am
 ---
 
 ## Basic Information
@@ -27,6 +27,7 @@ date modified: Thursday, September 25th 2025, 11:24:12 am
 
 ## Recent Developments
 
-- Assisted in the infiltration of the [[Pashae Institute]] and the battle against animated kitchenware.
-- Tried to gain access to the [[Places/Continents/Jealeon/Regions/Aeremore/Buildings/Pashae Institute|Pashae Institute]] diplomatically, specifically trying to gain access to magic that protects against mind magic and infiltrate buildings.
-- See: [[Notes/Session 10|Session 10]].
+- **[[Notes/Session 11|Session 11]]**:
+  - Discovered the delayed spell mechanism that triggered the animated cutlery and oven in the [[Places/Continents/Jealeon/Regions/Aeremore/Buildings/Pashae Institute|Pashae Institute]].
+  - Used **Fog Cloud** during the party's escape to obscure vision and protect the group.
+  - Assisted in assessing the magical traps and experiments in the institute.

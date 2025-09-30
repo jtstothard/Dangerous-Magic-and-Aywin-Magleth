@@ -4,7 +4,7 @@ pronouns: he/him
 title: Erhand Pashae
 tags: [mage, npc, pashae institute]
 date created: Tuesday, September 9th 2025, 10:50:09 am
-date modified: Thursday, September 25th 2025, 11:25:32 am
+date modified: Thursday, September 25th 2025, 7:21:06 pm
 ---
 
 ## Basic Information

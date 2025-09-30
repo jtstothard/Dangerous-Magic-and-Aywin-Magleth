@@ -4,7 +4,7 @@ pronouns: he/him
 title: Robin Thaleia
 tags: []
 date created: Friday, July 4th 2025, 1:00:49 pm
-date modified: Thursday, September 25th 2025, 11:24:28 am
+date modified: Tuesday, September 30th 2025, 11:08:53 am
 ---
 
 ## Basic Information
@@ -29,7 +29,11 @@ date modified: Thursday, September 25th 2025, 11:24:28 am
 
 - Advocated for charm-based infiltration of the [[Pashae Institute]].
 - Participated in the battle against animated kitchenware during the rescue mission for [[Abel Milhaud]].
-- See: [[Notes/Session 10|Session 10]].
+- **[[Notes/Session 11|Session 11]]**:
+  - Cast **Sleep** to try and reveal the invisible intruder, though it was unsuccessful.
+  - Used **Command** during combat to subdue one of the [[Organisations/Pashae Institute|Pashae Institute]]mages.
+  - Helped disguise the party's escape by blending into the streets with [[Manmosu]].
+  - Expressed frustration with the party's infiltration tactics during the battle.
 
 ## Investigation Notes
 
