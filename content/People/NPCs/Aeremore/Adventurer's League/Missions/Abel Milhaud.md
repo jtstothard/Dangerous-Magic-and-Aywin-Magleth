@@ -4,7 +4,7 @@ pronouns: he/him
 title: Abel Milhaud
 tags: [missing, npc, tiefling]
 date created: Tuesday, September 9th 2025, 10:15:05 am
-date modified: Tuesday, September 30th 2025, 11:07:31 am
+date modified: Thursday, October 9th 2025, 12:02:50 pm
 ---
 
 ## Basic Information
@@ -29,6 +29,11 @@ date modified: Tuesday, September 30th 2025, 11:07:31 am
   - Rescued by the party, who found him pale and weak, with puncture marks indicating blood theft.
   - The room where he was held contained vials of unknown substances, suggesting ongoing experiments.
   - Brought to the [[Organisations/Adventuring Parties/index|Adventurers' League]] headquarters for safety. His long-term condition remains uncertain.
+- [[Notes/Session 12|Session 12]]:
+  - Woke weak but coherent, able to provide an account of his ordeal.
+  - Revealed the [[Organisations/Pashae Institute|Pashae Institute]] had been forcing him into magical situations (illusions) where he had to cast spells to survive, then draining his blood afterward.
+  - Shared a similar magical aura to [[People/Party/Manmosu|Manmosu]], though significantly weakened by his ordeal.
+  - Blood samples showed signs of decay from dark magic according to [[People/Party/Gralstak|Gralstak]]'s analysis.
 
 ## Notable Possessions (at time of disappearance)
 
@@ -38,4 +43,4 @@ date modified: Tuesday, September 30th 2025, 11:07:31 am
 
 ## Status
 
-Found but unconscious being experimented on by the [[Organisations/Pashae Institute|Pashae Institute]] as of [[Notes/Session 10|Session 10]]. Rescued and recovering as of [[Notes/Session 11|Session 11]].
+Rescued and recovering at the [[Organisations/Adventuring Parties/index|Adventurers' League]] headquarters as of [[Notes/Session 12|Session 12]]. Confirmed to have sorcerous abilities similar to [[People/Party/Manmosu|Manmosu]].

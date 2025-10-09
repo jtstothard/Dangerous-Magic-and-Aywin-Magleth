@@ -4,7 +4,7 @@ pronouns: she/her
 title: Jezebel Milhaud
 tags: [npc, tiefling, woodcarver]
 date created: Tuesday, September 9th 2025, 10:18:42 am
-date modified: Tuesday, September 9th 2025, 11:04:05 am
+date modified: Thursday, October 9th 2025, 12:03:04 pm
 ---
 
 ## Basic Information
@@ -22,7 +22,8 @@ date modified: Tuesday, September 9th 2025, 11:04:05 am
 ## Recent Developments
 
 - [[Notes/Session 9|Session 9]]: Interviewed by the party regarding [[Abel Milhaud]]'s disappearance. Provided details about Abel's activities, possessions, and family situation.
+- [[Notes/Session 12|Session 12]]: Confirmed the successful completion of [[Abel Milhaud]]'s rescue, allowing [[The Prime Suspects]] to become full members of the [[Organisations/Adventuring Parties/index|Adventurers' League]].
 
 ## Status
 
-Resides in [[Outer Osterford]] as of [[Notes/Session 9|Session 9]].
+Resides in [[Outer Osterford]] as of [[Notes/Session 12|Session 12]]. Son [[Abel Milhaud]] has been successfully rescued and is recovering.

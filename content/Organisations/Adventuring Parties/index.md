@@ -2,7 +2,7 @@
 aliases: ["Adventurers' League", "Aeremore Adventurers' League", AAL]
 tags: []
 date created: Thursday, August 14th 2025, 3:15:14 pm
-date modified: Tuesday, September 30th 2025, 11:07:46 am
+date modified: Thursday, October 9th 2025, 12:00:26 pm
 title: "Aeremore Adventurers' League"
 ---
 

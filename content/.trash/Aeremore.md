@@ -27,7 +27,7 @@ date modified: Wednesday, August 20th 2025, 1:42:48 pm
 
 - Outer Osterford has expanded beyond the city walls as more building was required.
 
-[[Notes/Session 8|Session 8]]: The party ([[People/Party/Threecie Novik|Threecie]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit]], [[People/Party/Robin Thaleia|Robin]], [[People/Party/Lyra Shadowflame|Lyra]], [[People/Party/Gralstak|Gralstak]]) returned to [[Places/Continents/Jealeon/Regions/Aeremore|Aeremore]], splitting between [[People/Party/Threecie Novik|Threecie]]'s home in [[Places/Continents/Jealeon/Regions/Aeremore/Outer Osterford|Outer Osterford]] and the [[Places/Continents/Jealeon/Regions/Aeremore/Cathedral|cathedral]]. The [[Organisations/Adventuring Parties/index|Aeremore Adventurers' League]] offered a contract to investigate stolen plans, and the group registered as [[The Prime Suspects]]. [[Thanatos]], [[Threecie Novik|Threecie]]'s new familiar, made its first appearance in the city.
+[[Notes/Session 8|Session 8]]: The party ([[People/Party/Threecie Novik|Threecie]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit]], [[People/Party/Robin Thaleia|Robin]], [[People/Party/Lyra Shadowflame|Lyra]], [[People/Party/Gralstak|Gralstak]]) returned to [[Places/Continents/Jealeon/Regions/Aeremore|Aeremore]], splitting between [[People/Party/Threecie Novik|Threecie]]'s home in [[Places/Continents/Jealeon/Regions/Aeremore/Outer Osterford|Outer Osterford]] and the [[Cathedral]]. The [[Organisations/Adventuring Parties/index|Aeremore Adventurers' League]] offered a contract to investigate stolen plans, and the group registered as [[The Prime Suspects]]. [[Thanatos]], [[Threecie Novik|Threecie]]'s new familiar, made its first appearance in the city.
 
 ## Resources
 

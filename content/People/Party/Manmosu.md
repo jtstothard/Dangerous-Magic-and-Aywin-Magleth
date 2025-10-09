@@ -2,7 +2,7 @@
 tags: []
 title: Manmosu
 date created: Friday, July 4th 2025, 1:00:17 pm
-date modified: Tuesday, September 30th 2025, 11:08:38 am
+date modified: Thursday, October 9th 2025, 12:04:20 pm
 ---
 
 **Pronouns:** He/Him
@@ -41,4 +41,10 @@ date modified: Tuesday, September 30th 2025, 11:08:38 am
   - Searched the room and took vials of unknown substances for later analysis.
   - Carried Abel during the party's escape, ensuring his safety.
   - Worked with [[Robin Thaleia]] to disguise the party's escape by blending into the streets.
+- **[[Notes/Session 12|Session 12]]**:
+  - Healed [[People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud|Abel]] when he woke at the [[Organisations/Adventuring Parties/index|Adventurers' League]] headquarters.
+  - Provided blood samples for [[People/Party/Gralstak|Gralstak]]'s experiments, confirming his sorcerous abilities.
+  - Shared a similar magical aura with [[Abel Milhaud|Abel]], though Abel's was significantly weakened by his ordeal.
+  - Attempted to use Command on [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]] when demanding proof of identity.
+  - Underwent mental examination by Magleth, who placed him at a council table with his own conflicting emotions (anger, greed, and bravado) warring against each other.
 - See: [[Notes/Session 10|Session 10]].

@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lharamit Pirevin Rhyne
 tags: []
 date created: Friday, July 4th 2025, 12:59:37 pm
-date modified: Tuesday, September 30th 2025, 11:08:16 am
+date modified: Thursday, October 9th 2025, 12:04:06 pm
 ---
 
 ## Basic Information
@@ -35,6 +35,11 @@ date modified: Tuesday, September 30th 2025, 11:08:16 am
   - Assisted in assessing [[Abel Milhaud]]'s condition after his rescue.
   - Provided healing and support during the party's escape from the [[Pashae Institute]].
   - Helped the party regroup and ensure [[Abel Milhaud|Abel]]'s safety at the [[Organisations/Adventuring Parties/index|Adventurers' League]] headquarters.
+- **[[Notes/Session 12|Session 12]]**:
+  - Wrote official reports documenting the [[People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud|Abel Milhaud]] rescue mission.
+  - Consulted with a [[Cathedral]] deacon about alchemical matters related to the blood experiments.
+  - Underwent invasive psychological examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who placed her in a library setting that exposed her doubts about her family and her complicated relationship with the Cathedral.
+  - Magleth noted the potential for turning her away from the Cathedral, suggesting her conflicted loyalties.
 - See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes

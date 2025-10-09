@@ -119,6 +119,29 @@ This style guide ensures consistency across all notes, templates, and workflows 
 
 ---
 
+## Punctuation Guidelines
+
+- **Hyphens and Dashes:**
+  - Avoid using hyphens (-) or em dashes (—) for punctuation or to separate clauses.
+  - Use commas, colons, or parentheses instead, as appropriate for clarity.
+  - Only use hyphens for compound words where grammatically required (e.g., "well-known").
+  - Do not use em dashes for parenthetical statements; use parentheses or commas.
+
+- **Ellipses:**
+  - Avoid using ellipses (...) in formal notes and documentation.
+  - Use complete sentences and proper punctuation instead.
+  - If indicating a pause or trailing thought, restructure the sentence for clarity.
+
+- **Semicolons:**
+  - Avoid using semicolons (;) where possible.
+  - Prefer splitting sentences or using commas instead.
+
+- **Quotation Marks:**
+  - Use parentheses for explanatory material: "The institute (a research facility) was heavily guarded."
+  - Use colons to introduce explanations or lists: "The results were clear: the experiment had failed."
+
+---
+
 ## Punctuation and Dashes
 
 - **Hyphens and Dashes:**

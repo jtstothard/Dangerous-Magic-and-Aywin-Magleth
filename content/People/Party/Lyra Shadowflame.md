@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lyra Shadowflame
 tags: []
 date created: Friday, July 4th 2025, 12:59:19 pm
-date modified: Tuesday, September 30th 2025, 11:08:30 am
+date modified: Thursday, October 9th 2025, 12:03:59 pm
 ---
 
 ## Basic Information
@@ -31,3 +31,8 @@ date modified: Tuesday, September 30th 2025, 11:08:30 am
   - Discovered the delayed spell mechanism that triggered the animated cutlery and oven in the [[Places/Continents/Jealeon/Regions/Aeremore/Buildings/Pashae Institute|Pashae Institute]].
   - Used **Fog Cloud** during the party's escape to obscure vision and protect the group.
   - Assisted in assessing the magical traps and experiments in the institute.
+- **[[Notes/Session 12|Session 12]]**:
+  - Voluntarily provided blood samples for [[People/Party/Gralstak|Gralstak]]'s alchemical experiments to understand sorcerer blood properties.
+  - Underwent mental examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who probed her psychological state and revealed her desire for freedom from parental restrictions and control.
+  - The mind probe took place in a familiar yet wrong church setting, where she watched versions of herself deliver sermons while experiencing the weight of her parents' expectations and restrictions on her teachings.
+  - Magleth noted her desire to break free from her parents' shadow and find her own path, confirming she had no rigid ties to the Pentaturres.

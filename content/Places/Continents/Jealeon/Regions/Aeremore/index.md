@@ -8,7 +8,7 @@ date modified: Thursday, September 11th 2025, 6:07:38 pm
 
 ## Summary
 
-**Aeremore** is a renowned centre for magical learning and scholarly pursuit within the continent of [[Places/Continents/Jealeon/index|Jealeon]]. Built into a mountain, the city features [[Places/Continents/Jealeon/Regions/Aeremore/Magleth Manor|Magleth Manor]] at its summit. [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]] is the campaign's primary destination.
+**Aeremore** is a renowned centre for magical learning and scholarly pursuit within the continent of [[Places/Continents/Jealeon/index|Jealeon]]. Built into a mountain, the city features [[Places/Continents/Jealeon/Regions/Aeremore/Buildings/Magleth Manor|Magleth Manor]] at its summit. [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]] is the campaign's primary destination.
 
 ## Organisations & Parties
 
@@ -17,7 +17,7 @@ date modified: Thursday, September 11th 2025, 6:07:38 pm
 
 ## Notable Locations
 
-- [[Places/Continents/Jealeon/Regions/Aeremore/Magleth Manor|Magleth Manor]] (at the top of the city)
+- [[Places/Continents/Jealeon/Regions/Aeremore/Buildings/Magleth Manor|Magleth Manor]] (at the top of the city)
 - [[Places/Continents/Jealeon/Regions/Aeremore/The Cobbles|The Cobbles]] (outside Magleth Manor)
 - [[Places/Continents/Jealeon/Regions/Aeremore/The Pentattures|The Pentattures]]
 - [[Places/Continents/Jealeon/Regions/Aeremore/Inner Osterford|Inner Osterford]] (outside the Pentacores)

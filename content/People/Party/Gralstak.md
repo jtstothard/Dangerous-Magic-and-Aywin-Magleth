@@ -3,7 +3,7 @@ pronouns: he/him
 title: Gralstak
 tags: []
 date created: Friday, July 4th 2025, 12:59:57 pm
-date modified: Tuesday, September 30th 2025, 11:08:03 am
+date modified: Thursday, October 9th 2025, 12:04:09 pm
 ---
 
 ## Basic Information
@@ -32,6 +32,11 @@ date modified: Tuesday, September 30th 2025, 11:08:03 am
   - Killed one of the [[Organisations/Pashae Institute|Pashae Institute]] mages during combat.
   - Witnessed the mage's body explode with arcane energy upon death.
   - Assisted the party in escaping the institute after rescuing [[Abel Milhaud]].
+- **[[Notes/Session 12|Session 12]]**:
+  - Conducted extensive alchemical experiments on blood samples in [[People/Party/Threecie Novik|Threecie]]'s mortuary, determining that sorcerer blood functions as magical storage.
+  - Consumed werewolf blood and sampled various party members' blood as part of his research.
+  - Detected signs of decay in [[People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud|Abel]]'s blood, evidence of dark magic exposure.
+  - Underwent psychological examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who placed him in a destroyed laboratory setting that revealed his heartbreak and thirst for revenge.
 - See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes

@@ -4,7 +4,7 @@ pronouns: she/they
 title: Threecie Novik
 tags: []
 date created: Friday, July 4th 2025, 12:57:26 pm
-date modified: Tuesday, September 30th 2025, 11:09:03 am
+date modified: Thursday, October 9th 2025, 12:04:01 pm
 ---
 
 ![[Pasted image 20250704125835.webp]]
@@ -35,6 +35,11 @@ date modified: Tuesday, September 30th 2025, 11:09:03 am
 - **[[Notes/Session 11|Session 11]]**:
   - Refused the intruder's demand to leave [[Abel Milhaud]] behind, standing firm in her decision.
   - Supported the party during the chaotic escape from the [[Pashae Institute]].
+- **[[Notes/Session 12|Session 12]]**:
+  - Defended the party's rescue methods when [[People/NPCs/Aeremore/Adventurer's League/Maccario Bulen|Maccario]] criticised their approach.
+  - Provided her mortuary as laboratory space for [[People/Party/Gralstak|Gralstak]]'s blood experiments.
+  - Underwent invasive mental examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who placed her on an autopsy table while examining her heart.
+  - The mind probe revealed both her connection to a mysterious order and the necrotic corruption she carries within herself.
 - See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes

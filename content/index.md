@@ -21,6 +21,7 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 📝 Session Notes
 
+- [[Notes/Session 12|🔮 Session 12: Mind Games and Missing Plans]]
 - [[Notes/Session 11|🌀 Session 11: Fog, Blood, and Escape]]
 - [[Notes/Session 10|🥄 Session 10: The Animated Kitchen]]
 - [[Notes/Session 9|🧩 Session 9: The Lodestones of Osterford]]

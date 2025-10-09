@@ -4,7 +4,7 @@ pronouns: he/him
 title: Robin Thaleia
 tags: []
 date created: Friday, July 4th 2025, 1:00:49 pm
-date modified: Tuesday, September 30th 2025, 11:08:53 am
+date modified: Thursday, October 9th 2025, 12:04:04 pm
 ---
 
 ## Basic Information
@@ -34,6 +34,11 @@ date modified: Tuesday, September 30th 2025, 11:08:53 am
   - Used **Command** during combat to subdue one of the [[Organisations/Pashae Institute|Pashae Institute]]mages.
   - Helped disguise the party's escape by blending into the streets with [[Manmosu]].
   - Expressed frustration with the party's infiltration tactics during the battle.
+- **[[Notes/Session 12|Session 12]]**:
+  - Used detect magic to identify [[People/NPCs/Aeremore/The Cobbles/Mary Finsworth|Mary Finsworth]] as wrapped in extensive illusion magic.
+  - Detected that [[People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud|Abel]] shared a similar magical aura to [[People/Party/Manmosu|Manmosu]], though significantly weakened.
+  - Worked to smooth diplomatic relations with the [[Organisations/Adventuring Parties/index|Adventurers' League]] after the Pashae Institute incident.
+  - Underwent mental examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who subjected him to a theatrical performance exploring his past and his search for something lost.
 
 ## Investigation Notes
 
