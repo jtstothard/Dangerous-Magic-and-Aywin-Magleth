@@ -37,6 +37,12 @@ date modified: Thursday, October 9th 2025, 12:04:09 pm
   - Consumed werewolf blood and sampled various party members' blood as part of his research.
   - Detected signs of decay in [[People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud|Abel]]'s blood, evidence of dark magic exposure.
   - Underwent psychological examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who placed him in a destroyed laboratory setting that revealed his heartbreak and thirst for revenge.
+
+- **[[Notes/Session 13|Session 13]]**:
+  - Participated in combat against the gnomish Warlock and his forces using javelin attacks.
+  - Demonstrated his practical combat abilities despite some missed attacks during the chaotic battle.
+  - Continued to show his straightforward, direct approach to conflict resolution.
+  - Maintained his role as a reliable front-line combatant for the party.
 - See: [[Notes/Session 10|Session 10]].
 
 ## Investigation Notes

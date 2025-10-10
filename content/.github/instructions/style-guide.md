@@ -142,6 +142,38 @@ This style guide ensures consistency across all notes, templates, and workflows 
 
 ---
 
+## Capitalisation Rules
+
+- **Proper Nouns:**
+  - Always capitalise proper nouns, including names, places, organisations, and titles.
+  - In D&D contexts, capitalise spells, magical items, creature types, and other game-specific terms when they function as proper nouns (e.g., "Eldritch Blast", "Web", "Healing Word").
+  - Capitalise character classes when referring to specific individuals (e.g., "the Wizard cast a spell" but "wizards are common").
+  - Capitalise deity names, plane names, and other cosmic entities.
+
+- **Titles:**
+  - Capitalise formal titles when used before names (e.g., "Archbishop Saevel").
+  - Do not capitalise titles when used generically (e.g., "the archbishop said").
+
+---
+
+## Narrative Voice and Immersion
+
+- **Journal Entries:**
+  - Write journal entries from the first-person perspective of the character (typically Lyra).
+  - Avoid breaking immersion with game mechanics terminology.
+  - Use narrative descriptions instead of mechanical terms:
+    - Instead of "critical hit," use "devastating strike," "perfectly aimed blow," or "strike that found its mark with terrible precision."
+    - Instead of "saving throw," use "managed to resist," "shook off the effect," or "proved resilient."
+    - Instead of "spell slots," use "magical energy," "remaining power," or "mystical reserves."
+  - Maintain character voice and perspective consistently throughout the entry.
+
+- **Third-Person References:**
+  - When writing from a character's perspective, avoid referring to that character in the third person.
+  - Instead of "Lyra cast Web," write "I cast Web" or "I wove magical strands."
+  - Other party members should be referred to by name or relationship (e.g., "Robin," "my companion").
+
+---
+
 ## Punctuation and Dashes
 
 - **Hyphens and Dashes:**
@@ -152,4 +184,4 @@ This style guide ensures consistency across all notes, templates, and workflows 
 
 - **Semicolons:**
   - Avoid using semicolons (;) where possible.
-  - Prefer splitting sentences or using commas
+  - Prefer splitting sentences or using commas instead.

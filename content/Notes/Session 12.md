@@ -2,7 +2,7 @@
 title: "Session 12 🔮 Mind Games and Missing Plans"
 tags: [adventurers-league, bureaucracy, mind-magic, session-notes]
 date created: Thursday, October 9th 2025, 10:30:00 am
-date modified: Thursday, October 9th 2025, 12:00:45 pm
+date modified: Friday, October 10th 2025, 8:54:43 am
 ---
 
 ## Journal Entry

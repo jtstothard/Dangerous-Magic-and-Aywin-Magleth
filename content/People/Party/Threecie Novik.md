@@ -4,7 +4,7 @@ pronouns: she/they
 title: Threecie Novik
 tags: []
 date created: Friday, July 4th 2025, 12:57:26 pm
-date modified: Thursday, October 9th 2025, 12:04:01 pm
+date modified: Friday, October 10th 2025, 8:56:49 am
 ---
 
 ![[Pasted image 20250704125835.webp]]
@@ -40,7 +40,11 @@ date modified: Thursday, October 9th 2025, 12:04:01 pm
   - Provided her mortuary as laboratory space for [[People/Party/Gralstak|Gralstak]]'s blood experiments.
   - Underwent invasive mental examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who placed her on an autopsy table while examining her heart.
   - The mind probe revealed both her connection to a mysterious order and the necrotic corruption she carries within herself.
-- See: [[Notes/Session 10|Session 10]].
+- **[[Notes/Session 13|Session 13]]**:
+  - Experienced strong, visceral violent urges toward a gnomish Warlock encountered on the road, with her hand actively suggesting violence.
+  - The Warlock seemed specifically drawn to and fixated on her during combat, casting Hex on her and targeting her with devastating Eldritch Blasts.
+  - Used Hex and Eldritch Blast effectively in combat but went unconscious twice during the intense fight.
+  - The Warlock's unexplained attraction to her suggests deeper magical connections that remain unexplored.
 
 ## Investigation Notes
 

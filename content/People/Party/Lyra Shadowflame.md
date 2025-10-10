@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lyra Shadowflame
 tags: []
 date created: Friday, July 4th 2025, 12:59:19 pm
-date modified: Thursday, October 9th 2025, 12:03:59 pm
+date modified: Friday, October 10th 2025, 8:55:57 am
 ---
 
 ## Basic Information
@@ -36,3 +36,8 @@ date modified: Thursday, October 9th 2025, 12:03:59 pm
   - Underwent mental examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who probed her psychological state and revealed her desire for freedom from parental restrictions and control.
   - The mind probe took place in a familiar yet wrong church setting, where she watched versions of herself deliver sermons while experiencing the weight of her parents' expectations and restrictions on her teachings.
   - Magleth noted her desire to break free from her parents' shadow and find her own path, confirming she had no rigid ties to the Pentaturres.
+- **[[Notes/Session 13|Session 13]]**:
+  - Conducted routine magical surveillance during travel, discovering persistent illusion magic affecting [[People/Party/Robin Thaleia|Robin]]'s face.
+  - Confronted Robin about the illusion, which he was genuinely unaware of, raising concerns about the extraordinary magical power required to maintain such a spell.
+  - Participated in combat against a hostile gnomish warlock, using web spell to control ogres and providing healing support with healing word.
+  - Met [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]], a reverse centaur serving as one of [[People/NPCs/Legendary/Aywin Magleth|Aywin]]'s teleportation points.

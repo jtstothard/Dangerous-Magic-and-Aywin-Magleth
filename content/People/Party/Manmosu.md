@@ -2,7 +2,7 @@
 tags: []
 title: Manmosu
 date created: Friday, July 4th 2025, 1:00:17 pm
-date modified: Thursday, October 9th 2025, 12:04:20 pm
+date modified: Friday, October 10th 2025, 8:56:30 am
 ---
 
 **Pronouns:** He/Him
@@ -46,5 +46,10 @@ date modified: Thursday, October 9th 2025, 12:04:20 pm
   - Provided blood samples for [[People/Party/Gralstak|Gralstak]]'s experiments, confirming his sorcerous abilities.
   - Shared a similar magical aura with [[Abel Milhaud|Abel]], though Abel's was significantly weakened by his ordeal.
   - Attempted to use Command on [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]] when demanding proof of identity.
-  - Underwent mental examination by Magleth, who placed him at a council table with his own conflicting emotions (anger, greed, and bravado) warring against each other.
-- See: [[Notes/Session 10|Session 10]].
+  - Underwent mental examination by Magelth, who placed him at a council table with his own conflicting emotions (anger, greed, and bravado) warring against each other.
+- **[[Notes/Session 13|Session 13]]**:
+  - Showed caution and wariness about working with [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], contrasting with [[People/Party/Robin Thaleia|Robin]]'s excitement.
+  - Engaged directly in melee combat against the gnomish Warlock and his forces.
+  - Successfully used Shield spell to defend against attacks during the chaotic battle.
+  - Delivered the killing blow to the Warlock using Thunderwave, which also caught one of the guards.
+  - Demonstrated effective hit-and-run tactics by attacking and then flying away to avoid retaliation.

@@ -4,7 +4,7 @@ pronouns: he/him
 title: Aywin Magleth
 tags: [elf, legendary, npc, powerful-magic, wizard]
 date created: Thursday, October 9th 2025, 10:40:00 am
-date modified: Thursday, October 9th 2025, 12:01:45 pm
+date modified: Friday, October 10th 2025, 8:57:16 am
 ---
 
 ## Basic Information
@@ -57,3 +57,7 @@ Magleth seeks allies who can act independently against the Pentaturres without b
   - Provided a potion of seeming and teleported them near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]] for their mission
   - Warned them about [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]] with the cryptic advice "don't stare"
   - Mentioned he could potentially turn [[People/Party/Lharamit Pirevin Rhyne|Lharamit]] from the [[Cathedral]] if needed
+- **[[Notes/Session 13|Session 13]]**:
+  - His teleportation network was revealed to include [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]]'s farmhouse as a hub near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]]
+  - The party successfully used his teleportation service and began their mission toward the bureaucratic capital
+  - His warning about Bear was explained when the party discovered Bear's reverse centaur appearance

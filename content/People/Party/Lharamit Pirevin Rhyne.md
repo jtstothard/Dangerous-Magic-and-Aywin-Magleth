@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lharamit Pirevin Rhyne
 tags: []
 date created: Friday, July 4th 2025, 12:59:37 pm
-date modified: Thursday, October 9th 2025, 12:04:06 pm
+date modified: Friday, October 10th 2025, 8:56:24 am
 ---
 
 ## Basic Information
@@ -40,7 +40,11 @@ date modified: Thursday, October 9th 2025, 12:04:06 pm
   - Consulted with a [[Cathedral]] deacon about alchemical matters related to the blood experiments.
   - Underwent invasive psychological examination by [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], who placed her in a library setting that exposed her doubts about her family and her complicated relationship with the Cathedral.
   - Magleth noted the potential for turning her away from the Cathedral, suggesting her conflicted loyalties.
-- See: [[Notes/Session 10|Session 10]].
+- **[[Notes/Session 13|Session 13]]**:
+  - Provided crucial magical analysis about [[People/Party/Robin Thaleia|Robin]]'s Illusion, explaining that such persistent magic without the subject's knowledge would require extraordinarily powerful spellcasting.
+  - Demonstrated tactical battlefield movement using "bunny hops" to avoid danger while maintaining offensive capabilities.
+  - Used Guiding Bolt consistently and effectively throughout the combat encounter, providing both damage and tactical advantage.
+  - Contributed to the defeat of both the Warlock and the Ogres through precise spellcasting and battlefield positioning.
 
 ## Investigation Notes
 
