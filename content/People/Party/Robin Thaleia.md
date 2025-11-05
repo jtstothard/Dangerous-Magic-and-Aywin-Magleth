@@ -44,6 +44,7 @@ date modified: Friday, October 10th 2025, 8:56:20 am
   - The Illusion requires extraordinarily powerful magic to maintain without the subject's knowledge, raising questions about who cast it and why.
   - Attempted diplomatic approach with a hostile gnomish Warlock but faced immediate aggression.
   - Demonstrated excitement about meeting [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]], contrasting with [[People/Party/Manmosu|Manmosu]]'s caution.
+- **[[Notes/Session 14|Session 14]]**: Engaged in party debates, transformed via Seeming, supported Threecie, clashed with Lyra over regional politics, and helped monitor Threecie during attunement.
 
 ## Investigation Notes
 

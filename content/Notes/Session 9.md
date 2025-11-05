@@ -2,7 +2,7 @@
 tags: []
 title: Session 9 🧩 The Lodestones of Osterford
 date created: Tuesday, September 9th 2025, 10:01:29 am
-date modified: Thursday, September 25th 2025, 10:41:31 am
+date modified: Thursday, October 23rd 2025, 3:48:10 pm
 ---
 
 ## Journal Entry

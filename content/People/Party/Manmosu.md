@@ -53,3 +53,8 @@ date modified: Friday, October 10th 2025, 8:56:30 am
   - Successfully used Shield spell to defend against attacks during the chaotic battle.
   - Delivered the killing blow to the Warlock using Thunderwave, which also caught one of the guards.
   - Demonstrated effective hit-and-run tactics by attacking and then flying away to avoid retaliation.
+- **[[Notes/Session 14|Session 14]]**:
+  - Provided blood for Gralstak's experiments.
+  - Sought independence from Magleth.
+  - Participated in Seeming and party games.
+  - Helped monitor Threecie during attunement.

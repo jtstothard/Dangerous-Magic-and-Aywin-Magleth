@@ -8,7 +8,7 @@ date modified: Thursday, October 9th 2025, 12:03:52 pm
 
 ## Overview
 
-The Central Bureaucracy is the main administrative body of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]], formerly the capital of [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]].
+The Central Bureaucracy is the main administrative body of [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index|Cirrubi|Cirrubi]], formerly the capital of [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]].
 
 ## Recent Developments
 

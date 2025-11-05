@@ -4,7 +4,7 @@ pronouns: she/they
 title: Threecie Novik
 tags: []
 date created: Friday, July 4th 2025, 12:57:26 pm
-date modified: Friday, October 10th 2025, 8:56:49 am
+date modified: Wednesday, November 5th 2025, 6:48:03 pm
 ---
 
 ![[Pasted image 20250704125835.webp]]
@@ -45,6 +45,11 @@ date modified: Friday, October 10th 2025, 8:56:49 am
   - The Warlock seemed specifically drawn to and fixated on her during combat, casting Hex on her and targeting her with devastating Eldritch Blasts.
   - Used Hex and Eldritch Blast effectively in combat but went unconscious twice during the intense fight.
   - The Warlock's unexplained attraction to her suggests deeper magical connections that remain unexplored.
+- **[[Notes/Session 14|Session 14]]**:
+  - Debated switching patrons after contacting Vicky.
+  - Attuned to a conjuration rock.
+  - Shared family history.
+  - Received support from party members.
 
 ## Investigation Notes
 

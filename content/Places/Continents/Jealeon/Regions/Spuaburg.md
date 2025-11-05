@@ -2,7 +2,7 @@
 tags: []
 title: Spuaburg
 date created: Tuesday, July 8th 2025, 3:03:08 pm
-date modified: Thursday, October 9th 2025, 6:54:41 pm
+date modified: Thursday, October 23rd 2025, 7:36:47 pm
 ---
 
 A region within the continent of [[Places/Continents/Jealeon/index|Jealeon]], known for its association with the Peace Domain and its recent conflict with neighbouring [[Loshium]].

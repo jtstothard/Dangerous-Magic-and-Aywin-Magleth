@@ -25,7 +25,7 @@ The others endured their own psychological excavations. [[People/Party/Robin Tha
 
 When we woke, Magleth seemed satisfied. He'd confirmed we had no rigid ties to the Pentaturres and could be useful allies. The missing plans, it turned out, were for [[Places/Continents/Jealeon/Regions/Aeremore/Buildings/Magleth Manor|Magleth Manor]] itself, though he claimed no responsibility for the theft or the use of our likenesses. He offered assistance with our various goals, noting that none of them conflicted with his interests. The comment about potentially turning [[People/Party/Lharamit Pirevin Rhyne|Lharamit]] from the [[Cathedral]] was particularly pointed.
 
-Now we find ourselves equipped with a potion of seeming and a mission to infiltrate [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]]. The warning about [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]] ("don't stare") feels ominous. Whatever awaits us in the bureaucratic heart of the former [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]] capital, I suspect it will test more than just our diplomatic skills.
+Now we find ourselves equipped with a potion of seeming and a mission to infiltrate [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index|Cirrubi]]. The warning about [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]] ("don't stare") feels ominous. Whatever awaits us in the bureaucratic heart of the former [[Places/Continents/Jealeon/Regions/Aswesh/index|Aswesh]] capital, I suspect it will test more than just our diplomatic skills.
 
 The threads of conspiracy grow ever more tangled, and I can't shake the feeling that we're being drawn deeper into something far larger than we realise.
 
@@ -38,7 +38,7 @@ The threads of conspiracy grow ever more tangled, and I can't shake the feeling 
 - **Blood Experiments**: [[People/Party/Gralstak|Gralstak]] conducted alchemical experiments on various blood samples, determining sorcerer blood functions as magical storage
 - **Mary Finsworth Contract**: The party accepted a contract to recover stolen architectural plans from the [[Organisations/Cirrubi Central Bureaucracy|Cirrubi Central Bureaucracy]]
 - **Meeting Aywin Magleth**: The mysterious wizard revealed himself, knocked the party unconscious, and probed their minds
-- **Mission to Cirrubi**: [[People/NPCs/Legendary/Aywin Magleth|Magleth]] teleported the party near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]] with a potion of seeming for disguise
+- **Mission to Cirrubi**: [[People/NPCs/Legendary/Aywin Magleth|Magleth]] teleported the party near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index|Cirrubi]] with a potion of seeming for disguise
 
 ---
 
@@ -48,7 +48,7 @@ The threads of conspiracy grow ever more tangled, and I can't shake the feeling 
 - **[[People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud|Abel Milhaud]]**: Provided crucial information about his ordeal - being forced to cast spells in illusory scenarios before having his blood drained
 - **[[People/NPCs/Aeremore/Adventurer's League/Missions/Jezebel Milhaud|Jezebel Milhaud]]**: Confirmed the successful completion of the rescue mission, allowing the party to become full members of the [[Organisations/Adventuring Parties/index|Adventurers' League]]
 - **[[People/NPCs/Aeremore/The Cobbles/Mary Finsworth|Mary Finsworth]]**: A halfling woman covered in illusion magic who served as a front for [[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]]
-- **[[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]]**: The legendary elven wizard revealed himself, conducted invasive mental examinations of each party member, and recruited them for a mission to [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]]
+- **[[People/NPCs/Legendary/Aywin Magleth|Aywin Magleth]]**: The legendary elven wizard revealed himself, conducted invasive mental examinations of each party member, and recruited them for a mission to [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index|Cirrubi]]
 
 ---
 
@@ -79,7 +79,7 @@ The threads of conspiracy grow ever more tangled, and I can't shake the feeling 
 - **Blood Analysis**: Sorcerer blood functions as magical storage, with [[People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud|Abel]]'s showing signs of decay from dark magic
 - **Detect Magic**: [[People/Party/Robin Thaleia|Robin]] identified extensive illusion magic on [[People/NPCs/Aeremore/The Cobbles/Mary Finsworth|Mary Finsworth]]
 - **Mind Probing**: [[People/NPCs/Legendary/Aywin Magleth|Magleth]] used powerful magic to explore each party member's psyche and motivations
-- **Potion of Seeming**: Provided by [[People/NPCs/Legendary/Aywin Magleth|Magleth]] for disguise during the [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]] mission
+- **Potion of Seeming**: Provided by [[People/NPCs/Legendary/Aywin Magleth|Magleth]] for disguise during the [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index|Cirrubi]] mission
 - **Membership Fee**: Each party member owes 50 gold to the [[Organisations/Adventuring Parties/index|Adventurers' League]] within a month
 
 ---

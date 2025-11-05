@@ -27,6 +27,7 @@ date modified: Friday, October 10th 2025, 8:56:24 am
 
 ## Recent Developments
 
+- [[Notes/Session 14|Session 14]]: Provided guidance and support during Threecie's attunement, participated in Seeming, and helped monitor party dynamics.
 - Investigated the [[Pashae Institute]] to locate [[Abel Milhaud]].
 - Reunited with [[Manmosu]], who was staying at a nearby hotel.
 - Used Locate Object to pinpoint [[Abel Milhaud|Abel]]'s location.

@@ -2,7 +2,7 @@
 tags: []
 title: Dangerous Magic and Aywin Magleth
 date created: Friday, July 4th 2025, 12:54:30 pm
-date modified: Thursday, October 9th 2025, 12:07:16 pm
+date modified: Friday, October 24th 2025, 7:58:25 am
 ---
 
 Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure chronicling the journeys of our intrepid party across the continent of [[Places/Continents/Jealeon/index|Jealeon]] and beyond.
@@ -21,6 +21,7 @@ Welcome to the **Dangerous Magic and Aywin Magleth** campaign - a D&D adventure 
 
 ### 📝 Session Notes
 
+- [[Notes/Session 14|🪨 Session 14: The Whisper Beyond the Rock]]
 - [[Notes/Session 13|🐴 Session 13: The Road to Cirrubi]]
 - [[Notes/Session 12|🔮 Session 12: Mind Games and Missing Plans]]
 - [[Notes/Session 11|🌀 Session 11: Fog, Blood, and Escape]]

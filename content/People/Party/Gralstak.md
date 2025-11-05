@@ -26,6 +26,7 @@ date modified: Thursday, October 9th 2025, 12:04:09 pm
 
 ## Recent Developments
 
+- [[Notes/Session 14|Session 14]]: Shared personal history, drank blood from Manmosu and Threecie, revealed revolutionary ambitions, participated in party games and sleepover.
 - Attempted to bluff his way into the [[Pashae Institute]] as a private investigator.
 - Participated in the battle against animated kitchenware during the rescue mission for [[Abel Milhaud]].
 - **[[Notes/Session 11|Session 11]]**:

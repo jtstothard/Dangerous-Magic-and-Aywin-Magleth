@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lyra Shadowflame
 tags: []
 date created: Friday, July 4th 2025, 12:59:19 pm
-date modified: Friday, October 10th 2025, 8:55:57 am
+date modified: Wednesday, November 5th 2025, 6:48:28 pm
 ---
 
 ## Basic Information
@@ -41,3 +41,4 @@ date modified: Friday, October 10th 2025, 8:55:57 am
   - Confronted Robin about the illusion, which he was genuinely unaware of, raising concerns about the extraordinary magical power required to maintain such a spell.
   - Participated in combat against a hostile gnomish warlock, using web spell to control ogres and providing healing support with healing word.
   - Met [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]], a reverse centaur serving as one of [[People/NPCs/Legendary/Aywin Magleth|Aywin]]'s teleportation points.
+- [[Notes/Session 14|Session 14]]: Supported Threecie during patron dilemma, clashed with Robin over regional politics, participated in Seeming and party games, reflected on party unity and tensions.

@@ -54,10 +54,10 @@ Magleth seeks allies who can act independently against the Pentaturres without b
   - Revealed himself to [[Organisations/Adventuring Parties/The Prime Suspects|The Prime Suspects]] through the [[People/NPCs/Aeremore/The Cobbles/Mary Finsworth|Mary Finsworth]] illusion
   - Conducted invasive mental examinations of each party member to assess their trustworthiness
   - Offered assistance with their personal goals in exchange for their services
-  - Provided a potion of seeming and teleported them near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]] for their mission
+  - Provided a potion of seeming and teleported them near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index|Cirrubi|Cirrubi]] for their mission
   - Warned them about [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]] with the cryptic advice "don't stare"
   - Mentioned he could potentially turn [[People/Party/Lharamit Pirevin Rhyne|Lharamit]] from the [[Cathedral]] if needed
 - **[[Notes/Session 13|Session 13]]**:
-  - His teleportation network was revealed to include [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]]'s farmhouse as a hub near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi|Cirrubi]]
+  - His teleportation network was revealed to include [[People/NPCs/Cirrubi/Bear Cloudstripe|Bear Cloudstripe]]'s farmhouse as a hub near [[Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index|Cirrubi|Cirrubi]]
   - The party successfully used his teleportation service and began their mission toward the bureaucratic capital
   - His warning about Bear was explained when the party discovered Bear's reverse centaur appearance
