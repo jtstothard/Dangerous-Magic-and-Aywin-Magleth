@@ -1,0 +1,87 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {}
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "expanded_view": false,
+    "results_limit": "20"
+  },
+  "excluded_headings": "",
+  "language": "en",
+  "new_user": true,
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {
+        "model_key": "undefined",
+        "models": {
+          "deepseek-r1:14b": {
+            "model_name": "deepseek-r1:14b",
+            "id": "deepseek-r1:14b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          },
+          "qwen3:14b": {
+            "model_name": "qwen3:14b",
+            "id": "qwen3:14b",
+            "multimodal": false,
+            "max_input_tokens": 40960,
+            "can_use_tools": true
+          },
+          "gemma3:12b": {
+            "model_name": "gemma3:12b",
+            "id": "gemma3:12b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          },
+          "nomic-embed-text:latest": {
+            "model_name": "nomic-embed-text:latest",
+            "id": "nomic-embed-text:latest",
+            "multimodal": false,
+            "max_input_tokens": 2048,
+            "can_use_tools": true
+          }
+        }
+      }
+    },
+    "active_thread_key": "Untitled Chat 1757410406343",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
+  },
+  "smart_notices": {
+    "muted": {
+      "done_import": true,
+      "new_version_available": true,
+      "embedding_complete": true,
+      "done_initial_scan": true,
+      "embedding_progress": true
+    }
+  },
+  "version": ""
+}
