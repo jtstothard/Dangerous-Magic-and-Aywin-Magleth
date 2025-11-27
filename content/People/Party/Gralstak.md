@@ -3,7 +3,7 @@ pronouns: he/him
 title: Gralstak
 tags: []
 date created: Friday, July 4th 2025, 12:59:57 pm
-date modified: Thursday, November 27th 2025, 4:12:59 pm
+date modified: Thursday, November 27th 2025, 4:38:19 pm
 ---
 
 ## Basic Information

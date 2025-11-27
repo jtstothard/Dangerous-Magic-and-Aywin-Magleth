@@ -2,7 +2,7 @@
 title: "Session 16 🏛️ Shadows and Schemes"
 tags: [cirrubi, deception, investigation, museum, session-notes, undead]
 date created: Thursday, November 20th 2025, 3:46:05 pm
-date modified: Thursday, November 27th 2025, 4:12:26 pm
+date modified: Thursday, November 27th 2025, 4:38:17 pm
 ---
 
 ## Journal Entry
