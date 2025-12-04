@@ -1,12 +1,12 @@
 ---
 tags: []
 date created: Friday, July 4th 2025, 11:54:30 am
-date modified: Thursday, December 4th 2025, 2:35:40 pm
+date modified: Thursday, December 4th 2025, 4:43:45 pm
 ---
 
 ## Dangerous Magic and Aywin Magleth
 
-> *"The world is stitched with secrets. Will you pull the thread?"*
+> _"The world is stitched with secrets. Will you pull the thread?"_
 
 ---
 
@@ -22,7 +22,7 @@ date modified: Thursday, December 4th 2025, 2:35:40 pm
 ### Latest Session
 
 - **🕵️‍♂️ [[Notes/Session 17|Session 17: Oops, We're Nicked]]**
-  - *The party is arrested, escapes Cirrubi under fire, and the investigation grows more dangerous…*
+  - _The party is arrested, escapes Cirrubi under fire, and the investigation grows more dangerous…_
 
 ---
 
@@ -47,7 +47,7 @@ date modified: Thursday, December 4th 2025, 2:35:40 pm
 - [[Places/]] (World Atlas & Maps)
 - [[Organisations/]] (Factions & Societies)
 - [[People/]] (NPCs & Deities)
-- [[Ongoing Mysteries]] (Plot Threads)
+- Ongoing Mysteries (Plot Threads)
 
 ---
 
@@ -74,4 +74,4 @@ A D&D campaign set in Jealeon, where magic is dangerous and secrets run deep. Th
 
 ---
 
-*Welcome, and may your investigations be fruitful!*
+_Welcome, and may your investigations be fruitful!_

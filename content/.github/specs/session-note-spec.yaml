@@ -1,0 +1,40 @@
+frontmatter:
+  required:
+    - aliases
+    - tags
+    - title
+    - date created
+    - date modified
+  formats:
+    date: DD/MM/YYYY
+    time: 24-hour
+    tags: lowercase-hyphen
+required_headings:
+  - Journal Entry
+  - Major Events
+  - Key NPC Interactions
+  - Character Actions & Developments
+  - Ongoing Mysteries & Leads
+  - Mechanical Details
+  - Navigation
+voice:
+  primary_character: "Lyra Shadowflame"
+  journal_style: "first-person, immersive, introspective"
+  forbidden_terms:
+    - "critical hit"
+    - "saving throw"
+    - "spell slot"
+    - "spell slots"
+    - "HP"
+    - "AC"
+placeholders:
+  - "Session X"
+  - "Page Name"
+  - "Example NPC"
+  - "Example PC"
+  - "Another NPC"
+  - "Notes/Session X"
+qa:
+  max_broken_wikilinks: 0
+  max_missing_frontmatter_fields: 0
+  max_forbidden_term_occurrences: 0

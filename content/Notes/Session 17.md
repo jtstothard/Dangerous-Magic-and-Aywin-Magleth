@@ -2,7 +2,7 @@
 title: "Session 17 🕵️‍♂️ Oops, We're Nicked"
 tags: [arrest, cirrubi, escape, investigation, session-notes]
 date created: Thursday, December 4th 2025, 2:24:25 pm
-date modified: Thursday, December 4th 2025, 2:40:20 pm
+date modified: Thursday, December 4th 2025, 4:42:04 pm
 ---
 
 ## Journal Entry
