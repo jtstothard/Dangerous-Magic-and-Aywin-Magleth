@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "a7ac518e6fb2ddf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e703260a2d4b9055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed70f17bf3e760c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Party/Threecie Novik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Threecie Novik"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f24abe4665470800",
+    "type": "split",
+    "children": [
+      {
+        "id": "4035da1809edb028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec53c107f7a7c18a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "108fb7c4eb823ac8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bde1d3c17372c594",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccaf58c8faf919f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b78880f24ff4ec53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a54aa32e423f5b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Session 14/Jay.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Jay"
+            }
+          },
+          {
+            "id": "586d478001f90346",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "75420d8e64a55413",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b2b3d8f7106f085",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "obsidian-livesync:Show Customization sync": false
+    }
+  },
+  "active": "ed70f17bf3e760c6",
+  "lastOpenFiles": [
+    "People/Party/Lyra Shadowflame/Dashboard.md",
+    "People/Party/Lyra Shadowflame",
+    "Notes/Session 9 - Lyra Brief.md",
+    "Notes/Session 8 - Lyra Brief.md",
+    "Notes/Session 7 - Lyra Brief.md",
+    "Notes/Session 6 - Lyra Brief.md",
+    "Notes/Session 5 - Lyra Brief.md",
+    "Notes/Session 4 - Lyra Brief.md",
+    "Notes/Session 3 - Lyra Brief.md",
+    "Notes/Session 2 - Lyra Brief.md",
+    "Notes/Session 17 - Lyra Brief.md",
+    "Notes/Session 16 - Lyra Brief.md",
+    "Notes/Session 15 - Lyra Brief.md",
+    "Notes/Session 14 - Lyra Brief.md",
+    "Notes/Session 13 - Lyra Brief.md",
+    "Notes/Session 12 - Lyra Brief.md",
+    "Notes/Session 11 - Lyra Brief.md",
+    "Notes/Session 10 - Lyra Brief.md",
+    "Notes/Session 1 - Lyra Brief.md",
+    "Notes/Session 0 - Lyra Brief.md",
+    "Notes/Session 0.5 - Lyra Brief.md",
+    "Organisations/Adventuring Parties/The Prime Suspects.md",
+    "Organisations/Adventuring Parties/index.md",
+    "Organisations/Adventuring Parties/Smoke and Ropes.md",
+    "Organisations 2/Pashae Institute.md",
+    "Organisations 2/Lorstan Olaphina Foundation for Arcane Learning.md",
+    "Organisations 2/Cirrubi Central Bureaucracy.md",
+    "Organisations/Adventuring Parties",
+    "Organisations 2",
+    "Notes/Session 17",
+    "Notes/Session 16",
+    "Notes/Session 15",
+    "Notes/Session 14",
+    "Notes/Session 13",
+    "Places/Buildings/Legendary",
+    "Places/Buildings",
+    "Images/Pasted image 20250708155045.png",
+    "Images/Pasted image 20250704130658.png",
+    "Images/Pasted image 20250704125835.png"
+  ]
+}
