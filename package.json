@@ -25,6 +25,7 @@
     "lint-staged": {
       "*.md": [
         "npm run format",
+        "node scripts/lint-frontmatter.mjs",
         "npm run lint:wikilinks"
       ],
       "*.{js,mjs,ts}": [
