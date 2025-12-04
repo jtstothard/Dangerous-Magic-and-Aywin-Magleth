@@ -12,8 +12,12 @@ function findMarkdownFiles(dir) {
   let files = []
   for (const e of entries) {
     const full = path.join(dir, e.name)
-    // ignore trash/archive directories
-    if (e.isDirectory() && e.name === ".trash") continue
+    // ignore dot-directories, trash/archive, .smart-env, and numbered-suffix backup folders
+    if (
+      e.isDirectory() &&
+      (e.name.startsWith(".") || e.name === ".smart-env" || /\s+\d+$/.test(e.name))
+    )
+      continue
     if (e.isDirectory()) files = files.concat(findMarkdownFiles(full))
     else if (e.isFile() && e.name.endsWith(".md")) files.push(full)
   }
@@ -26,7 +30,12 @@ function findImageFiles(dir) {
   let files = []
   for (const e of entries) {
     const full = path.join(dir, e.name)
-    if (e.isDirectory() && e.name === ".trash") continue
+    // ignore dot-directories, trash/archive, .smart-env, and numbered-suffix backup folders
+    if (
+      e.isDirectory() &&
+      (e.name.startsWith(".") || e.name === ".smart-env" || /\s+\d+$/.test(e.name))
+    )
+      continue
     if (e.isDirectory()) files = files.concat(findImageFiles(full))
     else if (e.isFile() && ext.has(path.extname(e.name).toLowerCase())) files.push(full)
   }

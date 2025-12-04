@@ -1,8 +1,5 @@
 {
   "map": {
-    "default-misspellings": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/.obsidian/plugins/obsidian-linter/default-misspellings.md",
-    ".obsidian/plugins/obsidian-linter/default-misspellings": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/.obsidian/plugins/obsidian-linter/default-misspellings.md",
-    "obsidian/plugins/obsidian-linter/default-misspellings": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/.obsidian/plugins/obsidian-linter/default-misspellings.md",
     "Session 0.5 📦 Prologue": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Notes/Session 0.5.md",
     "session 05 📦 prologue": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Notes/Session 0.5.md",
     "Session 0.5": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Notes/Session 0.5.md",
@@ -681,21 +678,6 @@
     "images/pasted image 20250708155045webp": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Images/Pasted image 20250708155045.webp"
   },
   "entries": [
-    {
-      "file": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/.obsidian/plugins/obsidian-linter/default-misspellings.md",
-      "title": "default-misspellings",
-      "normTitle": "default-misspellings"
-    },
-    {
-      "file": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/.obsidian/plugins/obsidian-linter/default-misspellings.md",
-      "title": "default-misspellings",
-      "normTitle": "default-misspellings"
-    },
-    {
-      "file": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/.obsidian/plugins/obsidian-linter/default-misspellings.md",
-      "title": ".obsidian/plugins/obsidian-linter/default-misspellings",
-      "normTitle": "obsidian/plugins/obsidian-linter/default-misspellings"
-    },
     {
       "file": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Notes/Session 0.5.md",
       "title": "Session 0.5 📦 Prologue",
@@ -2985,6 +2967,110 @@
       "file": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Images/Pasted image 20250708155045.webp",
       "title": "Images/Pasted image 20250708155045.webp",
       "normTitle": "images/pasted image 20250708155045webp"
+    }
+  ],
+  "warnings": [
+    {
+      "key": "Pashae Institute",
+      "norm": "pashae institute",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Pashae Institute.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/Buildings/Pashae Institute.md"
+    },
+    {
+      "key": "Pashae Institute",
+      "norm": "pashae institute",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Pashae Institute.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/Buildings/Pashae Institute.md"
+    },
+    {
+      "key": "Institute",
+      "norm": "institute",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Pashae Institute.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/Buildings/Pashae Institute.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/The Cobbles/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/The Pentattures/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/index.md"
+    },
+    {
+      "key": "Cirrubi",
+      "norm": "cirrubi",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index.md"
+    },
+    {
+      "key": "Cirrubi",
+      "norm": "cirrubi",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Druzodd/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Penketh/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/Regions/Aswesh/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Places/Continents/Jealeon/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/index.md"
+    },
+    {
+      "key": "index",
+      "norm": "index",
+      "existing": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/Organisations/Adventuring Parties/index.md",
+      "duplicate": "/Users/jay/Documents/Dangerous-Magic-and-Aywin-Magleth/content/index.md"
     }
   ]
 }
