@@ -3,7 +3,7 @@ aliases: [Aeremore]
 tags: [aeremore, city, region]
 title: Aeremore
 date created: Tuesday, July 8th 2025, 3:43:24 pm
-date modified: Thursday, September 11th 2025, 6:07:38 pm
+date modified: Thursday, December 4th 2025, 2:40:50 pm
 ---
 
 ## Summary

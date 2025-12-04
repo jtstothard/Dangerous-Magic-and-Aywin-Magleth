@@ -4,7 +4,7 @@ pronouns: she/they
 title: Threecie Novik
 tags: []
 date created: Friday, July 4th 2025, 12:57:26 pm
-date modified: Thursday, November 27th 2025, 4:12:57 pm
+date modified: Thursday, December 4th 2025, 2:41:15 pm
 ---
 
 ![[Pasted image 20250704125835.webp]]
@@ -56,6 +56,13 @@ date modified: Thursday, November 27th 2025, 4:12:57 pm
   - Was carried around by a giant zombie during the archive battle, then destroyed it with magic.
   - Concealed the sigil page from the stolen plans within [[People/Party/Pets/Thanatos|Thanatos]] for safekeeping.
   - Assisted the party in escaping suspicion and regrouping at the [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Mellow Lodge Diner|Mellow Lodge Diner]].
+- **[[Notes/Session 17|Session 17]]**:
+  - Arrested and detained at the police station in [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index|Cirrubi]], gave a fake name ("Triple A" from Oreon).
+  - Telepathically instructed [[People/Party/Pets/Thanatos|Thanatos]] to deliver the stolen sigil page to [[People/Party/Robin Thaleia|Robin Thaleia]] and [[People/Party/Manmosu|Manmosu]].
+  - Used invisibility to escape while guards thought she was unconscious.
+  - Orchestrated the party's escape from the conference room.
+  - See: [[Notes/Session 17|Session 17]]
+  - Related: [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Gralstak|Gralstak]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Manmosu|Manmosu]], [[People/Party/Pets/Thanatos|Thanatos]]
 
 ## Investigation Notes
 

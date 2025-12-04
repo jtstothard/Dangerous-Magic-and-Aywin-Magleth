@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lharamit Pirevin Rhyne
 tags: []
 date created: Friday, July 4th 2025, 12:59:37 pm
-date modified: Thursday, November 27th 2025, 4:13:02 pm
+date modified: Thursday, December 4th 2025, 2:41:20 pm
 ---
 
 ## Basic Information
@@ -44,6 +44,12 @@ date modified: Thursday, November 27th 2025, 4:13:02 pm
 - **[[Notes/Session 14|Session 14]]**: Provided guidance and support during Threecie's attunement, participated in Seeming, and helped monitor party dynamics.
 - **[[Notes/Session 15|Session 15]]**: Infiltrated the Cirrubi Central Bureaucracy, discovered a magically doctored report about her family, found an old soul-sucking case from Penketh, and a lead on blood magic in Druzodd. Added the report to her personal investigation.
 - **[[Notes/Session 16|Session 16]]**: Used channel divinity to turn undead in the archives, debated taking the plans, and visited the police office with [[People/Party/Lyra Shadowflame|Lyra]] and [[People/Party/Threecie Novik|Threecie]], where the party's deception was discovered.
+- **[[Notes/Session 17|Session 17]]**:
+  - Arrested and detained at the police station in [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index|Cirrubi]], gave a fake name.
+  - Cast Silence on the conference room door to aid in the party's escape.
+  - Escaped first, bouncing away and hiding at an inn until the Seeming spell ended.
+  - See: [[Notes/Session 17|Session 17]]
+  - Related: [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Gralstak|Gralstak]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Manmosu|Manmosu]], [[People/Party/Pets/Thanatos|Thanatos]]
 
 ## Investigation Notes
 

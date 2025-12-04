@@ -1,7 +1,7 @@
 ---
 tags: []
 date created: Friday, July 4th 2025, 11:54:30 am
-date modified: Thursday, November 27th 2025, 4:39:08 pm
+date modified: Thursday, December 4th 2025, 2:35:40 pm
 ---
 
 ## Dangerous Magic and Aywin Magleth
@@ -21,8 +21,8 @@ date modified: Thursday, November 27th 2025, 4:39:08 pm
 
 ### Latest Session
 
-- **🏛️  [[Notes/Session 16|Session 16: Shadows and Schemes]]**
-  - *The party faces undead in the archives, escapes suspicion, and the city grows tense…*
+- **🕵️‍♂️ [[Notes/Session 17|Session 17: Oops, We're Nicked]]**
+  - *The party is arrested, escapes Cirrubi under fire, and the investigation grows more dangerous…*
 
 ---
 
@@ -34,6 +34,7 @@ date modified: Thursday, November 27th 2025, 4:39:08 pm
 
 ### Recent Sessions
 
+- 🕵️‍♂️ [[Notes/Session 17|Session 17: Oops, We're Nicked]]
 - 🏛️ [[Notes/Session 16|Session 16: Shadows and Schemes]]
 - 🗃️ [[Notes/Session 15|Session 15: Shadows in the Stacks]]
 - 🪨 [[Notes/Session 14|Session 14: The Whisper Beyond the Rock]]

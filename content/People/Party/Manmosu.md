@@ -2,7 +2,7 @@
 tags: []
 title: Manmosu
 date created: Friday, July 4th 2025, 1:00:17 pm
-date modified: Thursday, November 27th 2025, 4:13:03 pm
+date modified: Thursday, December 4th 2025, 2:41:40 pm
 ---
 
 **Pronouns:** He/Him
@@ -63,3 +63,9 @@ date modified: Thursday, November 27th 2025, 4:13:03 pm
 - **[[Notes/Session 16|Session 16]]**:
   - Tore out the sigil page from the archive plans, debated taking the plans, and supported [[People/Party/Robin Thaleia|Robin]]'s deception to escape suspicion.
   - Joined [[People/Party/Robin Thaleia|Robin]] in investigating the [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Worthless Skunk Pub|Worthless Skunk pub]] and regrouped at the [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Mellow Lodge Diner|Mellow Lodge Diner]].
+- **[[Notes/Session 17|Session 17]]**:
+  - Escaped [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index|Cirrubi]] with [[People/Party/Robin Thaleia|Robin Thaleia]] during the commotion at the city gates.
+  - Received the stolen sigil page from [[People/Party/Pets/Thanatos|Thanatos]] for investigation outside the city.
+  - Provided banter and support during the party's planning and escape.
+  - See: [[Notes/Session 17|Session 17]]
+  - Related: [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Gralstak|Gralstak]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Pets/Thanatos|Thanatos]]

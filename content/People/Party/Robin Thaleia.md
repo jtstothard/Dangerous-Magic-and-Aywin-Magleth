@@ -4,7 +4,7 @@ pronouns: he/him
 title: Robin Thaleia
 tags: []
 date created: Friday, July 4th 2025, 1:00:49 pm
-date modified: Thursday, November 27th 2025, 4:13:11 pm
+date modified: Thursday, December 4th 2025, 2:41:34 pm
 ---
 
 ## Basic Information
@@ -47,6 +47,12 @@ date modified: Thursday, November 27th 2025, 4:13:11 pm
 - **[[Notes/Session 14|Session 14]]**: Engaged in party debates, transformed via Seeming, supported Threecie, clashed with Lyra over regional politics, and helped monitor Threecie during attunement.
 - **[[Notes/Session 15|Session 15]]**: Forged documents and charmed the Cirrubi Central Bureaucracy staff, leading the party's infiltration. Tensions with Lyra remain, but she attempts to bridge the gap.
 - **[[Notes/Session 16|Session 16]]**: Lied to guards to cover the party's actions, performed a song of rest at the [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Mellow Lodge Diner|Mellow Lodge Diner]], and investigated the [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Worthless Skunk Pub|Worthless Skunk pub]] with [[People/Party/Manmosu|Manmosu]].
+- **[[Notes/Session 17|Session 17]]**:
+  - Escaped [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index|Cirrubi]] during the commotion at the city gates.
+  - Received the stolen sigil page from [[People/Party/Pets/Thanatos|Thanatos]] for investigation outside the city.
+  - Supported [[People/Party/Manmosu|Manmosu]] during the escape.
+  - See: [[Notes/Session 17|Session 17]]
+  - Related: [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Gralstak|Gralstak]], [[People/Party/Manmosu|Manmosu]], [[People/Party/Pets/Thanatos|Thanatos]]
 
 ## Investigation Notes
 

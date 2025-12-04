@@ -14,3 +14,10 @@ Thanatos is the raven-like familiar of [[People/Party/Threecie Novik|Threecie No
 - Head opens to speak
 - Gold chain on [[Threecie Novik|Threecie]]'s arm, trailing off to nothing
 - Red spiral marking on Thanatos's leg
+
+## Session 17 Developments
+
+- Telepathically instructed by [[People/Party/Threecie Novik|Threecie Novik]] to deliver the stolen sigil page to [[People/Party/Robin Thaleia|Robin Thaleia]] and [[People/Party/Manmosu|Manmosu]] during the party's escape from [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index|Cirrubi]].
+- Played a key role in facilitating the party's investigation outside the city.
+- See: [[Notes/Session 17|Session 17]]
+- Related: [[People/Party/Lyra Shadowflame|Lyra Shadowflame]], [[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Gralstak|Gralstak]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Manmosu|Manmosu]]

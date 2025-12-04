@@ -4,7 +4,7 @@ pronouns: she/her
 title: Lyra Shadowflame
 tags: []
 date created: Friday, July 4th 2025, 12:59:19 pm
-date modified: Thursday, November 27th 2025, 4:13:06 pm
+date modified: Thursday, December 4th 2025, 2:40:59 pm
 ---
 
 ## Basic Information
@@ -22,7 +22,7 @@ date modified: Thursday, November 27th 2025, 4:13:06 pm
 ## Background
 
 - **Origins:** From a family that follows the Peace Domain, worships [[Rainia, the Winged Harmoniser]]
-- **Goals:** Study magic at a formal institution in [[Places/Continents/Jealeon/Regions/Aeremore]], solve mysteries, support the party
+- **Goals:** Study magic at a formal institution in [[Places/Continents/Jealeon/Regions/Aeremore/index|Aeremore]], solve mysteries, support the party
 - **Connections to other characters:** Travels with [[Gralstak]], interacts with all party members
 
 ## Recent Developments
@@ -44,3 +44,9 @@ date modified: Thursday, November 27th 2025, 4:13:06 pm
 - **[[Notes/Session 14|Session 14]]**: Supported Threecie during patron dilemma, clashed with Robin over regional politics, participated in Seeming and party games, reflected on party unity and tensions.
 - **[[Notes/Session 15|Session 15]]**: Created an Emboldening Bond on Robin as a peace offering, investigated the Cirrubi Central Bureaucracy archives, and triggered a magical glyph that summoned undead. Reflected on party tensions and attempted to restore unity.
 - **[[Notes/Session 16|Session 16]]**: Hid in a rope trick to avoid the giant zombie, assisted in archive investigation, debated taking the plans, and supported the party during the escape and regroup at the [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Mellow Lodge Diner|Mellow Lodge Diner]].
+- **[[Notes/Session 17|Session 17]]**:
+  - Arrested and detained at the police station in [[Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/index|Cirrubi]], gave [[People/Party/Gralstak|Gralstak]]'s name as an alias.
+  - Used illusion magic and flight to escape, dodging a hail of crossbow bolts from city guards.
+  - Supported [[People/Party/Threecie Novik|Threecie Novik]] and [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]] during the escape.
+  - See: [[Notes/Session 17|Session 17]]
+  - Related: [[People/Party/Gralstak|Gralstak]], [[People/Party/Threecie Novik|Threecie Novik]], [[People/Party/Lharamit Pirevin Rhyne|Lharamit Pirevin Rhyne]], [[People/Party/Robin Thaleia|Robin Thaleia]], [[People/Party/Manmosu|Manmosu]], [[People/Party/Pets/Thanatos|Thanatos]]
