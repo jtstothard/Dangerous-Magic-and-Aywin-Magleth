@@ -72,6 +72,12 @@ if (!fs.existsSync(contentDir)) {
 const files = findMarkdownFiles(contentDir)
 const map = {}
 const entries = []
+const warnings = []
+
+function recordEntry(file, title, normTitle) {
+  entries.push({ file, title, normTitle })
+}
+
 for (const f of files) {
   const txt = fs.readFileSync(f, "utf8")
   const fm = parseFrontmatter(txt)
@@ -84,10 +90,15 @@ for (const f of files) {
     if (!key) return
     const k = String(key)
     const nk = normalizeKey(k)
-    // only set if not already present to prefer first-discovered path
-    map[k] = map[k] || f
-    map[nk] = map[nk] || f
-    entries.push({ file: f, title: entryTitle || k, normTitle: nk })
+    // detect collisions on normalized key
+    if (map[nk] && map[nk] !== f) {
+      warnings.push({ key: k, norm: nk, existing: map[nk], duplicate: f })
+      // keep existing mapping but still record the entry for auditing
+    } else {
+      map[k] = map[k] || f
+      map[nk] = map[nk] || f
+    }
+    recordEntry(f, entryTitle || k, nk)
   }
 
   addKey(title, title)
@@ -114,9 +125,13 @@ for (const img of imageFiles) {
     if (!key) return
     const k = String(key)
     const nk = normalizeKey(k)
-    map[k] = map[k] || img
-    map[nk] = map[nk] || img
-    entries.push({ file: img, title: key, normTitle: nk })
+    if (map[nk] && map[nk] !== img) {
+      warnings.push({ key: k, norm: nk, existing: map[nk], duplicate: img })
+    } else {
+      map[k] = map[k] || img
+      map[nk] = map[nk] || img
+    }
+    recordEntry(img, key, nk)
   }
 
   addImageKey(basename)
@@ -128,5 +143,12 @@ for (const img of imageFiles) {
 
 const outFile = path.join("out", "alias-map.json")
 if (!fs.existsSync("out")) fs.mkdirSync("out")
-fs.writeFileSync(outFile, JSON.stringify({ map, entries }, null, 2))
+fs.writeFileSync(outFile, JSON.stringify({ map, entries, warnings }, null, 2))
 console.log("Wrote alias map to", outFile)
+if (warnings.length) {
+  console.warn(
+    "Warnings:",
+    warnings.length,
+    "alias collisions detected. See out/alias-map.json#warnings for details.",
+  )
+}
