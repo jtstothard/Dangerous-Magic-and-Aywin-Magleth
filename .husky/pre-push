@@ -1,4 +1,5 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-npm run lint:wikilinks || (echo 'Wikilink validation failed' && false)
+# Run an incremental wikilink validation for changed files only to keep pre-push fast
+node scripts/validate-changed-wikilinks.mjs || (echo 'Wikilink validation failed for changed files' && false)

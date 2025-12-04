@@ -20,7 +20,17 @@
     "lint:md": "npx remark . --use remark-preset-lint-recommended",
     "lint:wikilinks": "node scripts/build-wikilink-alias-map.mjs && node scripts/remark-ast-wikilink-validate.js",
     "lint:prose": "npx alex content/ || true",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "prepare": "husky install",
+    "lint-staged": {
+      "*.md": [
+        "npm run format",
+        "npm run lint:wikilinks"
+      ],
+      "*.{js,mjs,ts}": [
+        "npm run format"
+      ]
+    }
   },
   "engines": {
     "npm": ">=10.9.2",
