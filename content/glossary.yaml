@@ -1,0 +1,509 @@
+- name: Cirrubi Central Bureaucracy
+  path: content/Organisations/Cirrubi Central Bureaucracy.md
+  aliases:
+  - Bureaucracy
+  - Central Bureaucracy
+  - Cirrubi
+  type: organisation
+- name: Lorstan Olaphina Foundation for Arcane Learning
+  path: content/Organisations/Lorstan Olaphina Foundation for Arcane Learning.md
+  aliases:
+  - LOFFAL
+  - Learning
+  - Lorstan
+  type: organisation
+- name: Pashae Institute
+  path: content/Organisations/Pashae Institute.md
+  aliases:
+  - Institute
+  - Pashae
+  type: organisation
+- name: Smoke and Ropes
+  path: content/Organisations/Adventuring Parties/Smoke and Ropes.md
+  aliases:
+  - Ropes
+  - Smoke
+  type: organisation
+- name: The Prime Suspects
+  path: content/Organisations/Adventuring Parties/The Prime Suspects.md
+  aliases:
+  - Suspects
+  - The
+  type: organisation
+- name: Abel Milhaud
+  path: content/People/NPCs/Aeremore/Adventurer's League/Missions/Abel Milhaud.md
+  aliases:
+  - Abel
+  - Milhaud
+  type: person
+- name: Albert Rathbone
+  path: content/People/NPCs/Albert Rathbone.md
+  aliases:
+  - Albert
+  - King Albert Rathbone
+  - Rathbone
+  type: person
+- name: Allabyra Crisella
+  path: content/People/NPCs/Aeremore/Cathedral/Allabyra Crisella.md
+  aliases:
+  - Allabyra
+  - Crisella
+  type: person
+- name: Amara Tallbloom
+  path: content/People/NPCs/Cerbereburn/Amara Tallbloom.md
+  aliases:
+  - Amara
+  - Tallbloom
+  type: person
+- name: Archbishop Saevel Hersatra
+  path: content/People/NPCs/Aeremore/Cathedral/Archbishop Saevel Hersatra.md
+  aliases:
+  - Archbishop
+  - Archbishop Hersatra
+  - Hersatra
+  - Saevel
+  type: person
+- name: Aywin Magleth
+  path: content/People/NPCs/Legendary/Aywin Magleth.md
+  aliases:
+  - Aerwen Magleth
+  - Aowen Magleth
+  - Aywin
+  - Magleth
+  type: person
+- name: Bear Cloudstripe
+  path: content/People/NPCs/Cirrubi/Bear Cloudstripe.md
+  aliases:
+  - Bear
+  - Cloudstripe
+  type: person
+- name: Bertrum Greyson
+  path: content/People/NPCs/Cerbereburn/Bertrum Greyson.md
+  aliases:
+  - Bertrum
+  - Greyson
+  type: person
+- name: Clerk Cloudy Vogelveid
+  path: content/People/NPCs/Aeremore/Organisations/Pashae Institute/Clerk Cloudy Vogelveid.md
+  aliases:
+  - Clerk
+  - Cloudy
+  - Vogelveid
+  type: person
+- name: Cococa
+  path: content/People/Party/Pets/Cococa.md
+  aliases: null
+  type: person
+- name: Danlas Ligroves
+  path: content/People/NPCs/Cerbereburn/Danlas Ligroves.md
+  aliases:
+  - Danlas
+  - Ligroves
+  type: person
+- name: Deacon Cain
+  path: content/People/NPCs/Aeremore/Cathedral/Deacon Cain.md
+  aliases:
+  - Cain
+  - Deacon
+  type: person
+- name: Deacon Cathetos
+  path: content/People/NPCs/Aeremore/Cathedral/Deacon Cathetos.md
+  aliases:
+  - Cathetos
+  - Deacon
+  type: person
+- name: Dhunta Rannacit
+  path: content/People/NPCs/Cerbereburn/Dhunta Rannacit.md
+  aliases:
+  - Dhunta
+  - Rannacit
+  type: person
+- name: Erhand Pashae
+  path: content/People/NPCs/Aeremore/Organisations/Pashae Institute/Erhand Pashae.md
+  aliases:
+  - Erhand
+  - Pashae
+  type: person
+- name: Foxtrot Fowler
+  path: content/People/NPCs/Cerbereburn/Foxtrot Fowler.md
+  aliases:
+  - Fowler
+  - Foxtrot
+  type: person
+- name: Gralstak
+  path: content/People/Party/Gralstak.md
+  aliases: null
+  type: person
+- name: Harkins
+  path: content/People/NPCs/Harkins.md
+  aliases:
+  - King Harkins
+  type: person
+- name: Hooty
+  path: content/People/Party/Pets/Hooty.md
+  aliases: null
+  type: person
+- name: Hosius, The Thread Master
+  path: content/People/Deities/Hosius, The Thread Master.md
+  aliases:
+  - Hosius,
+  - Master
+  type: person
+- name: Iramoore
+  path: content/People/NPCs/Aeremore/Cathedral/Iramoore.md
+  aliases:
+  - Iramoore
+  type: person
+- name: Jafrak Keggranite
+  path: content/People/NPCs/Cerbereburn/Jafrak Keggranite.md
+  aliases:
+  - Jafrak
+  - Keggranite
+  type: person
+- name: Javu Rannacit
+  path: content/People/NPCs/Cerbereburn/Javu Rannacit.md
+  aliases:
+  - Javu
+  - Rannacit
+  type: person
+- name: Jezebel Milhaud
+  path: content/People/NPCs/Aeremore/Adventurer's League/Missions/Jezebel Milhaud.md
+  aliases:
+  - Jezebel
+  - Milhaud
+  type: person
+- name: Knig Neg
+  path: content/People/NPCs/Aeremore/Shops/Knig Neg.md
+  aliases:
+  - Knig
+  - Neg
+  type: person
+- name: Leana Olephena
+  path: content/People/NPCs/Aeremore/Leana Olephena.md
+  aliases:
+  - Director Olephena
+  - Leana
+  - Olephena
+  type: person
+- name: Lharamit Pirevin Rhyne
+  path: content/People/Party/Lharamit Pirevin Rhyne.md
+  aliases:
+  - Lharamit
+  - Rhyne
+  type: person
+- name: Ligroves Household
+  path: content/People/NPCs/Cerbereburn/Ligroves Household.md
+  aliases:
+  - Household
+  - Ligroves
+  - Ligroves Household
+  type: person
+- name: Lyra Shadowflame
+  path: content/People/Party/Lyra Shadowflame.md
+  aliases:
+  - Lyra
+  - Shadowflame
+  type: person
+- name: Maccario Bulen
+  path: content/People/NPCs/Aeremore/Adventurer's League/Maccario Bulen.md
+  aliases:
+  - Bulen
+  - Maccario
+  type: person
+- name: Mallone Ulaxidor
+  path: content/People/NPCs/Cerbereburn/Mallone Ulaxidor.md
+  aliases:
+  - Mallone
+  - Ulaxidor
+  type: person
+- name: Manmosu
+  path: content/People/Party/Manmosu.md
+  aliases: null
+  type: person
+- name: Marius Ligroves
+  path: content/People/NPCs/Cerbereburn/Marius Ligroves.md
+  aliases:
+  - Ligroves
+  - Marius
+  type: person
+- name: Mary Finsworth
+  path: content/People/NPCs/Aeremore/The Cobbles/Mary Finsworth.md
+  aliases:
+  - Finsworth
+  - Mary
+  type: person
+- name: Methuselah Milhaud
+  path: content/People/NPCs/Aeremore/Adventurer's League/Missions/Methuselah Milhaud.md
+  aliases:
+  - Methuselah
+  - Milhaud
+  type: person
+- name: Mrs Cluckerson
+  path: content/People/NPCs/Cerbereburn/Mrs Cluckerson.md
+  aliases:
+  - Cluckerson
+  - Mrs
+  type: person
+- name: Narchis Cloudbrow
+  path: content/People/NPCs/Cerbereburn/Narchis Cloudbrow.md
+  aliases:
+  - Cloudbrow
+  - Narchis
+  type: person
+- name: Rainia, the Winged Harmoniser
+  path: content/People/Deities/Rainia, the Winged Harmoniser.md
+  aliases:
+  - Harmoniser
+  - Rainia
+  - Rainia,
+  type: person
+- name: Ramman Onyxguard
+  path: content/People/NPCs/Cerbereburn/Ramman Onyxguard.md
+  aliases:
+  - Onyxguard
+  - Ramman
+  type: person
+- name: Risgara Geraves
+  path: content/People/NPCs/Cerbereburn/Risgara Geraves.md
+  aliases:
+  - Geraves
+  - Risgara
+  type: person
+- name: Risgex Cloudbrow
+  path: content/People/NPCs/Cerbereburn/Risgex Cloudbrow.md
+  aliases:
+  - Cloudbrow
+  - Risgex
+  type: person
+- name: Robin Thaleia
+  path: content/People/Party/Robin Thaleia.md
+  aliases:
+  - Robin
+  - Thaleia
+  type: person
+- name: Saria Tallbloom
+  path: content/People/NPCs/Cerbereburn/Saria Tallbloom.md
+  aliases:
+  - Saria
+  - Tallbloom
+  type: person
+- name: Shallandra, The wizened woman
+  path: content/People/Deities/Shallandra, The wizened woman.md
+  aliases:
+  - Shallandra
+  - Shallandra,
+  - woman
+  type: person
+- name: Shayee Cloudbrow
+  path: content/People/NPCs/Cerbereburn/Shayee Cloudbrow.md
+  aliases:
+  - Cloudbrow
+  - Shayee
+  type: person
+- name: Snadneg
+  path: content/People/NPCs/Cirrubi/Snadneg.md
+  aliases: null
+  type: person
+- name: Snadwe Wemdiem
+  path: content/People/NPCs/Cerbereburn/Snadwe Wemdiem.md
+  aliases:
+  - Snadwe
+  - Wemdiem
+  type: person
+- name: Strondabella Keggranite
+  path: content/People/NPCs/Cerbereburn/Strondabella Keggranite.md
+  aliases:
+  - Keggranite
+  - Strondabella
+  type: person
+- name: Syndra Tallbloom
+  path: content/People/NPCs/Cerbereburn/Syndra Tallbloom.md
+  aliases:
+  - Syndra
+  - Tallbloom
+  type: person
+- name: Tango Fowler
+  path: content/People/NPCs/Cerbereburn/Tango Fowler.md
+  aliases:
+  - Fowler
+  - Tango
+  type: person
+- name: Terry
+  path: content/People/NPCs/Cerbereburn/Terry.md
+  aliases:
+  - Terry
+  type: person
+- name: Thanatos
+  path: content/People/Party/Pets/Thanatos.md
+  aliases: null
+  type: person
+- name: Threecie Novik
+  path: content/People/Party/Threecie Novik.md
+  aliases:
+  - Novik
+  - Threecie
+  type: person
+- name: Vicky
+  path: content/People/NPCs/Patrons/Vicky.md
+  aliases:
+  - The Whisper Beyond
+  type: person
+- name: Zurasus
+  path: content/People/Deities/Zurasus.md
+  aliases: null
+  type: person
+- name: Zymis Wenben
+  path: content/People/NPCs/Cerbereburn/Zymis Wenben.md
+  aliases:
+  - Wenben
+  - Zymis
+  type: person
+- name: Aswen
+  path: content/Places/Continents/Jealeon/Regions/Aswen.md
+  aliases: null
+  type: place
+- name: Brightroot Apartments
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Brightroot
+    Apartments.md
+  aliases:
+  - Apartments
+  - Brightroot
+  - The Apartments
+  type: place
+- name: Cathedral
+  path: content/Places/Continents/Jealeon/Regions/Aeremore/Buildings/Cathedral.md
+  aliases:
+  - Cathedral of Shallandra
+  type: place
+- name: Cloudbrow Farm & Barn
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Cloudbrow
+    Farm & Barn.md
+  aliases:
+  - Barn
+  - Cloudbrow
+  - Cloudbrow Barn
+  - Cloudbrow Farm
+  - Narchis's Farm
+  - The Farm
+  type: place
+- name: East Meashelles
+  path: content/Places/Continents/Jealeon/Regions/East Meashelles.md
+  aliases:
+  - East
+  - Meashelles
+  type: place
+- name: Greyson Tools
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Greyson
+    Tools.md
+  aliases:
+  - Bertrum's Shop
+  - Blacksmith
+  - Greyson
+  - Tools
+  type: place
+- name: Inner Osterford
+  path: content/Places/Continents/Jealeon/Regions/Aeremore/Inner Osterford.md
+  aliases:
+  - Inner
+  - Osterford
+  type: place
+- name: Kespice
+  path: content/Places/Continents/Jealeon/Regions/Kespice.md
+  aliases: null
+  type: place
+- name: Loshium
+  path: content/Places/Continents/Jealeon/Regions/Loshium.md
+  aliases: null
+  type: place
+- name: Lumbadar
+  path: content/Places/Moons/Lumbadar.md
+  aliases: null
+  type: place
+- name: Magleth Manor
+  path: content/Places/Continents/Jealeon/Regions/Aeremore/Buildings/Magleth Manor.md
+  aliases:
+  - Magleth
+  - Manor
+  type: place
+- name: Mallone Ulaxidor's Home
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Mallone
+    Ulaxidor's Home.md
+  aliases:
+  - Home
+  - Lawmaster's House
+  - Mallone
+  - Mallone's House
+  type: place
+- name: Mellow Lodge Diner
+  path: content/Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Mellow
+    Lodge Diner.md
+  aliases:
+  - Diner
+  - Mellow
+  type: place
+- name: Naantaar
+  path: content/Places/Moons/Naantaar.md
+  aliases: null
+  type: place
+- name: Oreon
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Oreon.md
+  aliases:
+  - Oreon
+  type: place
+- name: Outer Osterford
+  path: content/Places/Continents/Jealeon/Regions/Aeremore/Outer Osterford.md
+  aliases:
+  - Osterford
+  - Outer
+  type: place
+- name: Pashae Institute
+  path: content/Places/Continents/Jealeon/Regions/Aeremore/Buildings/Pashae Institute.md
+  aliases:
+  - Institute
+  - Pashae
+  type: place
+- name: Rantis
+  path: content/Places/Moons/Rantis.md
+  aliases: null
+  type: place
+- name: Spuaburg
+  path: content/Places/Continents/Jealeon/Regions/Spuaburg.md
+  aliases: null
+  type: place
+- name: Tallbloom Stables
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/Tallbloom
+    Stables.md
+  aliases:
+  - Saria's Stables
+  - Stables
+  - Tallbloom
+  - The Stables
+  type: place
+- name: The Empty Apple Tavern
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cirrubi/Buildings/The
+    Empty Apple Tavern.md
+  aliases:
+  - Tavern
+  - The
+  type: place
+- name: The Owlbear Cub Tavern
+  path: content/Places/Continents/Jealeon/Regions/Aswesh/Towns/Cerbereburn/Buildings/The
+    Owlbear Cub Tavern.md
+  aliases:
+  - Tavern
+  - The
+  - The Tavern
+  type: place
+- name: West Meashelles
+  path: content/Places/Continents/Jealeon/Regions/West Meashelles.md
+  aliases:
+  - Meashelles
+  - West
+  type: place
+- name: Worthless Skunk Pub
+  path: content/Places/Continents/Jealeon/Regions/Aeremore/Towns/Cirrubi/Buildings/Worthless
+    Skunk Pub.md
+  aliases:
+  - Pub
+  - Worthless
+  type: place
