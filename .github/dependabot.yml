@@ -1,7 +1,8 @@
 version: 2
-# Each ecosystem gets one patch/minor group and one major group, so Dependabot
-# opens at most two PRs per ecosystem a week. When a major breaks the build,
-# add an ignore for it instead of leaving the major group red.
+# Each ecosystem gets one patch/minor group and one major group (npm majors
+# are ignored, see below), so Dependabot opens at most two PRs per ecosystem
+# a week. When a major breaks the build, add an ignore for it instead of
+# leaving the major group red.
 updates:
   - package-ecosystem: npm
     directory: /
@@ -15,15 +16,13 @@ updates:
         update-types:
           - patch
           - minor
-      npm-major:
-        patterns:
-          - "*"
-        update-types:
-          - major
     ignore:
-      # TypeScript 7 removed `moduleResolution: node`, which the Quartz
-      # upstream tsconfig.json uses (closed #38). Move with Quartz upstream.
-      - dependency-name: typescript
+      # The code here is Quartz upstream's, so npm majors move with a Quartz
+      # upstream sync, not one by one. Majors keep breaking its build: the
+      # first weekly major group (#76) failed `npx quartz build` on js-yaml 5
+      # (no default export), and TypeScript 7 removed the
+      # `moduleResolution: node` that Quartz's tsconfig.json uses (#38).
+      - dependency-name: "*"
         update-types:
           - version-update:semver-major
 
