@@ -1,29 +1,63 @@
 name: Dependabot auto-merge
 
+# Merges eligible Dependabot PRs only after they build and test green.
+#
+# This repo has no CI of its own: ci.yaml and build-preview.yaml only run in
+# jackyzha0/quartz, and v4 has no branch protection. The old
+# version of this workflow ran `gh pr merge --auto`, which therefore merged
+# at once, red or green. The gate here is the two checks that pass on v4
+# today: `npm test` and the `npx quartz build` that deploy.yml runs.
+# `npm run check` is left out because `tsc --noEmit` already fails on v4.
+
 on:
-  pull_request_target:
-    types: [opened, synchronize, reopened]
+  pull_request:
+    branches: [v4]
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 concurrency:
   group: dependabot-auto-merge-${{ github.event.pull_request.number }}
   cancel-in-progress: true
 
 jobs:
-  auto-merge:
+  build:
+    name: Build and test
     if: github.event.pull_request.user.login == 'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Test
+        run: npm test
+
+      - name: Build site
+        run: npx quartz build
+
+  merge:
+    name: Dependabot merge
+    needs: [build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
       - name: Fetch Dependabot metadata
         id: metadata
-        uses: dependabot/fetch-metadata@21025c705c08248db411dc16f3619e6b5f9ea21a # v2
+        uses: dependabot/fetch-metadata@25dd0e34f4fe68f24cc83900b1fe3fe149efef98 # v3.1.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Enable auto-merge for eligible updates
+      # Patch/minor groups merge; majors wait for review unless they only
+      # touch dev dependencies. Docker base images always wait for review.
+      - name: Merge eligible updates
         if: >-
           steps.metadata.outputs.package-ecosystem != 'docker' &&
           (
@@ -37,4 +71,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
-        run: gh pr merge "$PR_URL" --auto --squash --delete-branch
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        # --match-head-commit refuses the merge if the branch moved after the build.
+        run: gh pr merge "$PR_URL" --squash --delete-branch --match-head-commit "$HEAD_SHA"
